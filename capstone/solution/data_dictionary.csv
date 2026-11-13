@@ -1,0 +1,25 @@
+table,column,type,nullable,description,source,rule
+fact_visit,visit_id,string,N,Turnstile visit identifier. Grain: one row per valid visit,visits.visit_id,Unique after exact-duplicate removal
+fact_visit,date_key,int,N,Visit date as yyyymmdd; joins to dim_date,visits.entry_ts,"date_format(entry_ts, yyyyMMdd)"
+fact_visit,member_id,string,N,Member who visited; joins to dim_member,visits.card_number,"'M' + card number as 5-digit zero-padded int; test card 9999999 excluded"
+fact_visit,centre_code,string,N,Centre visited; joins to dim_centre,visits.centre,Centre name matched to centres.centre_name ignoring case and surrounding spaces
+fact_visit,activity,string,N,Activity recorded at the turnstile,visits.activity,One of Swim / Gym / Class
+fact_visit,entry_ts,timestamp,N,Entry time (UTC),visits.entry_ts,
+fact_visit,entry_hour,int,N,Hour of entry 0-23 for time-of-day analysis,visits.entry_ts,hour(entry_ts)
+fact_visit,duration_min,int,N,Minutes between entry and exit,visits.entry_ts; visits.exit_ts,Always > 0 (exit must be after entry)
+dim_member,member_id,string,N,Member identifier (natural key),members.member_id,One row per member: latest updated_at version kept
+dim_member,membership_type,string,N,Standard / Concession / Junior / Unknown,members.membership_type,Missing values set to 'Unknown' (warning logged)
+dim_member,age_band,string,N,Age band at 2026-01-01,members.birth_year,"Under 16 / 16-24 / 25-44 / 45-64 / 65+"
+dim_member,home_district,string,Y,Postcode district of home address (no full postcode held),members.home_district,
+dim_member,home_centre_code,string,Y,Member's registered home centre,members.home_centre_code,Trimmed and upper-cased
+dim_member,joined_date,date,Y,Date membership started,members.joined_date,
+dim_centre,centre_code,string,N,Leisure centre code (natural key),centres.centre_code,
+dim_centre,centre_name,string,N,Leisure centre name,centres.centre_name,
+dim_centre,local_authority,string,N,Local authority the centre is in,centres.local_authority,
+dim_centre,opened_date,date,Y,Date the centre opened,centres.opened_date,
+dim_date,date_key,int,N,yyyymmdd (key),generated,One row per day 2026-01-01 to 2026-03-31
+dim_date,date,date,N,Calendar date,generated,
+dim_date,year_month,string,N,yyyy-MM,generated,
+dim_date,day_name,string,N,Monday..Sunday,generated,
+dim_date,is_weekend,boolean,N,True for Saturday and Sunday,generated,
+quarantine_visits,reject_reason,string,N,Why the visit was not loaded (first failing rule). Other columns: as standardised visits,pipeline,test_card / unknown_member / unknown_centre / missing_timestamp / exit_not_after_entry / unknown_activity

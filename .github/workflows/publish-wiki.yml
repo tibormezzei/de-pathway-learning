@@ -1,0 +1,58 @@
+name: Publish Wiki
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'sessions/*/slides.md'
+      - 'CURRICULUM.md'
+      - 'tools/build_wiki.py'
+      - 'wiki/**'
+  pull_request:
+    paths:
+      - 'sessions/*/slides.md'
+      - 'CURRICULUM.md'
+      - 'tools/build_wiki.py'
+      - 'wiki/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    # On PRs: fail if someone changed the slides without regenerating wiki/.
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Check wiki/ is up to date
+        run: python tools/build_wiki.py --check
+
+  publish:
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      # Build from the slides so the wiki can't drift, even if wiki/ wasn't regenerated.
+      - name: Build wiki pages
+        run: python tools/build_wiki.py
+
+      - name: Push wiki pages
+        run: |
+          git clone https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.wiki.git wiki-repo
+          find wiki-repo -maxdepth 1 -name "*.md" -delete
+          cp wiki/*.md wiki-repo/
+          cd wiki-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Sync wiki from session slides [skip ci]"
+          git push

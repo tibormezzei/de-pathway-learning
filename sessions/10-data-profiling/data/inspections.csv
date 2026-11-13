@@ -1,0 +1,1213 @@
+establishment_id,business_name,business_type,address_postcode,local_authority,rating_value,rating_date,hygiene_score,structural_score,confidence_score,scheme_type,fax_number,latitude,longitude
+101190,Harbour Express,Takeaway/sandwich shop,CF5 4FX,Cardiff,5,2022-03-21,10,15,5,FHRS,,51.54207,-3.248845
+100424,Corner Express,School/college/university,,Bristol,Exempt,1900-01-01,,,,FHRS,,51.632669,-2.664858
+100128,Old Cafe,Retailers - other,CF25 2TB,Cardiff,5,2022-10-25,10,5,20,FHRS,,51.331671,-2.761385
+100194,Corner Kitchen,Retailers - other,cf211yd,Cardiff,5,2023-09-19,5,5,5,FHRS,01938253589,51.345201,-2.715843
+100344,Village Bakery,Takeaway/sandwich shop,BS7 2SD,Bristol,4,2024-08-11,15,15,10,FHRS,,,-2.308781
+100502,Green Bakery,Hotel/B&B,SA21 7DX,Swansea,0,2021-03-07,10,10,0,FHRS,,51.532261,-3.027248
+100715,Royal Express,Takeaway/sandwich shop,BS2 4PR,Bristol,5,2022-04-16,15,10,10,FHRS,,51.533457,-2.678864
+100580,Harbour Express,Retailers - other,SA14 9QX,Swansea,5,2023-08-11,0,15,10,FHRS,,,-3.050205
+100205,Village Kitchen,Retailers - other,SA6 6YU,Swansea,5,2021-04-07,0,15,10,FHRS,,51.695328,-2.713562
+100046,Old Bakery,Restaurant/Cafe/Canteen,SA30 9YE,Swansea,4,2025-10-27,20,10,0,FHRS,,51.450243,-3.290687
+100002,Station Bakery,Takeaway/sandwich shop,BS15 4TZ,Bristol,5,2024-11-05,5,5,5,FHRS,,51.446458,-2.985636
+100466,Royal Bakery,Takeaway/sandwich shop,BS15 5FD,Bristol,4,2023-11-17,20,15,10,FHRS,,51.657237,-3.202654
+100163,Green Cafe,Takeaway/sandwich shop,,Swansea,4,2022-08-06,15,15,0,FHRS,,51.633742,-2.588769
+100037,Corner Stores,Takeaway/sandwich shop,BS21 9AZ,Bristol,5,2025-06-19,20,10,10,FHRS,,51.532939,-3.124539
+101077,Happy Stores,Restaurant/Cafe/Canteen,NP16 5AJ,Newport City Council,4,2021-02-06,5,5,10,FHRS,,51.349492,-2.611085
+100533,New Bakery,Mobile caterer,BS29 3AT,Bristol,5,2024-12-11,5,0,0,FHRS,,51.500778,-2.867797
+100768,Harbour Diner,Takeaway/sandwich shop,BA20 7TE,BANES,AwaitingInspection,1900-01-01,,,,FHRS,,,-2.946056
+100852,Golden Deli,Mobile caterer,CF6 2PZ,Cardiff,5,2022-10-02,5,15,5,FHRS,,51.309601,-2.945541
+100312,Old Inn,Retailers - other,,Bristol,2,2021-09-26,15,0,10,FHRS,,,-2.760925
+100341,Golden Stores,Restaurant/Cafe/Canteen,CF29 2PX,Cardiff,4,2023-05-26,20,0,0,FHRS,,51.486014,-3.280645
+100826,Station Deli,Takeaway/sandwich shop,cf88yu,Cardiff,3,2022-02-11,10,5,0,FHRS,,51.4187,-2.76132
+101196,Village Cafe,Takeaway/sandwich shop,CF26 3GP,Cardiff,5,2022-07-03,0,10,0,FHRS,,51.338526,-3.213872
+101075,New Inn,Retailers - other,CF9 9DJ,Cardiff,5,2024-05-09,10,15,0,FHRS,,51.497638,-2.965656
+100507,Old Diner,Takeaway/sandwich shop,BS17 1ZZ,Bristol,5,2024-11-22,20,10,5,FHRS,,51.573707,-2.339959
+100561,Royal Bakery,School/college/university,SA5 1LS,Swansea,AwaitingInspection,1900-01-01,,,,FHRS,,51.482983,-2.627183
+101157,New Kitchen,Pub/bar/nightclub,cf199pb,Cardiff,5,2021-02-19,0,5,5,FHRS,,51.46855,-2.637028
+100812,Station Express,Restaurant/Cafe/Canteen,BS27 1TS,Bristol,AwaitingInspection,,,,,FHRS,,51.3182,-2.844987
+101078,Harbour Inn,School/college/university,BS15 5GJ,Bristol,5,2022-03-31,10,10,10,FHRS,,51.633832,-2.741147
+100348,Village Deli,Pub/bar/nightclub,bs233ph,Bristol,5,2023-08-02,20,0,0,FHRS,,51.490754,-2.749145
+100033,Golden Bakery,Takeaway/sandwich shop,SA21 4EW,Swansea,5,2021-02-05,10,10,10,FHRS,,51.579171,-3.005333
+100595,Royal Inn,Retailers - other,CF7 2EW,Cardiff,5,2025-11-27,15,15,5,FHRS,,51.565068,-3.165613
+100599,Old Inn,Takeaway/sandwich shop,BS30 8ZW,Bristol,Exempt,,,,,FHRS,,51.626753,-2.885789
+100827,Happy Bakery,Restaurant/Cafe/Canteen,SA26 9GN,Swansea,5,2024-07-13,0,5,10,FHRS,,51.52566,
+100644,Golden Kitchen,Restaurant/Cafe/Canteen,SA14 4XS,Swansea,5,2022-10-13,0,15,10,FHRS,,51.410786,-2.541425
+100763,Old Express,Retailers - other,bs195ra,Bristol,AwaitingInspection,,,,,FHRS,,51.347141,-3.170621
+100947,Royal Inn,Pub/bar/nightclub,NP20 2SL,Newport,4,2021-07-13,10,0,5,FHRS,,51.327966,-2.918149
+100097,New Cafe,Pub/bar/nightclub,BS19 7PG,Bristol,5,2025-11-19,20,5,10,FHRS,,51.459109,-2.531389
+100066,Green Diner,School/college/university,sa14gh,Swansea,1,2022-08-21,10,15,0,FHRS,,51.646011,-2.31199
+101135,Golden Kitchen,Restaurant/Cafe/Canteen,SA30 3FE,Swansea,4,2025-01-07,5,10,0,FHRS,,51.324122,-3.105302
+101087,Corner Express,Takeaway/sandwich shop,CF17 4UY,Cardiff,5,2021-06-13,5,0,0,FHRS,,51.313797,
+100703,Golden Deli,Pub/bar/nightclub,SA16 4WX,Swansea,5,2024-07-03,20,0,10,FHRS,,,-2.368183
+100083,Harbour Diner,Hotel/B&B,BS10 1SY,Bristol,5,2025-05-31,15,0,0,FHRS,,51.679321,-2.640503
+100151,Old Diner,Takeaway/sandwich shop,cf275gf,Cardiff,2,2021-09-30,15,0,0,FHRS,,51.449649,-2.788869
+101195,Corner Stores,Retailers - other,CF26 2BE,Cardiff,2,2022-09-22,5,15,10,FHRS,,51.65854,-2.793506
+100188,Golden Diner,Retailers - other,BA15 5WE,BANES,4,2021-08-05,0,5,0,FHRS,,51.383981,-2.768896
+100495,Royal Deli,Takeaway/sandwich shop,SA23 5ZY,Swansea,3,2024-10-28,15,0,5,FHRS,,51.44962,-2.526937
+100470,Happy Bistro,Retailers - other,SA3 2FJ,Swansea,4,2022-10-08,20,5,10,FHRS,,51.663755,-2.75035
+100992,Golden Bistro,Hotel/B&B,SA8 9TH,Swansea,5,2024-04-17,15,15,20,FHRS,,51.425377,-2.420763
+100249,Happy Cafe,Restaurant/Cafe/Canteen,SA21 8YG,Swansea,5,2024-06-24,20,5,20,FHRS,,51.307441,-2.926564
+101046,Village Express,School/college/university,SA15 1ET,Swansea,4,2024-01-09,5,15,5,FHRS,,51.684316,-2.74141
+100980,Village Grill,School/college/university,CF14 7WD,Cardiff,5,2025-02-24,15,10,10,FHRS,,51.677302,-3.192669
+100386,Old Cafe,Retailers - other,SA10 9AR,Swansea,5,2024-01-16,5,15,5,FHRS,,51.477068,-2.931107
+100293,Station Cafe,Restaurant/Cafe/Canteen,CF2 3WY,Cardiff,4,2024-11-18,20,0,20,FHRS,,51.452033,-2.851645
+100049,New Bistro,Restaurant/Cafe/Canteen,np132fu,NEWPORT,4,2025-11-20,5,15,20,FHRS,,51.490653,
+100500,New Deli,Restaurant/Cafe/Canteen,CF24 6AB,Cardiff,4,2021-05-28,15,10,5,FHRS,,51.690983,-2.595684
+100517,Happy Bistro,Takeaway/sandwich shop,NP17 1TT,NEWPORT,5,2023-04-03,20,10,5,FHRS,01575850447,51.317701,-3.073086
+100324,Harbour Deli,Pub/bar/nightclub,BS3 3SY,Bristol,5,2022-04-03,20,15,10,FHRS,,51.494629,-3.070558
+100059,Golden Express,Takeaway/sandwich shop,np73hd,Newport,5,2024-01-11,20,10,10,FHRS,,51.673592,-3.250337
+100197,Royal Bistro,Hotel/B&B,CF2 5DN,Cardiff,3,2023-09-24,5,15,0,FHRS,,51.613155,-3.239492
+100733,Happy Bakery,Restaurant/Cafe/Canteen,CF5 6BG,Cardiff,5,2022-03-10,0,5,20,FHRS,,51.644884,
+100788,Station Cafe,Takeaway/sandwich shop,CF29 7TY,Cardiff,5,2025-01-30,5,15,0,FHRS,,51.313578,-2.716638
+100116,Station Diner,Restaurant/Cafe/Canteen,BS2 7TF,Bristol,5,2025-04-07,10,5,5,FHRS,,51.43909,-2.428783
+101136,Old Inn,Retailers - other,BS16 9JR,Bristol,5,2021-01-05,20,15,0,FHRS,,51.450822,-2.87386
+100771,Green Bistro,Restaurant/Cafe/Canteen,cf21fe,Cardiff,5,2021-02-22,20,5,10,FHRS,,51.470691,-3.037
+100554,Green Bistro,Retailers - other,SA17 9UW,Swansea,3,2024-07-22,5,15,10,FHRS,,51.608417,-3.211326
+100191,Happy Bakery,Hotel/B&B,BS8 2JP,Bristol,3,2023-03-26,20,5,10,FHRS,,0.0,0.0
+100274,Happy Deli,Retailers - other,CF25 3PP,Cardiff,5,2024-05-01,0,15,10,FHRS,,51.62408,-2.863609
+100291,Corner Cafe,Takeaway/sandwich shop,BS22 3AW,Bristol,2,2025-04-15,5,10,5,FHRS,,51.559304,-2.453943
+100259,Happy Stores,Restaurant/Cafe/Canteen,BS20 4ZN,Bristol,5,2022-06-02,20,0,20,FHRS,,51.537446,-2.363853
+100488,Royal Kitchen,Takeaway/sandwich shop,SA14 9WB,Swansea,5,2023-06-27,5,0,0,FHRS,,51.334184,-2.997437
+100742,New Inn,Takeaway/sandwich shop,CF15 8UA,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.590284,-3.192051
+100446,Green Kitchen,Restaurant/Cafe/Canteen,CF23 6YB,Cardiff,3,2023-02-15,15,0,10,FHRS,,51.308784,-2.624229
+100642,Corner Grill,Restaurant/Cafe/Canteen,CF9 1JF,Cardiff,2,2024-10-29,5,15,0,FHRS,,51.39123,-2.963246
+100944,Old Stores,School/college/university,CF3 3JH,Cardiff,3,2025-08-23,15,5,5,FHRS,,51.65871,-2.47001
+100556,Golden Inn,Retailers - other,NP25 8EU,Newport City Council,5,2022-07-07,10,10,20,FHRS,,51.506456,-2.839618
+100651,Happy Bakery,Retailers - other,cf99bw,Cardiff,4,2023-12-18,5,5,5,FHRS,,51.352978,-3.029193
+100389,Green Kitchen,Hotel/B&B,SA14 3TU,Swansea,4,2023-11-04,15,0,0,FHRS,,51.303952,-2.839109
+100132,Golden Grill,Takeaway/sandwich shop,NP11 7SH,Newport,5,2022-10-06,20,0,5,FHRS,,51.663195,-2.743971
+100264,Royal Bistro,Pub/bar/nightclub,BS30 8ZZ,Bristol,1,2021-05-30,5,15,0,FHRS,,51.52068,-2.335641
+101045,New Deli,Restaurant/Cafe/Canteen,CF29 9RH,Cardiff,3,2024-01-15,5,0,10,FHRS,,51.474767,-2.559772
+100124,Golden Grill,Restaurant/Cafe/Canteen,SA30 4LW,Swansea,5,2023-09-22,15,5,20,FHRS,,51.37456,-2.730793
+100694,Harbour Stores,Takeaway/sandwich shop,BS9 1DD,Bristol,5,2024-02-17,15,15,0,FHRS,,51.383537,-2.82756
+100764,Golden Deli,Retailers - other,BA12 1SX,BANES,5,2024-08-20,20,10,5,FHRS,,51.483646,
+100121,Royal Diner,Pub/bar/nightclub,CF9 5AX,Cardiff,5,2023-02-15,15,0,0,FHRS,,51.468879,-2.319768
+100904,Station Deli,Takeaway/sandwich shop,BS21 5ZJ,Bristol,5,2023-07-21,0,10,10,FHRS,,51.414278,-2.898676
+100816,Village Express,Takeaway/sandwich shop,BS7 7AH,Bristol,5,2024-06-09,5,10,0,FHRS,,51.364034,-2.843791
+100828,New Bakery,Restaurant/Cafe/Canteen,BS29 8DR,Bristol,4,2023-11-16,15,5,10,FHRS,,51.341797,-3.293998
+100382,Harbour Diner,Restaurant/Cafe/Canteen,NP15 9LP,Newport,5,2024-02-18,0,0,10,FHRS,,51.652996,-2.645831
+100209,Old Express,Takeaway/sandwich shop,NP14 6ZR,Newport City Council,4,2025-04-20,10,5,10,FHRS,,51.418579,-2.835654
+100977,Green Kitchen,Pub/bar/nightclub,cf295zs,Cardiff,4,2025-05-16,5,5,5,FHRS,,51.610357,-3.211856
+101097,Harbour Kitchen,Restaurant/Cafe/Canteen,CF13 2RU,Cardiff,5,2023-10-11,0,5,0,FHRS,01659483572,51.498394,-2.645468
+100472,Old Stores,Takeaway/sandwich shop,CF21 2YE,Cardiff,5,2023-03-29,10,15,0,FHRS,,51.463842,-2.834532
+100065,Golden Deli,Restaurant/Cafe/Canteen,NP27 5SR,NEWPORT,Exempt,1900-01-01,,,,FHRS,,51.571544,-2.902378
+100523,Golden Bakery,Restaurant/Cafe/Canteen,BS25 9AR,Bristol,5,2021-02-12,10,5,5,FHRS,,51.625621,-3.15437
+100574,Village Kitchen,Takeaway/sandwich shop,NP18 8PU,Newport,4,2023-01-10,10,5,5,FHRS,,51.629929,-2.503144
+100559,Royal Cafe,School/college/university,CF3 9XL,Cardiff,4,2023-05-30,10,5,5,FHRS,,51.581875,-2.801794
+100622,New Bistro,Takeaway/sandwich shop,SA1 9HP,Swansea,5,2023-08-02,5,0,20,FHRS,,51.3554,-2.308858
+100053,Harbour Express,School/college/university,BS30 8PA,Bristol,4,2025-01-03,10,5,10,FHRS,,51.625877,-3.016003
+100907,Corner Express,Hotel/B&B,SA19 8TA,Swansea,4,2023-01-01,0,10,20,FHRS,,51.457905,
+101021,Old Express,Takeaway/sandwich shop,BS19 2AH,Bristol,5,2024-01-05,10,5,10,FHRS,,51.352369,-2.734515
+100745,Harbour Express,Mobile caterer,CF6 9AF,Cardiff,4,2023-06-19,15,10,10,FHRS,,51.319669,-2.698636
+100707,Corner Express,Restaurant/Cafe/Canteen,NP6 8LT,Newport,4,2024-09-22,0,0,10,FHRS,,51.412651,-2.91976
+100328,Harbour Bakery,Restaurant/Cafe/Canteen,BS22 2NW,Bristol,5,2023-06-22,0,5,20,FHRS,,51.531145,-2.884911
+100994,Corner Bakery,Mobile caterer,BS22 7YF,Bristol,5,2022-08-22,15,10,0,FHRS,,51.397099,-3.158532
+100022,Station Cafe Ltd,Restaurant/Cafe/Canteen,np55lg,Newport,5,2024-07-09,5,10,0,FHRS,,51.606761,-3.012236
+100378,Station Deli,Takeaway/sandwich shop,cf91ra,Cardiff,4,2022-12-30,0,5,0,FHRS,,51.533075,-2.438159
+100527,Old Bakery,Takeaway/sandwich shop,CF16 2LL,Cardiff,5,2022-07-14,5,10,10,FHRS,,51.471298,-3.095355
+100617,Royal Bistro,Takeaway/sandwich shop,cf272du,Cardiff,5,2022-04-12,5,10,20,FHRS,,51.389149,-3.075602
+100810,Old Bakery,Pub/bar/nightclub,CF22 7TE,Cardiff,5,2024-06-04,5,10,0,FHRS,,51.620132,-2.904914
+100619,Village Deli,Hotel/B&B,NP16 5JR,Newport,5,2022-04-21,15,0,5,FHRS,,51.499194,-3.160523
+100010,Old Stores,Mobile caterer,BA15 9HL,Bath and North East Somerset,4,2025-03-19,0,5,20,FHRS,,51.648535,-3.229827
+100134,Golden Bistro,Pub/bar/nightclub,CF20 1ZT,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.317701,-2.308218
+100148,Green Kitchen,Retailers - other,BS13 5PL,Bristol,5,2023-11-07,5,15,10,FHRS,,51.530798,-2.553424
+100232,Corner Express,Restaurant/Cafe/Canteen,BS9 9WF,Bristol,5,2024-03-26,15,10,10,FHRS,,51.331776,-2.766968
+101187,Corner Cafe,Restaurant/Cafe/Canteen,NP11 9EL,NEWPORT,3,2021-10-11,20,5,10,FHRS,,51.379632,-3.109297
+100115,Golden Express,School/college/university,BS1 3LB,Bristol,4,2025-12-05,0,10,5,FHRS,,51.436854,-2.694549
+100394,Harbour Cafe,Restaurant/Cafe/Canteen,ba256hz,BANES,5,2024-10-31,15,5,10,FHRS,,51.663674,-2.973971
+100637,Green Stores,Retailers - other,BS7 6TE,Bristol,4,2021-12-02,0,15,20,FHRS,,51.440776,-2.498233
+101026,Green Stores,Restaurant/Cafe/Canteen,NP22 3DU,NEWPORT,5,2025-12-05,15,5,10,FHRS,,51.643295,-2.90439
+100859,Village Cafe,Takeaway/sandwich shop,CF9 9GW,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.61827,-2.354984
+101008,New Grill,Takeaway/sandwich shop,NP16 6EJ,Newport City Council,5,2025-01-19,20,10,5,FHRS,,51.575751,-3.148157
+100483,New Cafe,Restaurant/Cafe/Canteen,CF8 2GR,Cardiff,3,2025-02-20,0,0,20,FHRS,,51.524289,
+100229,Green Kitchen,Retailers - other,CF20 8UB,Cardiff,5,2023-05-17,0,0,0,FHRS,,51.506296,-2.852071
+100023,Old Stores,Takeaway/sandwich shop,SA29 9FB,Swansea,4,2021-01-08,5,0,5,FHRS,,51.636773,-3.273078
+100368,Harbour Diner,Restaurant/Cafe/Canteen,CF29 8BA,Cardiff,Exempt,,,,,FHRS,,51.612449,-2.492974
+100282,Harbour Grill,Restaurant/Cafe/Canteen,BA4 6YF,BANES,5,2025-05-19,5,0,10,FHRS,,51.352359,-3.247453
+100882,Station Diner,Restaurant/Cafe/Canteen,CF16 5TL,Cardiff,5,2025-01-24,20,0,20,FHRS,,51.317383,-2.371387
+100789,New Grill,School/college/university,SA24 8PY,Swansea,Exempt,1900-01-01,,,,FHRS,,51.598263,-2.866681
+100835,Golden Grill,Retailers - other,CF28 1AY,Cardiff,5,2022-10-18,5,0,0,FHRS,,51.600591,-2.65241
+100725,Station Bakery,Takeaway/sandwich shop,BS6 5HU,Bristol,5,2021-09-11,0,15,5,FHRS,,51.628955,-2.388394
+101060,Happy Bistro,Restaurant/Cafe/Canteen,BS4 4FL,Bristol,Exempt,,,,,FHRS,,,-3.282474
+100492,Village Grill,Takeaway/sandwich shop,BS24 2ZF,Bristol,5,2022-09-09,5,10,0,FHRS,,51.544171,-3.178001
+100396,Station Stores,Takeaway/sandwich shop,ba232fz,BANES,5,2025-07-08,0,5,5,FHRS,,51.444691,-2.520095
+100537,Station Kitchen,Restaurant/Cafe/Canteen,BA11 1TZ,Bath and North East Somerset,5,2025-09-11,10,5,5,FHRS,,51.54097,-2.674003
+100359,Happy Bakery,Restaurant/Cafe/Canteen,CF15 3QW,Cardiff,AwaitingInspection,,,,,FHRS,,51.581823,
+100710,Harbour Deli,Restaurant/Cafe/Canteen,sa215xs,Swansea,4,2022-11-18,10,5,5,FHRS,,51.624351,-3.247136
+101010,Royal Inn,Pub/bar/nightclub,BS18 5JD,Bristol,5,2023-04-13,5,15,10,FHRS,,51.566173,
+100575,Golden Bistro,Retailers - other,BS12 7XR,Bristol,4,2021-03-14,10,10,10,FHRS,,51.31503,-2.851944
+100055,Golden Cafe,Pub/bar/nightclub,BS1 7JD,Bristol,2,2024-09-13,15,10,0,FHRS,,51.639809,-2.503704
+100683,Harbour Cafe,Retailers - other,NP11 8DF,NEWPORT,5,2025-08-14,15,10,0,FHRS,,51.613644,-3.000045
+100494,Golden Diner,Restaurant/Cafe/Canteen,CF25 3GT,Cardiff,5,2025-09-24,20,0,10,FHRS,,51.456202,-2.419978
+100699,Golden Stores,Restaurant/Cafe/Canteen,CF7 2WQ,Cardiff,5,2023-04-14,15,0,0,FHRS,,,-2.541275
+100755,Village Express,Takeaway/sandwich shop,CF30 7UR,Cardiff,4,2025-01-22,15,5,5,FHRS,,51.464169,-2.834328
+101194,New Diner,Restaurant/Cafe/Canteen,CF18 1XG,Cardiff,5,2023-10-16,0,15,20,FHRS,,51.490489,-2.509115
+100845,Golden Kitchen,Restaurant/Cafe/Canteen,CF26 1AA,Cardiff,5,2023-09-11,15,10,20,FHRS,,,-3.041868
+100365,Corner Deli,Takeaway/sandwich shop,BS12 5GE,Bristol,AwaitingInspection,1900-01-01,,,,FHRS,,51.53352,-2.728739
+100989,Royal Diner,Restaurant/Cafe/Canteen,CF9 6EP,Cardiff,4,2022-02-16,0,0,10,FHRS,,51.447573,-3.142138
+100991,Village Express,Restaurant/Cafe/Canteen,CF24 4WR,Cardiff,5,2025-07-11,0,10,5,FHRS,,51.307294,-2.531007
+100447,New Kitchen,Retailers - other,CF18 1XN,Cardiff,4,2022-06-01,20,5,5,FHRS,,51.615533,-2.334522
+100846,New Stores,School/college/university,BS10 6LS,Bristol,5,2024-05-04,20,15,10,FHRS,,51.633156,-3.033625
+100958,New Stores,Takeaway/sandwich shop,CF9 3AT,Cardiff,5,2023-08-20,20,15,10,FHRS,,51.549383,-2.326528
+100920,Royal Bistro,Retailers - other,NP8 4QW,NEWPORT,5,2023-02-04,20,10,20,FHRS,,51.515803,-2.887238
+100970,Green Inn,Restaurant/Cafe/Canteen,SA9 6EL,Swansea,Exempt,,,,,FHRS,,51.534732,-3.228628
+100162,Station Stores,Takeaway/sandwich shop,NP30 9ZZ,Newport,5,2022-09-10,20,10,10,FHRS,,51.493208,-2.577032
+100849,Harbour Stores,Pub/bar/nightclub,BS25 9TZ,Bristol,3,2023-05-10,5,10,10,FHRS,,51.654137,-2.656273
+100322,Corner Deli,Restaurant/Cafe/Canteen,BA26 3ET,BANES,5,2024-08-30,10,0,20,FHRS,01870330803,51.531534,-3.287714
+100077,Happy Bistro,Pub/bar/nightclub,CF13 9QT,Cardiff,5,2024-01-25,20,10,20,FHRS,,51.435414,-2.351457
+101052,Corner Cafe,Takeaway/sandwich shop,SA6 2NL,Swansea,4,2024-06-01,20,0,10,FHRS,,,-2.731047
+100549,Happy Bistro,Restaurant/Cafe/Canteen,BS24 6ZW,Bristol,5,2024-06-19,0,0,5,FHRS,,51.502413,-3.038106
+101016,Station Bistro,Restaurant/Cafe/Canteen,BA15 3ZP,Bath and North East Somerset,Exempt,,,,,FHRS,,51.323785,-3.07345
+100206,Village Grill,Pub/bar/nightclub,CF27 5SU,Cardiff,5,2023-09-20,10,10,5,FHRS,,51.444835,-3.202224
+100652,Golden Express,Restaurant/Cafe/Canteen,BA19 5QY,BANES,5,2024-12-31,10,15,5,FHRS,,51.605486,
+100543,Golden Diner,Takeaway/sandwich shop,BA12 6HA,BANES,1,2025-11-03,15,0,0,FHRS,,51.486478,-2.93327
+101131,New Kitchen,Takeaway/sandwich shop,CF4 5SL,Cardiff,5,2022-02-10,0,15,5,FHRS,,51.568381,-3.094621
+100557,Harbour Kitchen,Restaurant/Cafe/Canteen,bs144bh,Bristol,5,2025-05-11,0,15,20,FHRS,,51.384028,-2.697566
+100149,Harbour Kitchen,Mobile caterer,,Swansea,4,2025-10-24,0,5,0,FHRS,,51.512282,-3.293707
+100160,Green Stores,Retailers - other,BS23 5AZ,Bristol,5,2023-01-13,10,5,5,FHRS,,51.574481,-2.56895
+101051,Golden Deli,Restaurant/Cafe/Canteen,NP20 5BF,NEWPORT,5,2024-11-08,0,10,5,FHRS,,51.372561,-3.182644
+100864,Royal Cafe,Pub/bar/nightclub,CF1 8PX,Cardiff,4,2024-02-23,10,0,5,FHRS,,51.493323,-2.926713
+101088,Station Express,Takeaway/sandwich shop,CF30 9FL,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.377502,
+100756,New Deli,Restaurant/Cafe/Canteen,,Swansea,Exempt,1900-01-01,,,,FHRS,,51.451209,-3.256107
+100453,Happy Inn,Pub/bar/nightclub,BS2 8LL,Bristol,Exempt,,,,,FHRS,01726629757,51.646035,-2.672542
+100245,Corner Kitchen,Takeaway/sandwich shop,BS28 9SF,Bristol,5,2024-07-29,0,0,0,FHRS,,51.614675,-3.067766
+100158,Happy Grill,Pub/bar/nightclub,NP28 4DJ,Newport,5,2025-01-26,15,15,5,FHRS,,51.427988,-2.362545
+100824,Happy Bistro,Mobile caterer,CF7 1AZ,Cardiff,3,2025-06-18,10,15,10,FHRS,,51.382094,-3.184549
+101179,Station Stores,Restaurant/Cafe/Canteen,BS1 7FE,Bristol,5,2023-07-13,10,15,20,FHRS,,51.446967,-2.482046
+100228,Old Stores,School/college/university,SA7 5WY,Swansea,3,2022-04-20,10,15,10,FHRS,,51.372123,-3.201489
+100107,New Deli,Hotel/B&B,CF5 8QQ,Cardiff,5,2025-11-10,0,5,0,FHRS,,51.594708,-2.810856
+100150,Royal Inn,Mobile caterer,bs263qy,Bristol,5,2022-07-13,5,0,20,FHRS,,51.514346,-2.889237
+100918,Village Bistro,Takeaway/sandwich shop,BA13 5DX,Bath and North East Somerset,5,2023-11-29,10,0,10,FHRS,,,-2.917507
+100635,Village Grill,Restaurant/Cafe/Canteen,NP23 8NA,Newport,5,2024-05-17,10,0,20,FHRS,,51.462804,-3.215712
+101061,Royal Inn,Retailers - other,SA25 7QX,Swansea,5,2021-03-15,10,0,20,FHRS,,51.662395,
+100594,Happy Stores,Takeaway/sandwich shop,BS10 3PX,Bristol,2,2022-10-23,15,10,0,FHRS,,51.667954,-2.865404
+100693,Station Stores,Retailers - other,NP20 1YT,Newport City Council,1,2025-02-14,5,0,5,FHRS,,51.425004,-2.310005
+101150,New Express,Restaurant/Cafe/Canteen,NP27 7PQ,Newport,5,2022-04-11,0,10,0,FHRS,,51.344575,-2.473266
+100912,Corner Inn Ltd,Pub/bar/nightclub,SA10 7UJ,Swansea,5,2021-04-30,0,0,20,FHRS,,51.625103,-3.044538
+101129,Happy Inn,School/college/university,BS7 2BN,Bristol,4,2025-10-30,15,0,10,FHRS,,51.466097,
+100234,Station Express,Restaurant/Cafe/Canteen,,Swansea,5,2021-09-13,0,10,0,FHRS,,51.543758,
+101182,Royal Cafe,Takeaway/sandwich shop,CF15 3XW,Cardiff,4,2022-10-25,10,15,10,FHRS,,51.693789,-2.827906
+100196,Green Bakery,Retailers - other,SA5 9ZW,Swansea,5,2021-06-07,5,5,20,FHRS,,51.389189,-2.562263
+100953,Old Bakery,Takeaway/sandwich shop,SA25 1UT,Swansea,Exempt,,,,,FHRS,,51.317164,-3.294964
+100857,Corner Diner,Restaurant/Cafe/Canteen,CF2 4XA,Cardiff,5,2021-11-08,20,5,10,FHRS,,51.469744,-2.732808
+101035,Station Express,Restaurant/Cafe/Canteen,CF3 1QT,Cardiff,5,2022-01-18,5,0,20,FHRS,,51.618278,-2.755481
+100012,Station Stores,Takeaway/sandwich shop,SA30 3ZS,Swansea,4,2024-11-13,20,10,0,FHRS,,51.329548,-2.926017
+100067,Harbour Deli,Retailers - other,SA4 7SS,Swansea,3,2024-02-06,20,0,10,FHRS,,51.634767,-2.725493
+100806,Green Cafe,Takeaway/sandwich shop,BA7 4XJ,BANES,5,2021-01-08,20,15,10,FHRS,,51.324097,
+100825,Golden Stores,Takeaway/sandwich shop,NP27 4DF,Newport,5,2024-05-14,0,15,0,FHRS,,51.605687,-3.261425
+100352,Station Grill,School/college/university,BS28 4HU,Bristol,5,2025-09-17,15,10,20,FHRS,,,-3.245956
+101014,Green Inn,Hotel/B&B,CF13 7PR,Cardiff,1,2021-01-10,0,15,10,FHRS,,51.309772,-3.054852
+100606,Royal Bistro,Takeaway/sandwich shop,BS30 8EP,Bristol,AwaitingInspection,1900-01-01,,,,FHRS,,51.533042,-3.027547
+100087,New Express,School/college/university,NP23 8YL,NEWPORT,4,2024-08-17,10,15,20,FHRS,,51.605749,-2.87284
+100509,Old Stores,Pub/bar/nightclub,ba216nf,Bath and North East Somerset,5,2023-01-10,20,5,10,FHRS,,51.500925,-2.902598
+100265,Village Cafe,Retailers - other,SA7 6QD,Swansea,5,2024-02-16,15,10,5,FHRS,,51.314464,-3.003423
+100381,Happy Grill,Takeaway/sandwich shop,SA20 6LA,Swansea,3,2025-10-20,5,10,0,FHRS,,51.355135,-3.2894
+100308,Harbour Bistro,Pub/bar/nightclub,BS24 8HJ,Bristol,4,2024-07-12,20,5,10,FHRS,,51.5223,-2.854481
+101130,Golden Grill,Retailers - other,SA11 5JW,Swansea,5,2021-08-14,5,5,5,FHRS,,51.600604,-2.54146
+100778,Harbour Kitchen,Takeaway/sandwich shop,NP3 7JF,Newport,5,2023-11-25,20,10,20,FHRS,,51.617403,-3.241322
+100600,Corner Stores,Takeaway/sandwich shop,SA2 6YS,Swansea,5,2024-06-29,5,10,0,FHRS,,51.574923,-3.289584
+101028,Village Bakery,Restaurant/Cafe/Canteen,CF23 3TJ,Cardiff,5,2022-04-23,0,0,0,FHRS,,51.478951,
+100754,Station Diner,Restaurant/Cafe/Canteen,NP20 6NU,Newport,4,2022-01-05,10,5,20,FHRS,,51.693296,-2.767864
+100459,Green Express,Retailers - other,,Bristol,4,2024-07-19,15,5,5,FHRS,,51.492552,-2.353009
+100336,Station Kitchen,Restaurant/Cafe/Canteen,SA18 4AX,Swansea,5,2024-04-16,15,10,0,FHRS,,51.497215,-2.534456
+100333,New Inn,Takeaway/sandwich shop,BS12 3SB,Bristol,3,2022-09-26,15,10,10,FHRS,,51.688189,-2.969956
+101081,Happy Deli,Takeaway/sandwich shop,CF4 1QX,Cardiff,5,2025-08-03,15,0,5,FHRS,,51.330037,-3.113276
+100243,Royal Stores,Restaurant/Cafe/Canteen,NP17 9UX,NEWPORT,5,2024-01-16,15,15,20,FHRS,,51.413429,-2.923296
+100481,Corner Deli,Mobile caterer,BS14 4QE,Bristol,Exempt,1900-01-01,,,,FHRS,,51.601236,-2.994287
+100326,Village Cafe,Pub/bar/nightclub,CF27 4JW,Cardiff,4,2023-05-23,0,0,5,FHRS,,51.415986,-3.1239
+100388,Harbour Stores,Takeaway/sandwich shop,CF7 1RT,Cardiff,5,2021-09-11,5,10,10,FHRS,,51.597241,-3.248367
+100435,Village Bistro,Mobile caterer,SA8 5EF,Swansea,Exempt,1900-01-01,,,,FHRS,,51.56582,
+100962,Harbour Bakery,Takeaway/sandwich shop,NP10 2JD,Newport City Council,5,2022-01-05,15,0,0,FHRS,,51.468377,-3.069237
+101067,Harbour Kitchen,Takeaway/sandwich shop,BS11 1QG,Bristol,4,2022-08-04,15,0,10,FHRS,,51.59393,-2.506092
+100700,Happy Diner,Takeaway/sandwich shop,SA13 8TU,Swansea,3,2022-03-12,20,5,0,FHRS,,51.572301,
+101172,Royal Deli,Restaurant/Cafe/Canteen,SA6 1SE,Swansea,1,2025-11-03,15,10,0,FHRS,,51.653489,-2.386998
+100332,Corner Express,Takeaway/sandwich shop,sa141zp,Swansea,5,2022-08-04,20,0,0,FHRS,,51.385884,-2.729697
+101175,Royal Diner,Mobile caterer,BS1 7HN,Bristol,4,2022-04-24,10,5,0,FHRS,,51.472387,-2.969436
+100790,Corner Bakery Ltd,Restaurant/Cafe/Canteen,BS15 1YZ,Bristol,5,2022-10-20,0,5,5,FHRS,,51.413354,-2.87215
+100740,Corner Cafe,Pub/bar/nightclub,CF13 1TZ,Cardiff,5,2022-10-21,15,15,10,FHRS,,51.403581,-2.783395
+100231,Royal Inn,School/college/university,ba195zg,Bath and North East Somerset,4,2022-06-28,10,0,10,FHRS,,51.521902,-2.851699
+100094,Green Kitchen,Pub/bar/nightclub,BS13 8GR,Bristol,Exempt,1900-01-01,,,,FHRS,,51.623738,
+100138,Village Bistro,Hotel/B&B,cf273rx,Cardiff,5,2024-04-24,0,10,20,FHRS,,51.474726,-3.213389
+100122,Golden Stores,Restaurant/Cafe/Canteen,SA12 1PW,Swansea,5,2025-11-18,0,5,10,FHRS,,51.455763,-2.607145
+100937,Green Bistro,Takeaway/sandwich shop,NP19 9GX,Newport City Council,5,2023-05-15,15,10,10,FHRS,,51.410652,-2.520124
+100143,Harbour Bakery,Retailers - other,CF29 7QA,Cardiff,4,2024-06-17,5,0,10,FHRS,,51.521086,-3.092806
+100180,Station Inn,Restaurant/Cafe/Canteen,cf309bt,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.359663,-3.239543
+100448,Happy Inn,Retailers - other,SA22 9GT,Swansea,4,2021-11-24,20,15,0,FHRS,,51.534688,-3.106407
+100074,Old Bistro,Pub/bar/nightclub,,Bristol,5,2025-01-24,20,0,0,FHRS,,51.592345,-2.59833
+100524,Station Cafe,Restaurant/Cafe/Canteen,NP1 9WU,Newport City Council,5,2022-03-27,10,10,0,FHRS,,51.599778,-2.739037
+101039,Old Diner,Retailers - other,cf73nl,Cardiff,4,2025-10-11,20,10,0,FHRS,,51.532382,-2.715365
+100303,New Cafe,Hotel/B&B,BA14 7BY,BANES,5,2024-05-14,0,0,10,FHRS,,51.439438,-2.839175
+100856,Old Bakery,Takeaway/sandwich shop,NP2 7RY,NEWPORT,5,2021-05-06,0,5,5,FHRS,,51.514739,-3.110891
+100664,Royal Grill,Takeaway/sandwich shop,cf258eu,Cardiff,Exempt,1900-01-01,,,,FHRS,,,-2.785869
+100717,Corner Bakery,School/college/university,CF3 7QP,Cardiff,5,2022-05-16,0,15,0,FHRS,,51.442747,-3.117818
+100304,Happy Grill,Pub/bar/nightclub,SA20 6JH,Swansea,4,2025-11-12,0,5,5,FHRS,,51.608798,-2.976899
+100484,Green Deli,School/college/university,CF11 8FE,Cardiff,5,2024-03-26,20,5,0,FHRS,,51.54351,-2.999854
+100726,Royal Cafe,Pub/bar/nightclub,CF24 8SZ,Cardiff,Exempt,,,,,FHRS,,51.559428,
+100569,Royal Bakery,Retailers - other,CF14 7WA,Cardiff,4,2023-05-26,5,10,20,FHRS,,51.56118,-3.219767
+100331,Green Diner,Retailers - other,BS26 2QE,Bristol,Exempt,,,,,FHRS,,51.330527,-2.442187
+100323,Corner Deli,Retailers - other,SA27 1YY,Swansea,3,2024-01-14,15,15,20,FHRS,,,-2.795342
+100491,Royal Deli,Mobile caterer,CF6 4DN,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.634255,-3.033223
+100182,Village Diner,Restaurant/Cafe/Canteen,,Swansea,5,2023-01-26,15,15,5,FHRS,,51.557276,-2.503287
+100532,Station Grill,School/college/university,SA1 8UW,Swansea,5,2022-12-13,10,15,0,FHRS,,51.403995,-2.809778
+100103,Station Bistro,Restaurant/Cafe/Canteen,CF29 9UZ,Cardiff,3,2021-02-17,15,5,5,FHRS,,51.327823,-2.360563
+101019,Village Grill,Retailers - other,BS28 9GX,Bristol,5,2022-06-14,10,10,20,FHRS,,51.422378,-2.310141
+101167,Happy Express,Takeaway/sandwich shop,BA19 8RH,Bath and North East Somerset,5,2025-07-30,5,15,20,FHRS,,51.369641,-2.845207
+100808,Old Bistro,Takeaway/sandwich shop,BA22 2GS,BANES,5,2024-02-28,10,10,20,FHRS,,51.520983,-2.328779
+100902,Harbour Stores,Hotel/B&B,NP3 1RL,NEWPORT,5,2023-07-23,15,15,20,FHRS,,51.545073,-3.09984
+101109,Green Bistro,Hotel/B&B,,BANES,5,2023-03-25,5,15,10,FHRS,,,-3.096671
+101098,Harbour Express,School/college/university,BA17 8ET,BANES,5,2024-08-18,5,0,10,FHRS,,51.341547,-2.727854
+100317,Happy Express,Hotel/B&B,cf274yp,Cardiff,5,2022-04-28,15,15,10,FHRS,,,-3.039385
+100972,Harbour Kitchen,Mobile caterer,CF17 4YX,Cardiff,4,2021-03-05,5,5,5,FHRS,,51.443681,-2.364256
+101152,Village Express,Restaurant/Cafe/Canteen,BA25 7DA,Bath and North East Somerset,5,2022-06-01,5,10,20,FHRS,,51.535417,-2.728901
+100167,Green Grill,Takeaway/sandwich shop,BS27 6XR,Bristol,5,2023-09-13,10,5,10,FHRS,,51.599655,-2.956307
+100178,Green Cafe,Restaurant/Cafe/Canteen,CF20 1FQ,Cardiff,5,2021-03-31,0,0,20,FHRS,,51.328329,-2.432374
+100910,Golden Diner,Takeaway/sandwich shop,BS23 1PQ,Bristol,5,2024-08-08,10,10,5,FHRS,,51.487312,-2.576519
+100030,New Bistro,Takeaway/sandwich shop,BA29 2SE,BANES,4,2025-01-23,5,15,0,FHRS,,51.527257,-2.880389
+100417,Green Cafe,Takeaway/sandwich shop,NP2 3PX,Newport City Council,Exempt,,,,,FHRS,,51.684996,-2.304693
+100099,Station Stores,Restaurant/Cafe/Canteen,SA29 5PX,Swansea,5,2021-07-21,15,5,5,FHRS,,51.479209,-3.280422
+100809,Royal Kitchen,School/college/university,CF16 1QG,Cardiff,4,2025-10-03,15,5,5,FHRS,,51.450016,-2.426939
+100387,Happy Deli,Hotel/B&B,NP19 2AT,Newport,5,2023-02-09,0,15,20,FHRS,,51.391274,-2.453305
+100784,Royal Grill,Takeaway/sandwich shop,CF4 8PB,Cardiff,1,2025-06-24,0,10,0,FHRS,,51.621641,-2.873085
+100889,Happy Stores,Takeaway/sandwich shop,SA6 2UR,Swansea,5,2021-04-02,0,0,10,FHRS,,51.651209,-3.01836
+100086,Old Deli,Restaurant/Cafe/Canteen,CF26 9UA,Cardiff,4,2024-03-16,5,5,20,FHRS,,51.543684,-2.594047
+100692,Royal Bistro,Retailers - other,CF20 9AB,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.498612,-3.199576
+100823,Green Diner,School/college/university,,Bristol,5,2022-06-07,15,10,20,FHRS,,51.51248,-2.304734
+100969,Station Stores,Retailers - other,CF10 9ZZ,Cardiff,5,2024-02-19,0,10,20,FHRS,,51.455219,-2.962395
+101009,Golden Bistro,Takeaway/sandwich shop,SA21 4NG,Swansea,Exempt,1900-01-01,,,,FHRS,,51.411096,
+100109,Green Grill,School/college/university,,Cardiff,3,2023-11-01,15,15,20,FHRS,,51.520149,-3.187486
+100871,New Grill,Restaurant/Cafe/Canteen,CF25 7QR,Cardiff,5,2022-11-22,15,0,5,FHRS,,51.624568,-2.952189
+100306,Happy Bakery,Pub/bar/nightclub,CF25 4SE,Cardiff,5,2022-06-22,5,10,20,FHRS,,51.627991,-3.126843
+100748,Old Diner,Mobile caterer,SA20 2YE,Swansea,Exempt,,,,,FHRS,,51.659202,-2.797473
+100731,Corner Kitchen,Restaurant/Cafe/Canteen,CF23 1ZQ,Cardiff,5,2024-03-02,5,15,0,FHRS,,51.493331,-3.06727
+100305,Harbour Cafe,Restaurant/Cafe/Canteen,BS26 6DP,Bristol,5,2025-05-05,20,10,20,FHRS,,51.432679,
+100706,Old Stores,Pub/bar/nightclub,SA20 1WB,Swansea,5,2025-11-06,15,10,5,FHRS,,51.698181,-2.711596
+100284,Golden Diner,Restaurant/Cafe/Canteen,BS27 9PR,Bristol,AwaitingInspection,,,,,FHRS,01144929750,51.558287,
+101156,Royal Diner,Restaurant/Cafe/Canteen,SA18 8LH,Swansea,1,2025-11-22,10,5,10,FHRS,,51.586794,-3.068838
+100022,Station Cafe,Restaurant/Cafe/Canteen,np55lg,Newport,5,2024-07-09,5,10,0,FHRS,,51.606761,-3.012236
+100713,Corner Diner,Restaurant/Cafe/Canteen,CF15 2AL,Cardiff,3,2023-08-15,5,0,5,FHRS,,51.541905,-2.430346
+101023,Happy Express,Retailers - other,BS7 1FP,Bristol,Exempt,,,,,FHRS,,51.687115,-2.793846
+100973,New Cafe,Pub/bar/nightclub,BS9 4AR,Bristol,5,2025-10-23,0,10,10,FHRS,,51.504482,-2.756528
+100634,Harbour Express,Restaurant/Cafe/Canteen,BS19 6QR,Bristol,1,2023-06-23,15,10,10,FHRS,,51.345185,-2.694866
+100786,Happy Bakery,Takeaway/sandwich shop,SA30 4FU,Swansea,5,2023-08-05,15,0,5,FHRS,,51.369641,-2.720452
+100225,Harbour Express,Restaurant/Cafe/Canteen,BA28 1ZR,Bath and North East Somerset,5,2022-02-12,5,15,20,FHRS,,51.4105,-2.463561
+100548,Happy Kitchen,Retailers - other,SA13 9SH,Swansea,5,2022-07-31,20,0,5,FHRS,,51.383401,-2.642907
+100155,New Diner,Hotel/B&B,SA19 2XX,Swansea,3,2022-04-01,10,0,10,FHRS,,51.611002,-3.28135
+100311,Royal Express,Retailers - other,BS25 1HP,Bristol,4,2023-07-10,5,0,5,FHRS,,51.563136,-2.316657
+100101,Golden Bakery,Pub/bar/nightclub,SA1 4JA,Swansea,5,2023-08-17,20,10,0,FHRS,,51.541572,-2.938985
+100641,Royal Bistro,Restaurant/Cafe/Canteen,CF20 7GN,Cardiff,AwaitingInspection,,,,,FHRS,,51.442925,-2.884698
+101066,Golden Express,Hotel/B&B,BS25 7RN,Bristol,5,2024-12-12,15,10,5,FHRS,,51.40138,
+100903,Corner Inn,Restaurant/Cafe/Canteen,BS26 2DW,Bristol,3,2025-06-06,5,0,0,FHRS,,51.616415,-3.155619
+100210,Corner Deli,Takeaway/sandwich shop,NP12 2EE,Newport,4,2024-12-22,15,10,10,FHRS,,51.416386,-3.088629
+101044,Golden Express,Takeaway/sandwich shop,SA18 9TS,Swansea,5,2024-04-22,15,15,10,FHRS,,51.427124,-3.015277
+100372,Village Express,Restaurant/Cafe/Canteen,CF8 9PG,Cardiff,5,2025-12-04,10,10,20,FHRS,,51.321642,-3.002875
+100795,Station Diner,Restaurant/Cafe/Canteen,CF21 4RA,Cardiff,1,2023-05-01,15,10,10,FHRS,,51.694918,-3.195495
+100997,Old Cafe,Pub/bar/nightclub,BS30 9AF,Bristol,5,2022-04-23,5,10,20,FHRS,,51.562563,-2.372687
+101123,New Bakery,Takeaway/sandwich shop,CF30 5PQ,Cardiff,4,2023-06-12,15,15,20,FHRS,,51.600229,-2.670464
+100608,Harbour Kitchen,Takeaway/sandwich shop,BS20 5NB,Bristol,1,2024-01-20,0,10,5,FHRS,,51.386614,-2.54655
+101115,Royal Grill,Takeaway/sandwich shop,bs127nh,Bristol,3,2024-04-05,5,10,0,FHRS,,51.371228,-2.600697
+100357,Happy Bakery,Restaurant/Cafe/Canteen,sa138at,Swansea,4,2024-12-27,0,0,0,FHRS,,51.585698,-3.097939
+100271,Old Diner,Restaurant/Cafe/Canteen,BS6 5WZ,Bristol,5,2021-12-06,5,15,5,FHRS,,51.589032,-3.037677
+100095,Station Kitchen,Takeaway/sandwich shop,SA3 7QY,Swansea,4,2025-01-23,5,5,10,FHRS,,0.0,0.0
+100987,Golden Diner,Retailers - other,CF20 6RR,Cardiff,2,2021-05-16,5,0,0,FHRS,,51.385297,-2.418631
+100456,Old Cafe,Takeaway/sandwich shop,BA25 1JP,Bath and North East Somerset,5,2023-01-17,0,10,0,FHRS,,51.361803,-2.555171
+100177,Harbour Stores,Takeaway/sandwich shop,NP1 7ND,Newport City Council,4,2025-03-10,20,5,5,FHRS,,51.685946,-2.685786
+100139,Old Bistro,Restaurant/Cafe/Canteen,CF17 7UL,Cardiff,4,2025-04-06,5,15,5,FHRS,,51.421681,-2.366161
+101148,Royal Cafe,Takeaway/sandwich shop,SA10 3LL,Swansea,AwaitingInspection,,,,,FHRS,,51.610199,-3.234428
+100301,Corner Grill,Hotel/B&B,SA10 4TE,Swansea,2,2025-11-21,20,15,10,FHRS,,51.667829,-2.895223
+101113,Old Express,Restaurant/Cafe/Canteen,BS29 4AT,Bristol,5,2023-06-08,20,15,10,FHRS,,51.314389,-2.706811
+100029,New Kitchen,Takeaway/sandwich shop,BS14 5TG,Bristol,4,2025-05-09,15,15,0,FHRS,,51.617127,-2.768709
+101069,Village Stores,Hotel/B&B,SA28 1GW,Swansea,4,2022-11-21,15,0,5,FHRS,,51.506269,-2.466968
+100510,Station Stores,Retailers - other,np163gp,NEWPORT,5,2024-07-23,5,0,5,FHRS,,51.386713,-3.225489
+101057,Station Inn,Restaurant/Cafe/Canteen,BA24 5YT,Bath and North East Somerset,5,2024-11-07,10,15,10,FHRS,,51.424961,-2.333546
+100399,Golden Cafe,Restaurant/Cafe/Canteen,SA25 2UQ,Swansea,5,2025-03-17,20,5,0,FHRS,,51.325433,-3.254086
+100294,Royal Stores,Restaurant/Cafe/Canteen,CF15 7XE,Cardiff,3,2025-04-23,0,10,10,FHRS,,,-3.07731
+100157,Station Grill,Retailers - other,SA3 6FY,Swansea,5,2021-02-09,20,5,10,FHRS,,51.606698,
+101022,Old Kitchen,Retailers - other,SA11 7EY,Swansea,4,2025-09-27,0,15,5,FHRS,,51.67269,
+100862,Green Inn,Retailers - other,SA21 6UH,Swansea,4,2023-03-01,15,10,0,FHRS,,51.411414,-2.924865
+101162,Royal Grill,Restaurant/Cafe/Canteen,NP5 8XF,Newport City Council,5,2025-11-10,20,10,5,FHRS,,51.364093,-2.806855
+100078,Green Bakery,Restaurant/Cafe/Canteen,sa302np,Swansea,2,2021-10-13,15,15,0,FHRS,,51.601271,-2.662806
+100070,Village Kitchen,Retailers - other,BS19 5FW,Bristol,3,2024-01-19,5,5,5,FHRS,,51.431539,-2.956803
+100618,Royal Bistro,Takeaway/sandwich shop,CF18 1LG,Cardiff,5,2022-02-17,5,5,5,FHRS,,51.398962,-2.903066
+100654,Old Grill,Takeaway/sandwich shop,NP19 6TU,NEWPORT,5,2023-12-05,5,15,20,FHRS,,51.691785,-2.977553
+100450,Corner Diner,Restaurant/Cafe/Canteen,NP5 9GW,NEWPORT,5,2022-08-11,15,15,5,FHRS,,51.68749,-3.257287
+100487,Old Diner,Takeaway/sandwich shop,CF9 7LT,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.570224,-2.792039
+100868,Old Deli,Takeaway/sandwich shop,bs148eq,Bristol,5,2031-04-17,15,5,10,FHRS,,51.545504,-2.970079
+100682,Green Inn,Mobile caterer,CF3 6PR,Cardiff,4,2023-11-09,15,5,20,FHRS,,51.363624,-2.391758
+100056,Harbour Grill,Restaurant/Cafe/Canteen,SA3 6ZE,Swansea,Exempt,,,,,FHRS,,51.563879,-3.006159
+100246,Corner Grill,Retailers - other,BS15 9FX,Bristol,3,2022-12-31,0,10,10,FHRS,,51.584654,-2.705304
+101073,Royal Diner,Pub/bar/nightclub,BA15 6LU,Bath and North East Somerset,5,2022-06-06,10,10,0,FHRS,,51.433673,-2.492744
+100001,Village Bistro,Takeaway/sandwich shop,SA27 5GB,Swansea,5,2024-03-29,0,5,10,FHRS,,51.541276,-3.016382
+101142,Happy Express,Pub/bar/nightclub,NP30 2XJ,Newport,5,2025-08-13,15,10,5,FHRS,,51.330241,-2.315932
+100703,Golden Deli Ltd,Pub/bar/nightclub,SA16 4WX,Swansea,5,2024-07-03,20,0,10,FHRS,,,-2.368183
+100237,Village Express,Restaurant/Cafe/Canteen,BA9 7DQ,BANES,5,2025-05-17,0,10,0,FHRS,,51.671222,-3.062785
+100239,Royal Grill,Restaurant/Cafe/Canteen,BS14 1SH,Bristol,3,2023-04-27,0,15,10,FHRS,,51.396812,-2.519017
+101027,Village Kitchen,Restaurant/Cafe/Canteen,CF2 2LT,Cardiff,4,2021-06-20,15,0,5,FHRS,,51.345014,-2.959333
+100236,Harbour Inn,Restaurant/Cafe/Canteen,NP20 7GF,Newport,3,2021-06-13,10,5,0,FHRS,,51.319101,-2.785215
+100899,Harbour Cafe,Takeaway/sandwich shop,BA6 6YQ,BANES,5,2025-10-17,20,5,10,FHRS,,51.408847,-3.278088
+100035,Corner Stores,Restaurant/Cafe/Canteen,BS8 4YD,Bristol,5,2023-09-17,20,10,20,FHRS,,51.663802,-2.319376
+100465,Golden Deli,Takeaway/sandwich shop,BS4 1DP,Bristol,5,2025-05-14,15,0,20,FHRS,,51.472387,-2.785678
+100096,Station Express,Pub/bar/nightclub,CF24 5US,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.56684,-2.89846
+100971,Green Deli,Restaurant/Cafe/Canteen,BA5 5WW,Bath and North East Somerset,Exempt,,,,,FHRS,,51.324406,-2.672697
+100716,Golden Deli,Takeaway/sandwich shop,sa284wx,Swansea,3,2025-04-20,0,10,0,FHRS,,51.39079,-2.609874
+100130,New Deli,Retailers - other,CF29 2SN,Cardiff,2,2025-04-06,5,15,10,FHRS,,51.471876,-3.072193
+100440,Old Express,Takeaway/sandwich shop,NP16 6HL,Newport City Council,3,2022-07-17,10,0,10,FHRS,,,
+100042,Happy Bakery,Takeaway/sandwich shop,BA2 1YG,Bath and North East Somerset,5,2022-07-02,0,10,10,FHRS,,51.423144,-3.227946
+100152,Golden Inn,Takeaway/sandwich shop,,Swansea,5,2022-05-04,10,0,5,FHRS,,51.537916,
+100576,New Diner,Restaurant/Cafe/Canteen,CF18 2ZU,Cardiff,Exempt,,,,,FHRS,,51.424773,-2.329425
+100364,Old Bakery,School/college/university,CF13 4HD,Cardiff,3,2024-06-21,0,5,10,FHRS,,51.366772,-2.99777
+100106,Royal Inn,Restaurant/Cafe/Canteen,CF26 5EG,Cardiff,5,2025-01-24,20,0,5,FHRS,,51.386451,-3.161584
+100813,Golden Stores,Retailers - other,BA1 6ZR,Bath and North East Somerset,5,2025-06-08,5,15,10,FHRS,,51.328104,
+100034,Village Stores,Takeaway/sandwich shop,CF16 6DG,Cardiff,3,2025-01-20,10,5,0,FHRS,,51.589776,
+100093,Green Grill,Retailers - other,BS24 2QH,Bristol,Exempt,1900-01-01,,,,FHRS,,51.503709,-2.474005
+100695,Corner Kitchen,Retailers - other,NP7 3QN,Newport City Council,5,2021-07-03,15,5,20,FHRS,,51.363555,-3.122722
+100504,Royal Diner,Mobile caterer,cf154nf,Cardiff,4,2022-05-03,10,0,5,FHRS,,51.570488,-2.385885
+100545,Corner Express,Takeaway/sandwich shop,CF3 2UZ,Cardiff,Exempt,,,,,FHRS,,51.368742,-3.264762
+100578,Corner Bakery,Retailers - other,BA4 4UR,BANES,3,2025-02-05,10,5,10,FHRS,01637626208,,-2.752606
+100410,Happy Cafe,Takeaway/sandwich shop,cf61pe,Cardiff,5,2022-03-12,0,5,0,FHRS,,51.64392,-3.130505
+100805,Golden Stores,Takeaway/sandwich shop,CF8 2YU,Cardiff,Exempt,,,,,FHRS,,51.691919,-2.887443
+100124,Golden Grill Ltd,Restaurant/Cafe/Canteen,SA30 4LW,Swansea,5,2023-09-22,15,5,20,FHRS,,51.37456,-2.730793
+100585,Golden Grill,Takeaway/sandwich shop,SA4 1NP,Swansea,4,2024-04-08,0,10,20,FHRS,,51.364482,-3.083821
+101031,Corner Cafe,Restaurant/Cafe/Canteen,CF1 1SZ,Cardiff,4,2024-03-22,20,15,20,FHRS,,51.625342,-2.676985
+100865,Old Grill,School/college/university,BA14 2GX,Bath and North East Somerset,4,2023-09-27,15,10,0,FHRS,,51.409877,-2.785299
+100883,Golden Inn,Takeaway/sandwich shop,np308gw,Newport,1,2024-08-06,0,0,5,FHRS,,51.388289,-2.556535
+100027,Happy Bakery,Takeaway/sandwich shop,SA27 7HW,Swansea,AwaitingInspection,,,,,FHRS,,51.599747,-2.70836
+101096,Golden Express,Restaurant/Cafe/Canteen,BS26 5NG,Bristol,5,2021-03-22,5,15,5,FHRS,,51.65244,-2.352726
+100738,Golden Diner,Restaurant/Cafe/Canteen,CF22 2YE,Cardiff,0,2021-02-04,15,10,10,FHRS,,51.382792,-2.412499
+101032,Harbour Bistro,School/college/university,NP28 9WD,Newport City Council,AwaitingInspection,,,,,FHRS,,51.415535,-2.553371
+100100,Old Inn,Takeaway/sandwich shop,CF11 9LH,Cardiff,4,2023-01-06,0,5,0,FHRS,,51.524076,-2.71871
+100092,Green Express,Takeaway/sandwich shop,BS13 8DG,Bristol,AwaitingInspection,1900-01-01,,,,FHRS,,51.530513,-2.547037
+100536,New Inn,Takeaway/sandwich shop,sa289tu,Swansea,Exempt,1900-01-01,,,,FHRS,,51.583979,-3.06553
+100798,Green Stores,Takeaway/sandwich shop,CF4 5ST,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.410915,-2.861216
+100516,Happy Kitchen,Restaurant/Cafe/Canteen,CF12 4NH,Cardiff,5,2021-07-29,15,5,20,FHRS,,51.459492,-2.670874
+101120,Village Inn,Takeaway/sandwich shop,,Bath and North East Somerset,4,2024-09-22,0,15,10,FHRS,,51.620975,-2.631527
+100392,Station Express,Mobile caterer,CF24 6WQ,Cardiff,5,2025-08-01,15,5,20,FHRS,,51.359313,-2.409304
+100662,Old Grill,Restaurant/Cafe/Canteen,CF4 6TP,Cardiff,5,2022-02-17,0,0,20,FHRS,,51.302965,
+101146,Corner Express,School/college/university,CF20 5EJ,Cardiff,1,2025-05-22,5,5,20,FHRS,,51.63063,-2.341433
+100698,Happy Kitchen,Restaurant/Cafe/Canteen,BS12 5YW,Bristol,5,2022-02-01,15,0,0,FHRS,,,
+100885,New Grill,Takeaway/sandwich shop,SA13 3WJ,Swansea,4,2021-08-24,15,10,5,FHRS,,51.506366,-3.140865
+100779,New Bistro,Takeaway/sandwich shop,CF19 1NT,Cardiff,5,2024-04-03,10,10,0,FHRS,,51.462322,-2.863913
+100400,Old Bakery,Restaurant/Cafe/Canteen,NP24 9JU,NEWPORT,5,2021-12-16,20,5,0,FHRS,,,-2.65377
+100564,Royal Bistro,Retailers - other,CF22 2UZ,Cardiff,5,2023-12-17,0,0,20,FHRS,,51.565838,-2.362743
+100307,Happy Grill,Mobile caterer,BS5 7DF,Bristol,1,2022-12-16,5,0,0,FHRS,,51.509104,
+100702,Green Bakery,School/college/university,NP4 9XB,Newport,5,2025-04-06,15,0,5,FHRS,,51.506644,-2.594329
+100959,New Stores,Takeaway/sandwich shop,SA30 5LR,Swansea,4,2024-09-10,5,5,10,FHRS,,51.388258,-2.579329
+100020,Village Bakery,Restaurant/Cafe/Canteen,BS1 4FN,Bristol,5,2021-04-08,5,5,20,FHRS,,51.467496,-3.268904
+101130,Golden Grill Ltd,Retailers - other,SA11 5JW,Swansea,5,2021-08-14,5,5,5,FHRS,,51.600604,-2.54146
+100091,Old Bistro,Restaurant/Cafe/Canteen,BA7 3GF,BANES,4,2023-02-23,15,5,10,FHRS,,51.523113,
+100445,Corner Stores,Restaurant/Cafe/Canteen,BA1 2EX,Bath and North East Somerset,5,2022-12-17,15,5,5,FHRS,,51.696297,-2.987344
+100266,Corner Kitchen,Pub/bar/nightclub,NP25 9LX,Newport City Council,5,2024-10-18,10,0,0,FHRS,,51.640796,-3.14204
+101071,Village Bakery,Restaurant/Cafe/Canteen,CF5 7WA,Cardiff,5,2022-06-13,20,10,10,FHRS,01747156084,,-3.153534
+101058,Corner Express,Takeaway/sandwich shop,BA9 3TJ,Bath and North East Somerset,5,2025-06-17,15,10,0,FHRS,,51.561009,
+100260,New Cafe,Takeaway/sandwich shop,BA23 5ZT,BANES,5,2022-02-08,5,0,5,FHRS,,51.381938,-2.488749
+100672,New Grill Ltd,Restaurant/Cafe/Canteen,BS30 9HL,Bristol,4,2021-12-10,20,5,10,FHRS,,51.6422,-2.65054
+100397,Corner Bistro,Hotel/B&B,SA13 7YU,Swansea,5,2023-01-07,15,15,0,FHRS,,51.577066,-2.300407
+100752,Old Kitchen,Restaurant/Cafe/Canteen,,Bath and North East Somerset,Exempt,1900-01-01,,,,FHRS,,51.570637,-2.367558
+100405,Station Inn,Takeaway/sandwich shop,NP29 7SF,Newport City Council,3,2022-11-30,20,0,10,FHRS,,51.586392,
+100113,New Inn,Takeaway/sandwich shop,SA13 5RG,Swansea,5,2021-12-29,0,0,5,FHRS,,51.368764,-3.221497
+100090,Green Grill,Restaurant/Cafe/Canteen,np131nn,NEWPORT,4,2024-06-21,20,15,0,FHRS,,51.453393,-2.938848
+100794,Green Stores,Mobile caterer,,Newport,5,2022-10-19,15,5,0,FHRS,,51.548787,-2.998546
+101068,Old Kitchen,Restaurant/Cafe/Canteen,CF26 8YB,Cardiff,AwaitingInspection,,,,,FHRS,,51.575168,-2.831623
+100499,New Grill,Restaurant/Cafe/Canteen,sa153ps,Swansea,AwaitingInspection,1900-01-01,,,,FHRS,,51.692791,-2.449547
+101017,Happy Kitchen,Takeaway/sandwich shop,SA12 6NW,Swansea,5,2025-05-14,10,5,20,FHRS,,51.487229,-2.960767
+101110,Royal Stores,Hotel/B&B,ba139sx,BANES,5,2021-05-18,5,15,20,FHRS,,51.478758,-2.382926
+101121,New Bakery,Restaurant/Cafe/Canteen,CF25 4FP,Cardiff,Exempt,,,,,FHRS,,51.564393,
+100954,Royal Grill,School/college/university,CF7 5TZ,Cardiff,5,2022-01-12,0,0,5,FHRS,,,-3.287835
+100616,Harbour Bistro,Pub/bar/nightclub,BS6 2DT,Bristol,5,2024-02-25,0,10,5,FHRS,,51.677159,-2.416478
+101174,Royal Deli,Retailers - other,BA27 5JZ,BANES,5,2024-10-14,0,10,20,FHRS,,51.641095,-2.344713
+100089,Golden Diner,Restaurant/Cafe/Canteen,BA26 8PP,BANES,5,2021-01-29,0,0,10,FHRS,,51.416752,-3.266658
+100235,Old Express,Takeaway/sandwich shop,BS14 6PB,Bristol,5,2021-06-07,0,15,0,FHRS,,51.408145,-2.5315
+100040,Old Kitchen,Retailers - other,BS22 1BT,Bristol,5,2021-04-28,20,10,10,FHRS,,51.589651,-2.415048
+101048,New Grill,Restaurant/Cafe/Canteen,BS17 8AZ,Bristol,AwaitingInspection,1900-01-01,,,,FHRS,,51.565913,-2.348391
+100712,Station Bakery,Retailers - other,BS26 2GH,Bristol,5,2022-06-26,10,15,5,FHRS,,51.332315,-3.162913
+101176,New Inn,Pub/bar/nightclub,BA3 3GJ,Bath and North East Somerset,4,2023-02-23,10,5,10,FHRS,,51.656746,-2.945243
+100775,Green Express,School/college/university,sa42ps,Swansea,5,2022-02-01,10,15,10,FHRS,,51.304287,-2.754202
+100632,Harbour Grill,Takeaway/sandwich shop,SA16 2UT,Swansea,3,2022-06-03,0,0,0,FHRS,,51.583244,-2.443304
+100841,Green Inn,School/college/university,CF4 1DJ,Cardiff,5,2022-02-04,15,10,20,FHRS,,51.390298,-2.43716
+100047,Golden Kitchen,School/college/university,NP28 3LR,NEWPORT,4,2024-05-29,20,15,20,FHRS,,51.443857,-3.263816
+100423,Old Bistro,Restaurant/Cafe/Canteen,CF21 2NL,Cardiff,5,2022-11-26,20,15,5,FHRS,,51.504465,-3.282402
+100287,Corner Cafe,Pub/bar/nightclub,SA13 6SA,Swansea,5,2023-07-29,5,0,0,FHRS,,51.512416,-3.294754
+100426,Royal Bakery,Hotel/B&B,CF14 2YL,Cardiff,5,2021-09-13,5,0,20,FHRS,,51.467781,-2.502794
+101153,Golden Bistro,Takeaway/sandwich shop,sa289lw,Swansea,4,2025-11-24,5,10,0,FHRS,,,
+100525,Station Grill,Takeaway/sandwich shop,np178lu,NEWPORT,5,2025-01-08,5,15,5,FHRS,,51.660562,-2.395105
+100081,Village Bakery,Pub/bar/nightclub,CF28 5NU,Cardiff,5,2024-06-02,10,5,10,FHRS,,51.423387,-2.856926
+101047,Royal Bistro,School/college/university,BA26 4RG,BANES,Exempt,1900-01-01,,,,FHRS,,51.325788,-3.223556
+100221,Corner Inn,Restaurant/Cafe/Canteen,CF1 8NB,Cardiff,5,2022-05-18,20,10,0,FHRS,,51.447681,-2.724873
+100119,Station Diner,Restaurant/Cafe/Canteen,BS25 9GL,Bristol,4,2023-03-28,10,0,10,FHRS,01953727468,51.611488,-2.76429
+100503,Village Cafe,Pub/bar/nightclub,BS13 5GA,Bristol,5,2025-01-02,15,5,0,FHRS,,51.382777,-2.709884
+100016,Royal Diner,Takeaway/sandwich shop,CF19 7QX,Cardiff,5,2021-11-09,20,0,5,FHRS,,51.319817,-2.663814
+100893,Royal Kitchen,Takeaway/sandwich shop,NP19 6ZJ,Newport City Council,5,2023-06-19,10,10,20,FHRS,,51.544124,-2.504286
+100216,Royal Inn,Takeaway/sandwich shop,,Cardiff,4,2025-03-30,5,5,5,FHRS,,51.34931,
+101124,Corner Cafe,Takeaway/sandwich shop,NP13 2LT,Newport City Council,5,2021-04-07,0,5,10,FHRS,,51.337945,-2.493758
+100051,Old Kitchen,Restaurant/Cafe/Canteen,CF15 4XD,Cardiff,5,2023-03-06,10,0,0,FHRS,,51.486625,-3.141941
+100041,Old Cafe,School/college/university,BS9 7PT,Bristol,5,2024-08-29,10,0,5,FHRS,,51.63881,-2.497152
+100347,Royal Inn,Takeaway/sandwich shop,SA20 1XB,Swansea,5,2021-11-04,0,10,20,FHRS,,51.669238,-2.930571
+100790,Corner Bakery,Restaurant/Cafe/Canteen,BS15 1YZ,Bristol,5,2022-10-20,0,5,5,FHRS,,51.413354,-2.87215
+100031,Village Express,Restaurant/Cafe/Canteen,SA15 7NX,Swansea,5,2021-12-08,20,10,20,FHRS,,51.449498,-2.52065
+100170,Station Bistro,Takeaway/sandwich shop,NP1 6QW,NEWPORT,5,2025-11-21,15,5,0,FHRS,,51.429234,-2.969453
+100853,Village Grill,Retailers - other,CF12 2TE,Cardiff,5,2025-01-19,10,5,0,FHRS,,51.565462,-3.252905
+100914,New Stores,Restaurant/Cafe/Canteen,CF5 2FH,Cardiff,5,2021-01-09,5,15,5,FHRS,,51.458627,-2.3431
+100570,Golden Bakery,Pub/bar/nightclub,CF12 3HU,Cardiff,5,2023-03-05,15,5,5,FHRS,,51.33775,-2.869856
+100615,Corner Kitchen,Restaurant/Cafe/Canteen,SA6 8JX,Swansea,5,2024-02-04,10,0,20,FHRS,,51.577265,
+100111,Happy Inn,Takeaway/sandwich shop,SA21 1WA,Swansea,4,2022-06-08,20,15,0,FHRS,,51.324118,
+100309,Royal Bakery,Hotel/B&B,CF23 1RR,Cardiff,2,2024-10-14,15,5,10,FHRS,,51.32473,-2.914207
+100581,Happy Kitchen,Restaurant/Cafe/Canteen,bs153rr,Bristol,5,2021-10-08,20,10,5,FHRS,,51.668672,-2.51189
+100649,Happy Bistro,Takeaway/sandwich shop,CF26 8ZD,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.584395,-2.576176
+100269,Old Grill,Restaurant/Cafe/Canteen,BA10 9EY,Bath and North East Somerset,Exempt,1900-01-01,,,,FHRS,,,-2.919988
+100818,Corner Kitchen,Takeaway/sandwich shop,CF11 8ZE,Cardiff,1,2021-12-01,15,5,10,FHRS,,51.428133,-3.157049
+100840,New Kitchen,Restaurant/Cafe/Canteen,BA2 1EE,BANES,4,2022-01-06,5,0,0,FHRS,,51.611363,-2.344392
+100267,Happy Cafe Ltd,Restaurant/Cafe/Canteen,CF22 9RD,Cardiff,5,2024-05-11,15,0,10,FHRS,,,-3.129367
+100318,Corner Bakery,Restaurant/Cafe/Canteen,CF28 6PW,Cardiff,5,2022-10-07,20,5,5,FHRS,,51.476078,-2.914833
+100289,Green Express,Takeaway/sandwich shop,CF9 9LJ,Cardiff,5,2023-10-25,20,10,5,FHRS,,,-2.453226
+101089,Green Kitchen,Pub/bar/nightclub,BS28 1GS,Bristol,4,2023-11-15,0,0,20,FHRS,,51.301036,-3.134177
+100127,Golden Deli,Pub/bar/nightclub,BS14 7YG,Bristol,5,2024-03-09,10,5,0,FHRS,,51.308827,-3.092147
+100207,Station Deli,Hotel/B&B,CF13 3WN,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.664165,-3.271866
+100350,Green Diner,Retailers - other,BS3 1NQ,Bristol,5,2025-06-12,20,0,10,FHRS,,,-3.047781
+100621,Station Bistro,Restaurant/Cafe/Canteen,BS20 6AH,Bristol,AwaitingInspection,1900-01-01,,,,FHRS,,51.599675,-2.541235
+101005,Corner Bakery,Restaurant/Cafe/Canteen,BS26 1ZS,Bristol,4,2022-04-03,5,0,5,FHRS,,51.404732,-3.200272
+100659,Royal Grill,Retailers - other,SA10 2RA,Swansea,5,2025-04-26,15,0,0,FHRS,,51.613596,
+100195,Royal Stores,Takeaway/sandwich shop,CF1 8PX,Cardiff,0,2022-04-05,0,0,10,FHRS,,51.309219,
+100482,Green Bistro,Takeaway/sandwich shop,BS7 7EZ,Bristol,Exempt,1900-01-01,,,,FHRS,,51.539229,-2.514301
+100179,Corner Express,Retailers - other,NP6 5SJ,NEWPORT,5,2021-08-14,15,0,5,FHRS,,51.339169,-2.419051
+100251,Harbour Stores,Restaurant/Cafe/Canteen,NP7 2WF,NEWPORT,5,2023-12-30,0,15,10,FHRS,,51.571706,-2.351514
+100860,Green Express,Pub/bar/nightclub,sa32uu,Swansea,5,2021-06-30,20,5,10,FHRS,,51.597952,-2.695896
+100734,Golden Stores,Restaurant/Cafe/Canteen,NP4 6WB,NEWPORT,4,2023-10-17,5,0,20,FHRS,,51.58197,-2.303366
+100437,Happy Express,Pub/bar/nightclub,SA20 6WF,Swansea,2,2025-02-22,15,0,0,FHRS,,51.478672,-2.314181
+100313,Golden Inn,Pub/bar/nightclub,SA17 1SH,Swansea,5,2023-02-08,0,10,20,FHRS,,51.589499,-2.665334
+100370,Harbour Inn,Takeaway/sandwich shop,BA25 8AH,Bath and North East Somerset,5,2021-02-12,10,0,20,FHRS,,51.516434,-2.521104
+100140,Village Kitchen,Takeaway/sandwich shop,NP16 7XJ,Newport,3,2024-05-25,5,15,10,FHRS,,51.653893,-2.990679
+101105,Golden Diner,Takeaway/sandwich shop,BS28 3UD,Bristol,5,2025-05-05,5,5,5,FHRS,,51.508153,
+100461,Station Cafe,School/college/university,CF12 6RT,Cardiff,4,2025-10-01,5,5,0,FHRS,,51.565333,-2.627682
+100212,Corner Bakery,Retailers - other,SA2 2QR,Swansea,4,2024-04-26,10,10,5,FHRS,,,-2.390153
+100670,Golden Kitchen,Hotel/B&B,CF25 9FQ,Cardiff,5,2025-06-23,20,5,0,FHRS,,,-3.278373
+101163,Village Bakery,Takeaway/sandwich shop,NP10 1WB,NEWPORT,4,2025-07-15,5,10,10,FHRS,,51.519253,-2.933409
+100696,Green Inn,School/college/university,BS29 3RY,Bristol,5,2024-04-03,20,10,5,FHRS,,51.662338,-2.636592
+100720,Old Kitchen,Takeaway/sandwich shop,CF30 9HH,Cardiff,4,2022-04-11,15,5,5,FHRS,,51.333721,-2.867307
+100032,Golden Bakery,Retailers - other,cf145gh,Cardiff,1,2025-09-03,10,0,5,FHRS,,51.495732,-3.277849
+100892,Village Stores,Takeaway/sandwich shop,BS23 6TH,Bristol,5,2024-06-13,20,10,20,FHRS,,51.352042,-2.345244
+101160,Village Express,Hotel/B&B,BS9 8JA,Bristol,5,2023-04-13,5,5,20,FHRS,,,-2.852683
+100759,Golden Bistro,Takeaway/sandwich shop,CF1 3QG,Cardiff,5,2022-07-23,10,0,10,FHRS,,51.34606,-2.911656
+101184,Harbour Bistro,Retailers - other,,Swansea,Exempt,,,,,FHRS,,51.392216,-2.481539
+100508,Old Inn Ltd,Takeaway/sandwich shop,bs255yb,Bristol,Exempt,,,,,FHRS,,51.347313,-3.165677
+100588,Golden Stores,Takeaway/sandwich shop,NP1 4LE,Newport,Exempt,,,,,FHRS,,51.602744,-2.484166
+101186,Station Kitchen,Takeaway/sandwich shop,sa49ju,Swansea,5,2025-09-28,0,10,10,FHRS,,,-2.943817
+100736,Happy Grill,Takeaway/sandwich shop,NP29 8TY,NEWPORT,5,2025-04-07,0,15,20,FHRS,,51.514301,-2.726072
+100611,Harbour Inn,Takeaway/sandwich shop,cf112at,Cardiff,2,2022-02-22,5,0,20,FHRS,,51.642414,-2.557628
+101166,Golden Kitchen,Pub/bar/nightclub,CF9 6HN,Cardiff,3,2024-02-21,15,15,0,FHRS,,51.350112,-2.596441
+100749,Green Inn,Takeaway/sandwich shop,CF14 1HL,Cardiff,4,2024-09-20,0,0,5,FHRS,,51.485265,-2.397513
+100165,Station Kitchen,Takeaway/sandwich shop,BA23 6PD,Bath and North East Somerset,5,2021-04-06,15,15,0,FHRS,,51.542663,-2.696926
+100156,Royal Kitchen,Retailers - other,sa23sj,Swansea,2,2023-07-01,15,5,10,FHRS,,,
+100573,Happy Cafe,Pub/bar/nightclub,NP14 7NL,Newport,5,2024-08-20,15,0,10,FHRS,,51.57284,-2.946279
+100650,Royal Cafe,Restaurant/Cafe/Canteen,CF28 3EF,Cardiff,5,2021-08-13,20,15,10,FHRS,,51.552539,-3.022875
+100438,Harbour Bakery,Takeaway/sandwich shop,NP23 8SB,Newport,3,2023-08-16,0,10,0,FHRS,,51.637585,-2.448658
+100017,New Stores,Restaurant/Cafe/Canteen,NP3 6HU,Newport City Council,5,2025-10-08,15,10,0,FHRS,,51.532561,-2.786644
+100295,Village Kitchen,School/college/university,CF26 2ZU,Cardiff,5,2021-11-02,10,5,20,FHRS,,51.444463,-2.328911
+100984,Green Stores,Restaurant/Cafe/Canteen,cf122eb,Cardiff,5,2021-04-09,5,5,0,FHRS,,51.592564,-3.1568
+100145,Happy Bakery,Hotel/B&B,CF8 7HR,Cardiff,5,2025-01-15,15,5,10,FHRS,,51.44478,-2.300896
+100724,Royal Express,School/college/university,CF15 4RZ,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.433282,-3.105614
+101013,Happy Grill,Mobile caterer,NP29 2SG,Newport,4,2021-06-29,10,0,0,FHRS,,,-3.184084
+100005,Harbour Diner,Restaurant/Cafe/Canteen,CF1 9BP,Cardiff,5,2025-05-02,0,10,20,FHRS,,51.668248,-2.406523
+100252,Station Inn,Restaurant/Cafe/Canteen,CF3 7NH,Cardiff,5,2023-04-18,0,10,0,FHRS,,51.645038,-2.558016
+100737,New Grill,Takeaway/sandwich shop,SA11 7EL,Swansea,3,2021-03-16,20,5,10,FHRS,,,-3.082215
+101149,Happy Bistro,Pub/bar/nightclub,SA12 5FR,Swansea,5,2025-12-03,10,5,0,FHRS,,51.478135,-2.878332
+100043,Corner Express,Pub/bar/nightclub,BS8 8XJ,Bristol,5,2025-10-02,20,10,0,FHRS,,51.588289,-2.603359
+100418,Green Cafe,Takeaway/sandwich shop,,Swansea,5,2023-07-16,5,5,20,FHRS,,51.682759,-2.391773
+100061,Happy Kitchen,School/college/university,SA16 3DJ,Swansea,5,2021-03-18,20,5,5,FHRS,,51.610323,-2.514626
+100189,Old Diner,Mobile caterer,CF28 5ST,Cardiff,4,2024-10-31,20,10,5,FHRS,,51.551353,-2.714249
+100821,Corner Inn,Restaurant/Cafe/Canteen,BS24 3BX,Bristol,5,2023-08-21,15,10,10,FHRS,,51.430406,-3.046097
+100540,Station Inn,Restaurant/Cafe/Canteen,SA11 6LQ,Swansea,5,2024-08-10,5,15,0,FHRS,,51.688718,-2.758548
+100462,Green Diner,Takeaway/sandwich shop,np239fz,NEWPORT,2,2024-07-14,0,10,20,FHRS,,51.66949,-2.806556
+101114,Station Kitchen,Restaurant/Cafe/Canteen,BS22 1AN,Bristol,4,2021-06-15,0,5,0,FHRS,,51.626928,
+100213,Golden Inn,Retailers - other,bs283qg,Bristol,3,2021-01-23,10,5,10,FHRS,,51.478151,-2.79366
+100799,Old Stores,Mobile caterer,BA10 8AQ,BANES,5,2021-02-13,20,5,0,FHRS,01112693478,51.37092,-2.690791
+100535,New Grill,Takeaway/sandwich shop,BA27 4HA,Bath and North East Somerset,3,2024-12-02,10,5,10,FHRS,,51.630639,-3.127801
+100983,Happy Cafe,Restaurant/Cafe/Canteen,NP23 6FE,Newport City Council,5,2025-03-28,10,0,0,FHRS,,51.530547,-3.065192
+100668,Village Express,Retailers - other,CF14 7BJ,Cardiff,4,2024-09-21,10,0,5,FHRS,,51.410947,-3.075719
+100684,Harbour Stores,Takeaway/sandwich shop,BS11 1NG,Bristol,Exempt,1900-01-01,,,,FHRS,,51.622095,-2.754782
+100843,Royal Cafe,Restaurant/Cafe/Canteen,CF19 7TF,Cardiff,5,2022-06-26,5,10,10,FHRS,,51.393512,-2.40271
+100254,New Inn,Takeaway/sandwich shop,BA27 5TH,Bath and North East Somerset,Exempt,,,,,FHRS,,51.450522,-3.051492
+100468,New Bakery,Restaurant/Cafe/Canteen,BS23 7SW,Bristol,5,2024-08-13,0,10,5,FHRS,,,-2.936072
+101100,Station Stores,School/college/university,CF15 6UG,Cardiff,3,2024-09-15,5,15,10,FHRS,,51.478503,-2.824724
+100801,Corner Inn,Restaurant/Cafe/Canteen,CF6 2ZS,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.484581,-2.936668
+100663,Green Stores,Takeaway/sandwich shop,SA27 3HJ,Swansea,4,2022-11-23,20,5,0,FHRS,,51.582427,-2.336438
+100601,Royal Diner,Takeaway/sandwich shop,cf224hh,Cardiff,2,2023-09-05,20,10,20,FHRS,,51.456725,-2.579066
+100956,Village Express,Takeaway/sandwich shop,BS19 2YY,Bristol,3,2022-11-15,20,10,5,FHRS,,51.592946,-2.529709
+100811,New Deli,Takeaway/sandwich shop,SA19 4EH,Swansea,2,2031-04-17,20,10,5,FHRS,01313881704,51.360712,-3.106919
+100629,Old Bakery,School/college/university,BS12 5NG,Bristol,5,2023-11-21,0,10,10,FHRS,,51.31666,-3.288211
+100842,Happy Inn,Restaurant/Cafe/Canteen,SA9 5XD,Swansea,1,2025-04-18,15,10,5,FHRS,,51.590803,-2.527997
+100942,Station Express,Restaurant/Cafe/Canteen,NP3 8QG,NEWPORT,5,2021-08-30,5,5,10,FHRS,,51.675063,-2.485468
+100804,New Deli,Takeaway/sandwich shop,np157gn,Newport,4,2023-04-10,20,5,10,FHRS,,51.685755,-2.814618
+100072,Corner Inn,Takeaway/sandwich shop,SA12 8TQ,Swansea,5,2025-06-02,10,5,0,FHRS,,51.691975,-2.736013
+101139,Royal Cafe,Restaurant/Cafe/Canteen,,Bristol,5,2024-03-10,5,5,20,FHRS,,51.550949,-3.135417
+100385,Golden Grill,Retailers - other,CF15 2ND,Cardiff,5,2025-09-14,20,15,20,FHRS,,51.547849,-2.666729
+100568,Station Diner,Takeaway/sandwich shop,SA4 4UL,Swansea,5,2022-01-25,5,15,0,FHRS,,51.573453,-2.549876
+100928,Station Inn,Pub/bar/nightclub,BS21 3SB,Bristol,5,2023-03-20,10,15,5,FHRS,,51.337658,-2.683669
+100832,Harbour Grill,Takeaway/sandwich shop,bs22ay,Bristol,4,2021-07-30,10,5,0,FHRS,,51.626106,-3.277129
+100183,Station Grill,Retailers - other,SA13 4UW,Swansea,AwaitingInspection,,,,,FHRS,,51.320966,-3.015829
+101178,Golden Diner,Hotel/B&B,BS12 3ZH,Bristol,5,2025-07-13,10,15,10,FHRS,01273164839,,-2.680474
+100338,Station Stores,School/college/university,NP13 8GG,NEWPORT,4,2023-09-07,10,0,20,FHRS,,51.584409,-2.601939
+100673,Happy Stores,Restaurant/Cafe/Canteen,BS20 2SE,Bristol,1,2024-06-19,15,0,0,FHRS,,51.460767,-2.863385
+100193,Royal Express,Takeaway/sandwich shop,CF5 6BG,Cardiff,5,2023-04-17,10,15,10,FHRS,,51.443814,-2.941959
+100052,Golden Grill,Restaurant/Cafe/Canteen,,BANES,5,2023-01-10,0,5,0,FHRS,,51.307315,-2.371509
+100714,Corner Diner,Pub/bar/nightclub,BS13 4NU,Bristol,3,2021-07-03,10,0,10,FHRS,,51.581148,-3.163193
+100327,Green Bakery,Restaurant/Cafe/Canteen,BA1 5QQ,Bath and North East Somerset,5,2025-07-12,20,10,5,FHRS,,51.593116,-2.451017
+101122,Village Grill,Takeaway/sandwich shop,CF25 4AE,Cardiff,5,2021-03-22,10,5,5,FHRS,,51.667815,-2.722255
+100285,Old Stores,Mobile caterer,BS27 1FN,Bristol,5,2021-05-09,20,0,0,FHRS,,51.532742,-2.826033
+100200,Golden Cafe,School/college/university,CF10 1EF,Cardiff,0,2023-06-16,0,0,10,FHRS,,51.654227,-3.231797
+100408,New Bakery,Takeaway/sandwich shop,BS28 3XN,Bristol,4,2023-10-26,15,15,20,FHRS,,51.688585,-2.888133
+101072,Royal Bakery,Retailers - other,NP27 3UG,Newport,4,2022-05-23,0,15,10,FHRS,,51.61401,-2.530068
+100647,Happy Grill,Retailers - other,BS14 9DU,Bristol,4,2024-06-06,20,15,0,FHRS,,51.477684,-2.641719
+100923,Royal Bakery,Restaurant/Cafe/Canteen,SA19 1XP,Swansea,AwaitingInspection,,,,,FHRS,,51.60326,-2.448429
+100112,Happy Grill,Restaurant/Cafe/Canteen,NP27 3SE,Newport City Council,2,2021-09-27,0,15,10,FHRS,,51.380026,-2.342852
+100751,Village Kitchen,Retailers - other,,Bristol,5,2021-11-28,20,10,0,FHRS,,,-2.795727
+100854,Green Express,Takeaway/sandwich shop,BS14 7SL,Bristol,4,2024-03-17,15,0,20,FHRS,,51.588572,-2.742499
+100433,Corner Grill,Takeaway/sandwich shop,NP8 1NR,Newport,5,2022-03-07,10,0,10,FHRS,,51.425414,-2.517883
+100761,Golden Deli,Mobile caterer,SA29 8BH,Swansea,0,2022-08-07,15,10,20,FHRS,,51.505723,-2.378631
+100538,Harbour Diner,Restaurant/Cafe/Canteen,SA28 6NE,Swansea,5,2024-12-27,5,0,20,FHRS,,51.506864,-2.814963
+100069,Royal Express,Restaurant/Cafe/Canteen,NP2 1WU,Newport City Council,5,2023-09-27,10,5,5,FHRS,,51.614754,-2.933629
+100471,Golden Inn,Retailers - other,CF29 8HP,Cardiff,4,2022-01-02,10,5,5,FHRS,,51.462068,-3.235386
+101082,Golden Kitchen,Restaurant/Cafe/Canteen,SA10 4NU,Swansea,5,2024-11-02,0,10,0,FHRS,,51.632863,-2.772864
+100071,Old Kitchen,Mobile caterer,np279yl,NEWPORT,5,2025-01-09,20,10,10,FHRS,,51.654437,-2.574604
+100802,Harbour Deli,Restaurant/Cafe/Canteen,BS12 7SW,Bristol,5,2023-09-09,0,10,5,FHRS,,51.326833,-2.528596
+100292,Golden Grill,Restaurant/Cafe/Canteen,SA19 5GB,Swansea,5,2022-05-31,20,5,0,FHRS,,51.42921,-2.608837
+100076,Royal Express,Takeaway/sandwich shop,BS30 2RE,Bristol,5,2021-03-25,20,15,0,FHRS,,51.567847,-2.916141
+100250,Village Inn,School/college/university,SA26 3DN,Swansea,5,2022-11-28,10,15,5,FHRS,,51.465895,-2.586574
+100990,Golden Bakery,Pub/bar/nightclub,CF7 2DQ,Cardiff,4,2022-02-19,10,10,10,FHRS,,51.320964,-2.319146
+100915,Harbour Kitchen,Pub/bar/nightclub,CF28 4FG,Cardiff,5,2023-02-19,10,0,0,FHRS,,51.304667,-2.892764
+100640,Royal Deli,School/college/university,cf189sb,Cardiff,3,2022-09-05,0,0,20,FHRS,,51.681282,-3.067134
+100728,Green Stores,Restaurant/Cafe/Canteen,SA13 7DU,Swansea,5,2024-04-29,0,0,10,FHRS,,51.545582,-2.925322
+100223,Harbour Cafe,Takeaway/sandwich shop,bs276nl,Bristol,5,2023-08-27,10,15,5,FHRS,,51.575363,-2.852402
+100204,Village Deli,Restaurant/Cafe/Canteen,CF22 7ND,Cardiff,4,2022-10-11,0,15,20,FHRS,,51.599068,-2.545848
+100522,Golden Express,Hotel/B&B,CF9 9RB,Cardiff,5,2025-06-22,15,0,0,FHRS,,51.428812,-2.380853
+100985,Old Bakery,Takeaway/sandwich shop,cf238jw,Cardiff,4,2025-09-12,5,5,5,FHRS,,51.557308,-3.20615
+100876,Corner Bakery,Restaurant/Cafe/Canteen,NP5 7UN,Newport City Council,4,2023-03-30,5,0,20,FHRS,,51.423384,-3.294826
+100847,Old Diner,Restaurant/Cafe/Canteen,BS1 2GD,Bristol,2,2022-08-23,15,15,10,FHRS,,51.402439,
+100441,Green Stores,Restaurant/Cafe/Canteen,ba96qs,BANES,5,2022-01-04,15,0,5,FHRS,,51.598411,-2.382669
+101099,New Kitchen,Restaurant/Cafe/Canteen,CF17 5NX,Cardiff,5,2025-03-13,15,5,10,FHRS,,51.351321,-2.570538
+100974,Harbour Cafe,Restaurant/Cafe/Canteen,SA20 6DJ,Swansea,5,2022-11-10,15,10,0,FHRS,,51.301237,-2.494313
+101126,Royal Express,Takeaway/sandwich shop,NP14 1BA,Newport,3,2021-04-30,5,15,5,FHRS,,51.330875,-2.863521
+101180,Green Deli,Restaurant/Cafe/Canteen,BS18 3ZS,Bristol,1,2023-11-21,15,10,10,FHRS,,51.359767,-2.656612
+100767,Happy Bistro,Takeaway/sandwich shop,BS5 6BT,Bristol,2,2022-09-14,5,10,5,FHRS,,51.394976,-2.886052
+100141,New Cafe,Takeaway/sandwich shop,BS4 4UF,Bristol,5,2023-06-14,0,15,5,FHRS,,51.437901,-3.13137
+100530,New Kitchen,Retailers - other,,NEWPORT,Exempt,,,,,FHRS,,0.0,0.0
+100869,Happy Grill,Mobile caterer,BA7 4TT,BANES,5,2022-09-05,20,10,10,FHRS,,51.434888,-2.449628
+101145,Golden Bistro,Restaurant/Cafe/Canteen,CF1 6ST,Cardiff,5,2021-08-22,15,5,20,FHRS,,51.451813,-2.374603
+100431,Village Stores,Restaurant/Cafe/Canteen,NP23 9WT,Newport City Council,Exempt,1900-01-01,,,,FHRS,,51.493858,-2.722833
+100534,Corner Grill,Takeaway/sandwich shop,BA19 2WL,BANES,4,2022-02-20,20,5,5,FHRS,,51.517606,-2.526333
+100257,Royal Bakery,Takeaway/sandwich shop,SA26 6FU,Swansea,Exempt,1900-01-01,,,,FHRS,,,-3.026523
+100760,Corner Bakery,Restaurant/Cafe/Canteen,bs151bs,Bristol,5,2025-04-03,15,15,10,FHRS,,51.519585,-2.802382
+100436,Royal Kitchen,Retailers - other,NP16 4SX,Newport City Council,3,2022-03-03,20,15,10,FHRS,,51.375257,-2.663943
+100829,Village Bakery,Restaurant/Cafe/Canteen,CF18 1PL,Cardiff,5,2021-01-09,10,0,20,FHRS,,51.366656,-2.559789
+101091,Happy Stores,Takeaway/sandwich shop,,Cardiff,4,2023-01-01,10,15,0,FHRS,,51.381874,-3.273386
+100735,Green Bistro,Restaurant/Cafe/Canteen,CF16 1WU,Cardiff,4,2021-10-21,15,15,20,FHRS,,51.500481,-2.435951
+100591,Old Kitchen,Restaurant/Cafe/Canteen,NP12 4AA,Newport City Council,2,2023-12-16,0,15,0,FHRS,,51.52459,-2.929571
+100268,New Inn,Retailers - other,SA12 2BY,Swansea,3,2025-06-04,10,15,10,FHRS,,51.514369,-2.461273
+100848,Golden Express,Takeaway/sandwich shop,CF30 5DE,Cardiff,5,2023-03-21,0,0,10,FHRS,,,-2.38504
+100214,Harbour Kitchen,Takeaway/sandwich shop,BS9 4EL,Bristol,2,2021-02-21,15,5,10,FHRS,,51.545819,-2.469504
+100159,Old Express,Restaurant/Cafe/Canteen,CF9 5JQ,Cardiff,1,2021-08-01,15,5,10,FHRS,,51.645128,-2.83778
+100739,Old Bistro,Restaurant/Cafe/Canteen,CF10 9ED,Cardiff,5,2025-04-21,20,10,20,FHRS,,51.456676,-2.931261
+100338,Station Stores Ltd,School/college/university,NP13 8GG,NEWPORT,4,2023-09-07,10,0,20,FHRS,,51.584409,-2.601939
+100110,Station Inn,Takeaway/sandwich shop,BS23 7ST,Bristol,4,2022-12-26,5,5,0,FHRS,,51.508354,-3.299544
+100429,Corner Kitchen,Takeaway/sandwich shop,BA24 5XR,BANES,4,2025-06-29,0,15,5,FHRS,,51.646524,-3.077799
+100978,Corner Stores,Takeaway/sandwich shop,bs175qq,Bristol,4,2023-08-20,15,0,20,FHRS,,51.319757,-2.537953
+100908,Station Bakery,School/college/university,CF25 5HX,Cardiff,4,2025-09-24,20,0,10,FHRS,,51.625764,-2.803435
+100129,Happy Kitchen,Mobile caterer,CF7 5BE,Cardiff,5,2022-12-24,0,0,20,FHRS,,51.31692,-3.132605
+101043,Green Kitchen,Restaurant/Cafe/Canteen,BA11 9YL,BANES,Exempt,,,,,FHRS,,51.574803,-2.763379
+101059,Harbour Grill,Mobile caterer,cf255uw,Cardiff,4,2022-03-23,10,0,0,FHRS,,51.631442,-3.199829
+100721,Royal Stores,Restaurant/Cafe/Canteen,NP10 2SQ,NEWPORT,5,2024-05-02,15,10,0,FHRS,,51.457827,-2.657612
+100050,Old Bakery,Takeaway/sandwich shop,CF5 1JS,Cardiff,5,2023-05-26,10,0,20,FHRS,,51.5059,-2.68921
+100452,Village Stores,Takeaway/sandwich shop,CF3 7UH,Cardiff,5,2023-01-27,15,15,5,FHRS,,51.330084,-2.919936
+100353,Station Grill,Restaurant/Cafe/Canteen,NP5 2JQ,Newport City Council,5,2022-11-25,0,5,0,FHRS,,51.425616,-3.055839
+100166,New Diner,Retailers - other,SA15 5ZY,Swansea,3,2022-02-12,0,15,10,FHRS,,51.464014,-2.439877
+101183,Harbour Grill,Restaurant/Cafe/Canteen,SA16 7ZA,Swansea,5,2024-08-21,10,10,10,FHRS,,51.52353,-2.841817
+100063,Village Cafe,Mobile caterer,,Bristol,5,2021-05-05,5,10,10,FHRS,,51.682577,-2.853984
+100375,Station Inn,Takeaway/sandwich shop,BS26 2PH,Bristol,5,2023-03-26,20,0,5,FHRS,,51.306929,
+100998,Royal Kitchen,Pub/bar/nightclub,CF17 1ZR,Cardiff,3,2021-02-24,20,10,5,FHRS,,51.414563,-2.996063
+100278,Station Grill,Takeaway/sandwich shop,CF27 1FJ,Cardiff,5,2022-10-25,0,0,10,FHRS,,51.581,-2.808725
+100880,New Diner,Retailers - other,BA22 7AX,BANES,5,2022-08-22,15,0,10,FHRS,,51.470459,-2.351815
+100766,Harbour Cafe,Restaurant/Cafe/Canteen,BS18 2QS,Bristol,AwaitingInspection,,,,,FHRS,01780766178,,-3.129362
+100286,Royal Kitchen,Restaurant/Cafe/Canteen,BS8 7PX,Bristol,AwaitingInspection,,,,,FHRS,,51.450424,-3.290439
+100757,Royal Diner,Restaurant/Cafe/Canteen,NP13 3FW,Newport City Council,5,2024-10-29,10,0,5,FHRS,,51.509851,-2.925793
+100340,Green Inn,Restaurant/Cafe/Canteen,BS6 6RD,Bristol,4,2022-01-03,0,10,10,FHRS,,51.546324,-3.196184
+101191,Harbour Kitchen,Restaurant/Cafe/Canteen,NP18 9NX,NEWPORT,5,2023-02-27,15,0,5,FHRS,,51.495883,-3.262963
+100356,Golden Cafe,Retailers - other,ba296jn,Bath and North East Somerset,4,2023-12-07,10,10,5,FHRS,,51.471522,
+100104,Old Stores,Takeaway/sandwich shop,BS30 3UJ,Bristol,3,2021-12-08,15,10,5,FHRS,,51.390627,-3.216646
+100430,Royal Inn,Retailers - other,BS15 7NH,Bristol,3,2021-06-13,0,5,20,FHRS,,51.363359,-3.081926
+100198,Happy Grill,Restaurant/Cafe/Canteen,CF30 5FT,Cardiff,4,2022-05-27,15,0,20,FHRS,,51.371799,-2.378334
+100105,Happy Express,Restaurant/Cafe/Canteen,BS14 3DS,Bristol,5,2024-06-27,5,5,20,FHRS,,51.500782,-2.839418
+100161,Golden Deli,Hotel/B&B,NP12 5WL,Newport,5,2025-08-15,15,15,0,FHRS,,51.609088,-3.208643
+100261,Green Grill,Restaurant/Cafe/Canteen,SA21 5FN,Swansea,5,2022-12-16,0,5,10,FHRS,01698369867,51.53788,-2.945979
+100872,Station Stores,Mobile caterer,np241bx,NEWPORT,5,2024-09-28,20,0,0,FHRS,,51.655442,-2.434564
+101103,Station Bakery,Takeaway/sandwich shop,NP2 2DZ,Newport City Council,4,2021-02-14,0,15,0,FHRS,,51.349005,-2.455319
+100335,Golden Bistro,Restaurant/Cafe/Canteen,BA6 7UN,BANES,AwaitingInspection,,,,,FHRS,,,-3.017502
+100015,Golden Bakery,Takeaway/sandwich shop,NP30 8UZ,Newport City Council,0,2024-03-29,20,5,10,FHRS,,51.437339,-2.841605
+100922,New Kitchen,Restaurant/Cafe/Canteen,SA14 7GT,Swansea,5,2022-09-14,10,5,10,FHRS,,51.469673,-2.894662
+101173,Harbour Kitchen,Takeaway/sandwich shop,cf125tx,Cardiff,5,2021-12-14,20,0,10,FHRS,,,-2.448543
+100912,Corner Inn,Pub/bar/nightclub,SA10 7UJ,Swansea,5,2021-04-30,0,0,20,FHRS,,51.625103,-3.044538
+100136,Harbour Grill,Takeaway/sandwich shop,BS8 3DZ,Bristol,5,2022-07-27,20,10,0,FHRS,,51.588781,-2.764961
+100133,Harbour Kitchen,Retailers - other,NP5 1SF,Newport City Council,Exempt,,,,,FHRS,,51.622328,-2.312869
+100263,Harbour Bakery,Takeaway/sandwich shop,BS19 4ZG,Bristol,5,2025-09-20,15,15,20,FHRS,,51.520825,-2.985333
+100176,New Bakery,Takeaway/sandwich shop,SA30 6UF,Swansea,5,2022-11-26,15,0,20,FHRS,,,-2.915897
+100227,New Diner,Retailers - other,SA21 5XA,Swansea,4,2021-09-23,20,15,0,FHRS,,51.454206,-2.867753
+100624,Harbour Deli,Restaurant/Cafe/Canteen,cf46yp,Cardiff,5,2022-05-01,0,0,5,FHRS,,51.454996,-2.433601
+101117,Village Deli,Restaurant/Cafe/Canteen,BS21 2XE,Bristol,5,2025-07-09,20,15,0,FHRS,,51.556946,-2.325413
+100544,Royal Deli,Pub/bar/nightclub,SA4 9QF,Swansea,5,2023-12-01,5,15,20,FHRS,,51.338864,-2.445259
+100226,Happy Stores,Takeaway/sandwich shop,SA8 2AT,Swansea,4,2024-09-11,0,5,10,FHRS,,51.607029,-2.422974
+100965,Happy Diner,Restaurant/Cafe/Canteen,CF6 9QL,Cardiff,4,2024-08-10,10,15,0,FHRS,,51.333478,-2.373642
+100147,New Diner,Restaurant/Cafe/Canteen,CF11 7SG,Cardiff,2,2023-12-15,0,0,10,FHRS,,51.508574,-2.377544
+101000,Golden Kitchen,Retailers - other,SA20 2TA,Swansea,5,2021-08-06,15,15,0,FHRS,,51.336162,-2.378601
+101169,Station Stores,Restaurant/Cafe/Canteen,NP15 1GG,Newport,5,2022-03-12,0,5,10,FHRS,,51.391471,-2.861169
+100215,Happy Diner,Pub/bar/nightclub,CF14 2ZZ,Cardiff,3,2023-04-12,5,10,20,FHRS,,51.516957,-3.102906
+100979,Happy Stores,Pub/bar/nightclub,BA26 9TD,BANES,Exempt,,,,,FHRS,,51.38939,-2.543789
+100925,Corner Inn,Takeaway/sandwich shop,BS14 4NB,Bristol,5,2021-11-27,0,10,10,FHRS,,51.536209,
+100901,Happy Cafe,Restaurant/Cafe/Canteen,BA19 3NH,BANES,5,2021-08-17,5,5,0,FHRS,,51.519899,-3.137315
+100419,Corner Express,Restaurant/Cafe/Canteen,cf196wu,Cardiff,4,2021-12-24,15,10,20,FHRS,,51.470055,-2.33459
+100711,Old Grill,Restaurant/Cafe/Canteen,BS23 4PL,Bristol,5,2021-07-27,5,5,5,FHRS,,51.336824,-2.777982
+100709,Old Grill,Retailers - other,,Cardiff,5,2025-07-12,0,10,20,FHRS,,51.671395,-2.985579
+100084,Harbour Kitchen,Restaurant/Cafe/Canteen,BA2 1DE,BANES,5,2023-11-11,15,0,10,FHRS,,51.541942,-3.168433
+101056,Green Deli,Takeaway/sandwich shop,NP23 3ZX,NEWPORT,5,2024-05-06,5,10,10,FHRS,,51.638071,-2.903455
+101116,Happy Bistro,Pub/bar/nightclub,CF28 6RE,Cardiff,5,2023-07-07,10,5,5,FHRS,,51.521992,-2.465168
+100175,Harbour Stores,Restaurant/Cafe/Canteen,CF10 4UH,Cardiff,5,2023-11-05,10,0,5,FHRS,,51.57279,-2.735136
+101093,Green Bakery,Takeaway/sandwich shop,BS1 2PY,Bristol,4,2025-11-24,20,5,20,FHRS,,51.657851,
+100395,Happy Diner,Takeaway/sandwich shop,NP11 7DN,Newport,5,2024-12-03,5,15,0,FHRS,,51.405818,-3.284954
+100656,Village Deli,Takeaway/sandwich shop,sa264ph,Swansea,3,2022-01-07,20,15,20,FHRS,,51.456753,-3.260231
+100511,Station Inn,Hotel/B&B,NP12 4UL,Newport,5,2021-08-17,20,0,10,FHRS,,51.695521,-2.975149
+100685,Harbour Inn,Restaurant/Cafe/Canteen,BA22 3WZ,BANES,5,2024-11-22,15,5,5,FHRS,,51.545124,-2.7135
+100054,Old Deli,Restaurant/Cafe/Canteen,BS22 5JY,Bristol,5,2021-10-20,0,5,20,FHRS,,51.319854,-2.927548
+100669,Harbour Bakery,Takeaway/sandwich shop,CF26 4BE,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.345901,-2.68938
+100464,Royal Grill,Takeaway/sandwich shop,NP13 6PL,Newport City Council,5,2021-12-03,5,10,20,FHRS,,51.317973,-3.156746
+100627,Station Deli,Pub/bar/nightclub,BS12 9LJ,Bristol,5,2022-08-30,20,5,20,FHRS,,,-2.805163
+100531,Old Cafe,Takeaway/sandwich shop,SA13 6BP,Swansea,AwaitingInspection,1900-01-01,,,,FHRS,,51.586913,-3.181537
+100467,Corner Diner,School/college/university,CF27 4PR,Cardiff,5,2021-03-11,15,5,10,FHRS,,,-2.738621
+100427,Green Diner,Retailers - other,CF9 3WT,Cardiff,5,2024-04-04,20,10,0,FHRS,,51.327824,-2.346124
+100839,Station Stores,Retailers - other,NP21 3QJ,Newport City Council,5,2022-12-18,10,0,20,FHRS,,51.371561,-2.99364
+100391,New Kitchen,Retailers - other,BA20 1LT,Bath and North East Somerset,3,2021-12-02,20,5,20,FHRS,,51.318442,-2.957405
+100349,Corner Express,Takeaway/sandwich shop,CF13 2NT,Cardiff,1,2025-08-01,0,10,20,FHRS,,,-2.377494
+100048,Royal Diner,Hotel/B&B,SA9 4DU,Swansea,5,2025-06-28,15,10,0,FHRS,,51.690687,-2.60851
+100480,New Grill,Hotel/B&B,CF15 8XT,Cardiff,5,2022-12-28,15,0,20,FHRS,,51.371093,-2.48556
+100211,Village Inn,Pub/bar/nightclub,SA2 3QF,Swansea,5,2023-01-28,15,0,5,FHRS,,51.611927,-2.94968
+100610,Royal Deli,Retailers - other,SA24 6PB,Swansea,3,2025-06-25,10,5,5,FHRS,,51.570063,-2.840346
+100553,Station Cafe,Takeaway/sandwich shop,CF27 4GL,Cardiff,5,2025-04-13,10,0,20,FHRS,,51.699613,-3.207661
+100184,Happy Kitchen,Retailers - other,,Bristol,5,2024-05-22,5,5,10,FHRS,,51.502183,
+101003,Village Bistro,Restaurant/Cafe/Canteen,CF13 6DS,Cardiff,5,2025-02-14,5,0,0,FHRS,,51.453527,-2.395848
+101038,Village Kitchen,Takeaway/sandwich shop,CF6 8GZ,Cardiff,5,2021-05-01,5,15,20,FHRS,,51.555279,-3.056578
+101181,Corner Bakery,Pub/bar/nightclub,np138hf,Newport,5,2025-10-21,0,0,0,FHRS,,51.598286,-2.329989
+100026,Golden Deli,Pub/bar/nightclub,BA14 4UY,Bath and North East Somerset,5,2021-09-19,0,0,10,FHRS,,51.371056,-2.669774
+100604,New Express,Restaurant/Cafe/Canteen,CF13 3GU,Cardiff,5,2021-07-08,0,5,0,FHRS,,,-3.15654
+100939,Royal Express,Pub/bar/nightclub,BS10 6SH,Bristol,4,2022-03-06,15,10,0,FHRS,,51.50685,-3.283622
+100976,Golden Diner,Restaurant/Cafe/Canteen,np195fr,Newport City Council,4,2023-02-04,15,5,0,FHRS,,51.695767,-2.877138
+100729,New Kitchen,Mobile caterer,,Swansea,5,2021-10-18,5,5,5,FHRS,,51.563934,-2.668764
+100277,Station Bistro,Restaurant/Cafe/Canteen,SA12 1YW,Swansea,AwaitingInspection,,,,,FHRS,,51.42364,-3.172407
+100653,Corner Express,Takeaway/sandwich shop,CF4 6WU,Cardiff,5,2022-07-20,15,15,10,FHRS,,51.492467,-3.099844
+100528,Station Stores,Takeaway/sandwich shop,NP8 7AF,Newport City Council,5,2025-11-29,20,5,10,FHRS,,51.320402,-2.396005
+100722,Station Grill,Retailers - other,CF30 2JH,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.589604,-2.887032
+100355,Harbour Deli,Takeaway/sandwich shop,CF16 3TQ,Cardiff,2,2024-07-07,20,10,0,FHRS,,51.470154,-3.052176
+100777,Green Stores,Takeaway/sandwich shop,CF30 3FX,Cardiff,5,2021-06-28,5,0,10,FHRS,,51.460941,-2.875234
+100950,Golden Bistro,Retailers - other,SA6 8GR,Swansea,5,2024-06-23,20,0,0,FHRS,,51.375857,-3.002728
+100558,New Express,Takeaway/sandwich shop,SA15 4HL,Swansea,2,2021-11-14,5,10,5,FHRS,,51.691785,-2.445578
+100932,New Diner,Pub/bar/nightclub,CF27 4FG,Cardiff,3,2025-01-24,20,5,5,FHRS,,51.661197,-2.83544
+100675,Harbour Stores,School/college/university,,Bath and North East Somerset,1,2023-08-19,0,0,10,FHRS,,51.480734,-2.536931
+100687,New Express,Restaurant/Cafe/Canteen,NP26 7YW,NEWPORT,3,2021-12-06,10,5,5,FHRS,,51.443305,-2.742926
+100314,Corner Inn,Takeaway/sandwich shop,BS22 8EJ,Bristol,5,2022-08-18,20,15,0,FHRS,,51.353028,-2.37078
+100638,Station Grill,Retailers - other,sa104ra,Swansea,5,2024-12-26,5,10,10,FHRS,,,
+100919,Golden Express,Restaurant/Cafe/Canteen,np123ef,Newport City Council,3,2022-11-20,0,10,20,FHRS,,51.404395,-2.433726
+100875,Village Bakery,Takeaway/sandwich shop,CF25 6TU,Cardiff,5,2021-02-18,10,10,10,FHRS,,51.633683,-3.063484
+100310,Old Cafe,Restaurant/Cafe/Canteen,SA12 5JS,Swansea,4,2024-09-12,20,10,0,FHRS,,,
+100343,Golden Grill,Takeaway/sandwich shop,CF16 5FL,Cardiff,4,2021-05-30,5,10,5,FHRS,,51.452967,-2.445217
+100822,Station Stores,Restaurant/Cafe/Canteen,SA18 4GD,Swansea,4,2025-06-24,20,5,10,FHRS,,51.59085,-2.737704
+100505,Green Express,Takeaway/sandwich shop,cf104rz,Cardiff,3,2021-04-24,15,15,5,FHRS,,51.613711,-2.752457
+100590,Happy Kitchen,Restaurant/Cafe/Canteen,CF28 2DL,Cardiff,5,2024-03-27,10,0,10,FHRS,,51.447221,-2.65405
+100168,New Kitchen,Takeaway/sandwich shop,NP12 9LN,NEWPORT,5,2024-05-20,5,5,0,FHRS,,51.537974,
+100946,Green Deli,Hotel/B&B,NP22 4PP,Newport City Council,5,2025-10-10,10,0,20,FHRS,,51.557787,-2.341614
+101020,Happy Diner,Restaurant/Cafe/Canteen,SA25 4BZ,Swansea,5,2025-11-08,10,0,20,FHRS,,,-2.452408
+100379,Old Deli,School/college/university,BS5 2NW,Bristol,4,2021-07-08,5,10,10,FHRS,,51.531507,-2.731855
+101154,Happy Stores,Takeaway/sandwich shop,SA27 2LT,Swansea,5,2024-10-02,20,15,0,FHRS,,51.351548,-2.680695
+100776,Harbour Stores,Restaurant/Cafe/Canteen,BS17 1AG,Bristol,5,2024-07-09,20,15,20,FHRS,,,-3.18994
+100457,Royal Deli,Takeaway/sandwich shop,NP4 9RE,Newport City Council,5,2021-05-01,5,10,0,FHRS,,,-2.981716
+100996,New Bakery,Restaurant/Cafe/Canteen,CF7 7NF,Cardiff,3,2022-05-12,0,5,5,FHRS,,51.673993,-2.393775
+100414,Old Stores,Pub/bar/nightclub,NP20 8WJ,NEWPORT,3,2024-11-11,15,0,10,FHRS,,51.345871,
+100421,Royal Bakery,Retailers - other,sa76rb,Swansea,4,2021-10-04,15,5,5,FHRS,,51.673193,-2.685058
+100758,Corner Grill,Pub/bar/nightclub,SA5 6SY,Swansea,2,2024-07-30,20,5,10,FHRS,,51.651502,-2.850534
+100917,Green Cafe,Pub/bar/nightclub,,Swansea,5,2023-03-24,5,5,20,FHRS,,51.564868,-2.938939
+100655,Old Bistro,Mobile caterer,SA27 1AN,Swansea,4,2023-06-07,20,0,20,FHRS,,51.51194,-3.285634
+101147,Royal Stores,Pub/bar/nightclub,bs218ft,Bristol,5,2023-01-07,15,15,20,FHRS,,51.426016,-2.988406
+100316,Golden Cafe,Takeaway/sandwich shop,CF29 4GL,Cardiff,5,2024-03-21,0,0,0,FHRS,,51.491002,-3.26101
+100602,New Inn,Takeaway/sandwich shop,BS17 3TS,Bristol,5,2023-11-27,5,0,0,FHRS,,51.696629,-2.327514
+100753,Golden Cafe,Retailers - other,NP6 6AT,NEWPORT,5,2025-08-23,5,0,10,FHRS,,,-3.162753
+100080,Harbour Inn,Takeaway/sandwich shop,BA6 8FP,Bath and North East Somerset,5,2022-01-15,15,0,20,FHRS,,51.483203,-3.053108
+100442,Village Express,School/college/university,np128wq,Newport,5,2025-10-11,0,15,0,FHRS,,51.414597,
+100126,Golden Bakery,Retailers - other,SA9 4QL,Swansea,AwaitingInspection,,,,,FHRS,,51.535502,
+100346,Royal Stores,Takeaway/sandwich shop,SA5 9SY,Swansea,5,2023-06-17,0,15,10,FHRS,,51.430476,-2.633984
+100879,Corner Inn,Restaurant/Cafe/Canteen,SA30 8UU,Swansea,5,2022-12-03,15,5,0,FHRS,,51.352532,-3.058773
+100460,Happy Kitchen,Takeaway/sandwich shop,SA6 2TJ,Swansea,5,2025-04-05,0,5,10,FHRS,,51.30112,
+100476,New Deli,Takeaway/sandwich shop,CF4 1SA,Cardiff,3,2025-10-23,20,10,10,FHRS,,51.671089,-3.241055
+101159,Happy Cafe,Restaurant/Cafe/Canteen,SA25 7HE,Swansea,5,2023-06-13,10,10,5,FHRS,,51.622225,-3.060853
+100583,Village Deli,Restaurant/Cafe/Canteen,BS2 1GG,Bristol,5,2024-04-16,15,15,20,FHRS,,51.620828,-2.421496
+100750,Royal Stores,Pub/bar/nightclub,BS6 4YF,Bristol,3,2021-03-11,20,15,20,FHRS,,51.551659,-2.850469
+101164,Harbour Deli,Restaurant/Cafe/Canteen,SA10 3WG,Swansea,4,2021-06-25,10,0,5,FHRS,,51.585643,
+100566,Village Diner,Restaurant/Cafe/Canteen,BS30 5GE,Bristol,4,2024-07-21,5,0,20,FHRS,,51.672193,-2.833538
+100676,Green Cafe,Retailers - other,SA12 8YP,Swansea,5,2023-09-22,5,10,10,FHRS,,51.335825,-2.97152
+101102,Happy Bistro,Pub/bar/nightclub,BS17 8YE,Bristol,2,2024-06-13,0,15,5,FHRS,,51.623563,
+100866,New Kitchen,Restaurant/Cafe/Canteen,BS28 9YG,Bristol,2,2025-05-26,5,15,5,FHRS,,51.653239,-3.294523
+100791,Happy Bistro,Mobile caterer,BS13 4ZN,Bristol,2,2024-12-30,10,10,5,FHRS,,51.617096,-2.476758
+100933,Happy Stores,Takeaway/sandwich shop,SA13 9FH,Swansea,5,2021-05-13,5,5,10,FHRS,,51.541431,-2.784789
+100434,Old Deli,Restaurant/Cafe/Canteen,BS3 6FE,Bristol,5,2023-02-06,15,5,10,FHRS,,51.485675,-2.623317
+100009,Corner Grill,Restaurant/Cafe/Canteen,BS6 8FQ,Bristol,3,2024-02-02,10,5,0,FHRS,,51.694509,-2.991496
+100319,Royal Bakery,Retailers - other,NP29 3FE,Newport,4,2021-01-08,5,15,10,FHRS,,51.431717,-2.490804
+100199,Royal Inn,Retailers - other,BS23 8PW,Bristol,5,2021-02-25,5,10,0,FHRS,,51.637238,-3.000131
+100280,Green Deli,Takeaway/sandwich shop,ba19rl,Bath and North East Somerset,5,2021-06-07,0,5,20,FHRS,,51.699947,-2.842127
+100660,Golden Stores,Restaurant/Cafe/Canteen,NP12 7PR,Newport,3,2021-12-20,10,10,10,FHRS,,51.662214,-2.367399
+100582,Royal Inn,Restaurant/Cafe/Canteen,bs273rl,Bristol,4,2021-11-24,0,5,5,FHRS,,51.483475,-2.687032
+100449,New Express,Takeaway/sandwich shop,CF21 4ZA,Cardiff,5,2022-09-12,15,10,5,FHRS,,0.0,0.0
+100888,Golden Bistro,Retailers - other,BS1 6AN,Bristol,Exempt,,,,,FHRS,,51.643454,-2.947549
+100891,Corner Express,Restaurant/Cafe/Canteen,ba156dg,BANES,5,2021-06-05,10,5,20,FHRS,,51.646613,-2.81332
+101144,Old Cafe,Pub/bar/nightclub,CF5 4ZE,Cardiff,4,2024-04-27,0,15,10,FHRS,,51.448886,-3.226995
+100964,Harbour Cafe,Retailers - other,NP16 3RZ,Newport,5,2021-11-24,0,15,5,FHRS,,51.365861,-3.045804
+100815,New Diner,Takeaway/sandwich shop,CF30 5WU,Cardiff,4,2025-07-22,5,5,5,FHRS,,51.663376,-3.285216
+100916,Green Grill,Takeaway/sandwich shop,BA8 4EG,Bath and North East Somerset,5,2023-02-11,15,10,20,FHRS,,,-2.914954
+101197,Green Stores,Restaurant/Cafe/Canteen,BS28 8UU,Bristol,5,2023-05-05,15,0,0,FHRS,,51.411747,-2.697069
+100623,Golden Grill,Takeaway/sandwich shop,sa239fy,Swansea,5,2025-07-14,0,0,5,FHRS,,51.643132,-2.981904
+100420,Green Diner,Mobile caterer,SA11 7LW,Swansea,3,2025-10-04,15,0,5,FHRS,,,-2.440299
+101025,Harbour Deli,Restaurant/Cafe/Canteen,CF25 6RX,Cardiff,AwaitingInspection,,,,,FHRS,,51.309463,-3.175779
+100792,Harbour Cafe,Restaurant/Cafe/Canteen,CF2 5XY,Cardiff,5,2023-12-27,0,10,0,FHRS,,51.362679,-2.427497
+100514,Happy Kitchen,Pub/bar/nightclub,BS29 6BY,Bristol,5,2021-04-04,10,10,10,FHRS,,51.476598,-2.526422
+100064,Golden Deli,Takeaway/sandwich shop,,Swansea,4,2022-09-06,15,10,20,FHRS,,51.608657,-3.187166
+100045,Royal Kitchen,Takeaway/sandwich shop,BS17 9NG,Bristol,4,2021-12-30,20,0,5,FHRS,,51.489977,-2.705246
+101112,Golden Diner,Restaurant/Cafe/Canteen,bs254wx,Bristol,3,2025-05-07,5,15,5,FHRS,,51.592682,-2.651838
+100118,Corner Grill,School/college/university,BS20 5ZE,Bristol,5,2025-02-21,5,15,0,FHRS,,51.618515,-2.714366
+100803,Royal Cafe,Takeaway/sandwich shop,bs214gw,Bristol,5,2021-01-24,15,5,10,FHRS,,51.521439,-2.376398
+100995,Village Bistro,Takeaway/sandwich shop,CF25 1YE,Cardiff,4,2024-08-27,5,10,0,FHRS,,51.608133,-2.494243
+101040,Royal Grill,Takeaway/sandwich shop,SA5 7TE,Swansea,5,2024-12-16,10,5,0,FHRS,,,-2.946403
+100797,Harbour Kitchen,Pub/bar/nightclub,BS17 7HG,Bristol,5,2022-03-22,10,0,10,FHRS,,51.351864,-2.598252
+101094,Happy Grill,Restaurant/Cafe/Canteen,bs177aw,Bristol,3,2022-08-28,10,0,5,FHRS,,51.626686,-2.584247
+100894,Old Deli,Takeaway/sandwich shop,CF13 3YW,Cardiff,5,2024-06-14,15,15,20,FHRS,,51.395074,-2.765036
+100253,Village Inn,Mobile caterer,NP29 1BW,Newport,5,2023-12-06,10,15,5,FHRS,,51.592793,-3.176702
+100102,Golden Cafe,Restaurant/Cafe/Canteen,CF28 1NP,Cardiff,3,2023-07-28,0,10,20,FHRS,,51.657341,-2.841254
+100036,Harbour Inn,Mobile caterer,CF7 7JS,Cardiff,5,2021-12-24,10,15,5,FHRS,,51.620857,-2.561299
+101011,Royal Diner,Takeaway/sandwich shop,CF8 6FW,Cardiff,3,2021-01-24,15,10,0,FHRS,,51.410961,
+100648,Corner Express,Restaurant/Cafe/Canteen,CF8 2JG,Cardiff,Exempt,,,,,FHRS,,51.505704,-2.541829
+100490,Golden Express,Restaurant/Cafe/Canteen,cf11ax,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.576056,-2.791366
+100667,Corner Deli,Retailers - other,CF19 4DH,Cardiff,1,2024-08-20,20,15,20,FHRS,,51.683906,-2.620232
+100242,Corner Grill,Takeaway/sandwich shop,,Bristol,5,2025-11-10,20,10,10,FHRS,,51.583777,-2.395168
+100598,Old Diner,Retailers - other,CF14 3RA,Cardiff,5,2023-04-20,0,10,10,FHRS,,51.418392,-3.186591
+100628,Royal Express,Retailers - other,SA20 4XG,Swansea,5,2024-03-07,15,15,5,FHRS,,51.441665,-2.669905
+100320,Station Cafe,Restaurant/Cafe/Canteen,CF21 5HP,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.311564,-3.000698
+101128,Old Kitchen,Mobile caterer,BS6 2FF,Bristol,5,2023-12-11,0,0,20,FHRS,,51.352015,-2.310585
+100584,New Diner,Takeaway/sandwich shop,SA23 8JW,Swansea,5,2023-09-02,10,15,5,FHRS,,51.567355,-2.80201
+101065,Corner Inn,Pub/bar/nightclub,NP18 7TY,Newport,5,2023-04-14,20,0,20,FHRS,,51.52953,-2.739451
+100814,Old Bistro,School/college/university,CF22 5WX,Cardiff,Exempt,,,,,FHRS,,51.607955,-2.339803
+101151,Station Grill,Pub/bar/nightclub,BA1 6ZZ,BANES,3,2025-02-19,0,0,0,FHRS,,51.382448,-2.77203
+100929,Happy Stores,Retailers - other,BS5 2HL,Bristol,4,2021-05-15,0,0,20,FHRS,,51.387582,-2.756375
+100688,New Bistro,Hotel/B&B,CF15 6UR,Cardiff,4,2023-06-26,5,10,5,FHRS,,51.656896,-2.974703
+100279,Harbour Deli,Restaurant/Cafe/Canteen,NP28 9LF,Newport City Council,5,2022-12-08,5,0,5,FHRS,,51.303565,-3.178242
+100633,Village Grill,Restaurant/Cafe/Canteen,BA15 8GT,Bath and North East Somerset,5,2025-03-28,0,15,0,FHRS,,51.530467,-2.905833
+100691,New Grill,Takeaway/sandwich shop,NP22 3FU,Newport City Council,5,2021-03-13,15,5,20,FHRS,,51.372854,-3.216599
+100967,Corner Cafe,Restaurant/Cafe/Canteen,SA29 3WZ,Swansea,AwaitingInspection,1900-01-01,,,,FHRS,,51.597247,-3.002195
+100230,Old Kitchen,Takeaway/sandwich shop,SA23 3SG,Swansea,5,2025-10-08,10,5,10,FHRS,,51.363866,-3.013141
+100486,New Grill,Restaurant/Cafe/Canteen,BA14 4DA,BANES,3,2025-05-26,0,10,10,FHRS,,51.4548,-2.508616
+101198,Harbour Cafe,Mobile caterer,BS12 9ZF,Bristol,5,2023-01-21,15,0,20,FHRS,,51.52291,-3.250105
+100951,Harbour Bistro,Takeaway/sandwich shop,CF5 3LY,Cardiff,5,2023-09-01,0,15,0,FHRS,,51.511548,
+101018,Station Diner,Retailers - other,CF12 9YD,Cardiff,5,2021-04-28,15,10,5,FHRS,,51.612689,-2.983723
+100884,Corner Deli,Retailers - other,BS27 9TU,Bristol,5,2023-05-21,5,5,10,FHRS,,51.655124,-2.324509
+100666,Royal Kitchen,Restaurant/Cafe/Canteen,SA4 9YL,Swansea,AwaitingInspection,,,,,FHRS,,51.323466,-2.402154
+100935,Happy Express,Hotel/B&B,CF9 6NG,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.673759,-2.403417
+100898,Old Grill,School/college/university,CF13 6PA,Cardiff,5,2023-02-24,20,10,0,FHRS,,51.675002,-2.327103
+101192,Golden Deli,Hotel/B&B,NP26 4WR,Newport,3,2021-10-05,5,15,10,FHRS,,51.511395,-3.204577
+101111,Station Diner,Retailers - other,CF9 8BN,Cardiff,5,2024-05-24,20,5,10,FHRS,,0.0,0.0
+100190,Village Bistro,Pub/bar/nightclub,CF7 2AN,Cardiff,5,2024-07-09,0,5,20,FHRS,,51.624337,-3.050696
+100807,Village Kitchen,Takeaway/sandwich shop,BS6 6SZ,Bristol,5,2025-10-22,0,0,20,FHRS,,51.48515,-2.944094
+100579,Green Cafe,Hotel/B&B,sa22eg,Swansea,5,2025-08-22,20,0,20,FHRS,,51.57849,-2.818183
+100877,Green Bistro,Restaurant/Cafe/Canteen,BA21 1AP,BANES,5,2024-09-17,0,10,20,FHRS,,51.366929,-3.179224
+100079,Harbour Grill,Takeaway/sandwich shop,CF5 8NT,Cardiff,5,2024-12-08,15,0,20,FHRS,,51.584715,
+100931,Royal Express,Takeaway/sandwich shop,SA8 5XL,Swansea,5,2021-10-13,20,5,20,FHRS,,51.433209,-3.275348
+101004,Corner Grill,Takeaway/sandwich shop,BS1 1ZW,Bristol,5,2025-10-26,0,10,10,FHRS,,51.572203,-3.171713
+100153,Royal Bakery,Takeaway/sandwich shop,bs184gj,Bristol,5,2023-02-26,10,5,10,FHRS,,51.409117,-2.97365
+100485,Station Diner,Takeaway/sandwich shop,CF15 6LU,Cardiff,5,2022-11-10,5,15,0,FHRS,,51.593873,-3.203019
+100276,Harbour Deli,Pub/bar/nightclub,BS6 6BB,Bristol,5,2021-09-18,0,15,0,FHRS,,51.536725,-3.213357
+100154,Station Bakery,Restaurant/Cafe/Canteen,BS10 3HS,Bristol,3,2022-02-14,10,10,0,FHRS,,51.507336,-2.368924
+101054,Golden Cafe,Takeaway/sandwich shop,BS3 9AH,Bristol,5,2021-09-29,5,0,20,FHRS,,51.406821,-2.606335
+101106,Old Grill,Takeaway/sandwich shop,CF1 8RN,Cardiff,Exempt,,,,,FHRS,,51.367549,
+100681,Village Deli,Retailers - other,CF3 3BR,Cardiff,5,2022-12-01,15,15,5,FHRS,,,-2.703822
+100783,Harbour Deli,Mobile caterer,BS4 1QH,Bristol,5,2022-08-02,5,5,0,FHRS,,51.683407,-2.72625
+100665,Station Cafe,Takeaway/sandwich shop,CF4 6QD,Cardiff,5,2023-06-14,0,10,10,FHRS,,51.528954,
+100171,Royal Bakery,Restaurant/Cafe/Canteen,sa59wq,Swansea,4,2023-12-06,5,0,5,FHRS,,51.347116,-2.772633
+100374,Village Bistro,Retailers - other,BS22 2FA,Bristol,5,2021-01-24,0,10,0,FHRS,,51.330425,-2.593964
+100671,Happy Stores,Restaurant/Cafe/Canteen,SA7 2BD,Swansea,5,2024-08-14,0,15,20,FHRS,,51.472722,-2.510401
+100719,New Inn,Takeaway/sandwich shop,cf292ez,Cardiff,4,2024-09-05,20,0,5,FHRS,,51.626022,-2.875588
+100873,Golden Diner,Takeaway/sandwich shop,BA18 3AU,BANES,5,2024-09-21,15,5,20,FHRS,,51.439743,
+101011,Royal Diner Ltd,Takeaway/sandwich shop,CF8 6FW,Cardiff,3,2021-01-24,15,10,0,FHRS,,51.410961,
+101189,Station Stores,Restaurant/Cafe/Canteen,BA14 9AN,Bath and North East Somerset,5,2023-12-18,0,5,20,FHRS,,51.589039,-2.372309
+100963,Village Bistro,School/college/university,CF9 3BW,Cardiff,5,2022-03-20,0,15,10,FHRS,,,-2.591395
+101085,Village Diner,Retailers - other,CF17 3FX,Cardiff,5,2024-07-14,15,15,10,FHRS,,51.552973,-2.317405
+100321,Royal Bistro,Retailers - other,BS4 9SU,Bristol,5,2021-04-20,0,15,0,FHRS,,51.523388,-3.185408
+100572,Corner Bakery,Takeaway/sandwich shop,CF6 5WN,Cardiff,5,2025-09-01,10,0,10,FHRS,,51.64053,
+100021,Royal Cafe,Restaurant/Cafe/Canteen,CF23 7DA,Cardiff,4,2021-04-23,20,15,0,FHRS,,,-2.840895
+100220,Royal Inn,Pub/bar/nightclub,NP19 6ET,Newport City Council,5,2022-07-21,10,5,0,FHRS,,51.505109,-2.675002
+101001,Green Express,Retailers - other,SA12 6JW,Swansea,5,2023-11-17,0,15,0,FHRS,,51.595381,-2.640934
+100024,Village Bakery,Pub/bar/nightclub,SA29 3AR,Swansea,5,2023-09-06,5,10,20,FHRS,,51.455748,-3.025908
+100858,Happy Inn,Retailers - other,SA26 3YF,Swansea,5,2022-02-04,20,0,0,FHRS,,,-2.761911
+101161,New Express,Takeaway/sandwich shop,BS15 1HE,Bristol,5,2025-08-03,10,0,10,FHRS,,51.500359,
+100351,Royal Grill,Retailers - other,NP17 9BA,Newport City Council,2,2023-02-14,10,5,0,FHRS,,51.474204,-2.550945
+100006,New Bistro,Hotel/B&B,BS3 3UT,Bristol,4,2022-07-11,15,10,20,FHRS,,51.476539,-2.884826
+100393,Green Express,Restaurant/Cafe/Canteen,CF24 1UR,Cardiff,4,2024-06-04,20,0,5,FHRS,,,-3.033666
+100203,Harbour Inn,School/college/university,BS23 3SB,Bristol,3,2023-11-10,5,10,10,FHRS,,51.31366,-2.765416
+100765,Golden Bakery,Retailers - other,CF22 2AN,Cardiff,5,2021-01-25,0,10,10,FHRS,,51.541773,
+100339,Royal Deli,Restaurant/Cafe/Canteen,NP3 5LR,Newport,4,2025-06-01,5,15,5,FHRS,,51.373128,-3.130821
+100881,Harbour Diner,Mobile caterer,NP19 4UB,Newport,5,2023-04-04,0,15,10,FHRS,,51.599211,-2.673504
+100701,Royal Kitchen,Takeaway/sandwich shop,CF19 2PH,Cardiff,5,2023-12-11,0,5,5,FHRS,,51.587106,-2.626379
+100125,Harbour Grill,Restaurant/Cafe/Canteen,CF3 5FW,Cardiff,Exempt,,,,,FHRS,,51.517648,-2.539638
+100562,Golden Grill,Takeaway/sandwich shop,SA29 6UX,Swansea,5,2023-11-26,15,10,10,FHRS,,51.487395,-2.688382
+100068,Harbour Cafe,Takeaway/sandwich shop,CF9 2FL,Cardiff,4,2023-10-21,20,5,0,FHRS,,51.601777,-3.233034
+100718,Happy Diner,Restaurant/Cafe/Canteen,,Bristol,5,2022-06-10,20,5,5,FHRS,,51.445421,-2.591089
+100444,Green Inn,Restaurant/Cafe/Canteen,cf297er,Cardiff,5,2021-02-13,10,0,10,FHRS,,51.507162,-2.669004
+100098,New Deli,School/college/university,BA27 4XZ,Bath and North East Somerset,3,2021-06-02,5,5,10,FHRS,,51.465717,-3.044562
+100241,Station Cafe,Retailers - other,NP18 5QD,Newport,AwaitingInspection,1900-01-01,,,,FHRS,,51.372404,-3.280703
+101012,New Deli,Restaurant/Cafe/Canteen,SA25 3GF,Swansea,5,2024-07-27,5,0,10,FHRS,,,-2.551678
+100238,Happy Express,Takeaway/sandwich shop,cf241ft,Cardiff,5,2025-01-18,20,0,20,FHRS,,51.520592,
+101036,Green Grill,Mobile caterer,NP24 4YU,Newport,5,2024-06-26,20,5,5,FHRS,,51.689764,-3.115286
+100240,Royal Cafe,Pub/bar/nightclub,NP24 1JR,Newport City Council,5,2022-08-22,5,5,5,FHRS,,51.509068,-3.04047
+101132,Green Stores,Takeaway/sandwich shop,BS6 5PW,Bristol,5,2024-08-10,10,5,5,FHRS,,51.55964,
+101155,Royal Diner,School/college/university,BS19 9WQ,Bristol,4,2025-05-20,15,15,10,FHRS,,51.489082,-3.100748
+101055,New Cafe,Restaurant/Cafe/Canteen,SA5 1AJ,Swansea,3,2023-03-26,0,15,5,FHRS,,,-2.348666
+100011,Station Bistro,Restaurant/Cafe/Canteen,NP14 4NT,NEWPORT,5,2021-04-24,15,10,20,FHRS,,51.590619,-2.853234
+100506,Happy Diner,Hotel/B&B,np143zg,Newport City Council,5,2023-10-07,15,0,0,FHRS,,51.386321,-3.045682
+100085,Royal Express,Restaurant/Cafe/Canteen,BS13 2UP,Bristol,4,2021-11-19,5,10,10,FHRS,,51.527807,-2.687167
+101200,Happy Bistro,Restaurant/Cafe/Canteen,SA5 1WF,Swansea,AwaitingInspection,,,,,FHRS,,51.69629,-2.797169
+101171,Village Diner,Retailers - other,NP9 6DW,Newport City Council,5,2021-09-11,15,10,0,FHRS,,51.318363,-2.854006
+100402,Old Cafe,Pub/bar/nightclub,BS11 1BB,Bristol,4,2025-06-16,10,10,20,FHRS,01105977415,51.630982,-2.623856
+101141,Village Express,Retailers - other,CF4 1PT,Cardiff,4,2022-11-24,15,0,10,FHRS,,51.468933,-2.852832
+101170,Station Bistro,Restaurant/Cafe/Canteen,CF7 1PH,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.671522,-3.062725
+100334,New Bakery,Takeaway/sandwich shop,CF5 3LZ,Cardiff,5,2024-05-31,0,10,10,FHRS,,51.557032,-3.071801
+100325,Golden Stores,Mobile caterer,NP25 1AB,Newport City Council,2,2023-02-28,15,15,20,FHRS,,51.46938,-2.473194
+100819,Harbour Bakery,Pub/bar/nightclub,CF26 1BS,Cardiff,5,2021-04-24,20,5,20,FHRS,,,-2.76594
+100025,Old Stores,Takeaway/sandwich shop,cf56pf,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.452051,-2.51304
+100836,Royal Deli,Retailers - other,BS22 1PR,Bristol,5,2022-10-27,10,5,5,FHRS,,51.635618,-2.907123
+101108,Old Deli,Restaurant/Cafe/Canteen,BA28 6RH,BANES,4,2024-01-07,0,10,10,FHRS,,51.380327,-2.633456
+100820,Harbour Deli,Pub/bar/nightclub,SA12 5XE,Swansea,3,2023-08-20,10,10,10,FHRS,,51.308715,-2.99179
+100934,Old Grill,Takeaway/sandwich shop,BS7 9FR,Bristol,5,2021-05-05,0,0,20,FHRS,,51.30897,-2.323362
+100218,New Grill,Restaurant/Cafe/Canteen,CF26 2UW,Cardiff,3,2025-09-13,20,0,10,FHRS,,51.394511,-3.059734
+100966,Village Diner,Pub/bar/nightclub,CF15 4QR,Cardiff,4,2024-03-16,5,5,20,FHRS,,51.658882,-3.00125
+100793,Harbour Deli,School/college/university,SA6 5RR,Swansea,5,2025-06-11,20,5,5,FHRS,,51.548081,-2.347845
+100596,Royal Grill,Restaurant/Cafe/Canteen,BS12 7TG,Bristol,2,2023-11-13,10,10,10,FHRS,,51.697975,-2.521351
+101107,Corner Deli,Mobile caterer,sa257fh,Swansea,5,2021-08-29,15,15,0,FHRS,,,-3.243866
+100772,New Diner,Restaurant/Cafe/Canteen,BA23 8RW,BANES,5,2021-11-03,20,0,10,FHRS,,51.526327,
+101002,Golden Inn,Pub/bar/nightclub,BA25 2FP,BANES,AwaitingInspection,1900-01-01,,,,FHRS,,51.323831,-3.138195
+101006,Station Deli,Restaurant/Cafe/Canteen,BA11 5FA,BANES,3,2025-03-14,0,10,5,FHRS,,51.686727,-2.445642
+100173,Village Grill,Retailers - other,NP19 9PQ,NEWPORT,3,2021-02-27,15,15,20,FHRS,,51.493392,-3.076964
+100943,Harbour Bistro,Hotel/B&B,CF18 3GY,Cardiff,5,2021-06-21,20,5,10,FHRS,,51.470221,-2.305538
+100164,Green Cafe,Restaurant/Cafe/Canteen,CF6 6XH,Cardiff,5,2022-11-07,5,10,20,FHRS,,51.555225,-2.31642
+100432,Station Stores,Takeaway/sandwich shop,cf144fd,Cardiff,4,2025-04-20,20,0,5,FHRS,,51.618776,-2.346436
+100169,New Inn,Restaurant/Cafe/Canteen,BA5 7ZZ,BANES,5,2024-06-15,20,5,5,FHRS,,51.388502,-2.406777
+100831,Old Bistro,Takeaway/sandwich shop,,Swansea,1,2021-01-21,15,5,0,FHRS,,51.547289,-2.470532
+101063,Happy Stores,Pub/bar/nightclub,,Swansea,5,2022-09-11,0,10,10,FHRS,,51.501304,-2.957662
+100587,Golden Inn,Takeaway/sandwich shop,sa121qn,Swansea,4,2023-04-12,0,15,0,FHRS,,51.461569,-2.433585
+101095,Happy Inn,Takeaway/sandwich shop,,Newport,5,2021-09-20,5,10,20,FHRS,,51.653865,-2.429014
+100512,Royal Bistro,Takeaway/sandwich shop,BS22 7TU,Bristol,4,2021-05-03,10,10,10,FHRS,,51.661297,-2.581708
+100674,Green Cafe,Pub/bar/nightclub,CF30 6YE,Cardiff,4,2023-05-26,15,5,0,FHRS,,51.323418,-2.317786
+100008,Royal Diner,Takeaway/sandwich shop,SA11 1HY,Swansea,Exempt,,,,,FHRS,,51.474143,-2.581758
+100366,Golden Grill,Mobile caterer,CF24 1HF,Cardiff,3,2023-03-25,10,0,10,FHRS,,51.4309,-3.217774
+100762,Royal Inn,Restaurant/Cafe/Canteen,,Cardiff,4,2023-09-26,0,5,0,FHRS,,51.60176,-3.192667
+100181,New Grill,Pub/bar/nightclub,CF11 4PY,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.386464,-2.314218
+100658,Golden Diner,Takeaway/sandwich shop,SA4 9YX,Swansea,4,2021-04-10,15,0,0,FHRS,,51.662357,
+100520,New Bakery,Takeaway/sandwich shop,CF6 7UJ,Cardiff,3,2023-08-15,20,10,10,FHRS,,51.357423,-2.653816
+100258,Station Bakery,Takeaway/sandwich shop,BS30 4ZQ,Bristol,AwaitingInspection,,,,,FHRS,,51.49039,-2.810001
+100192,Harbour Kitchen,School/college/university,CF10 8AL,Cardiff,5,2022-09-11,15,10,5,FHRS,,51.528947,-2.612031
+100571,Village Bakery,Pub/bar/nightclub,BS2 7LP,Bristol,5,2021-12-30,0,0,5,FHRS,,51.648381,-2.71753
+100646,Happy Grill,Restaurant/Cafe/Canteen,cf27et,Cardiff,4,2021-01-11,5,0,5,FHRS,,51.658482,-2.527357
+100501,Old Kitchen,Restaurant/Cafe/Canteen,CF23 1BF,Cardiff,5,2021-01-27,0,10,20,FHRS,,51.493061,-2.567239
+100345,Village Stores,Hotel/B&B,,Bristol,5,2021-06-22,0,15,0,FHRS,,51.314234,-2.957018
+100900,Village Kitchen,Restaurant/Cafe/Canteen,NP19 3DL,NEWPORT,5,2023-05-08,0,0,0,FHRS,,51.653318,-3.224649
+100727,Happy Bakery,Hotel/B&B,BS10 6ND,Bristol,AwaitingInspection,1900-01-01,,,,FHRS,,51.541003,-2.353622
+100367,Old Kitchen,Pub/bar/nightclub,CF3 5XY,Cardiff,4,2025-03-21,20,5,20,FHRS,,51.522828,-2.357335
+100135,Golden Kitchen,School/college/university,SA26 7EZ,Swansea,5,2024-10-18,5,0,20,FHRS,,,-2.362747
+100224,Station Diner,Takeaway/sandwich shop,BS17 7JT,Bristol,5,2023-10-10,10,15,0,FHRS,,51.464337,-2.555363
+100060,Green Bistro,Restaurant/Cafe/Canteen,BS14 7TQ,Bristol,5,2024-03-26,20,5,10,FHRS,,,-2.344228
+100411,Corner Bakery,Pub/bar/nightclub,CF6 1ZT,Cardiff,3,2022-02-15,10,0,20,FHRS,,,-2.671743
+101090,Station Kitchen,Restaurant/Cafe/Canteen,BA3 2BT,Bath and North East Somerset,4,2023-07-04,5,10,10,FHRS,,51.618653,-2.400587
+100120,Royal Kitchen,Restaurant/Cafe/Canteen,np117lt,NEWPORT,5,2022-09-08,5,15,20,FHRS,,51.589762,-2.809657
+100290,Station Express,Retailers - other,CF15 9EN,Cardiff,5,2024-10-08,5,15,5,FHRS,,51.685687,-3.062803
+100475,Green Deli,Takeaway/sandwich shop,SA6 1EF,Swansea,4,2023-12-31,10,0,10,FHRS,,51.574119,-2.411817
+100613,Old Kitchen,Takeaway/sandwich shop,NP19 8FY,Newport,4,2023-11-12,10,10,10,FHRS,,51.482648,-2.651274
+100172,New Cafe,Takeaway/sandwich shop,NP2 1YB,Newport,5,2022-04-16,15,10,0,FHRS,,51.43208,-2.400328
+101074,Old Diner,Retailers - other,BS23 6QA,Bristol,5,2022-08-08,20,0,0,FHRS,,51.526872,-2.707042
+100398,Station Inn,Restaurant/Cafe/Canteen,CF5 3QE,Cardiff,4,2021-05-14,15,0,5,FHRS,,,-2.523133
+101177,Village Inn,Takeaway/sandwich shop,ba95pa,BANES,Exempt,,,,,FHRS,,51.401258,-3.283575
+100993,Harbour Stores,Retailers - other,ba79jf,BANES,2,2022-10-21,20,10,20,FHRS,,,-3.219483
+101030,Happy Express,Pub/bar/nightclub,BS8 3SA,Bristol,5,2025-09-19,5,5,0,FHRS,,51.312302,-2.362037
+100288,Corner Grill,Restaurant/Cafe/Canteen,BS9 7PF,Bristol,0,2024-12-05,15,10,10,FHRS,,,-3.213348
+100515,New Cafe,Mobile caterer,BS3 4LY,Bristol,5,2021-03-15,0,15,0,FHRS,,51.310325,-2.781057
+100508,Old Inn,Takeaway/sandwich shop,bs255yb,Bristol,Exempt,,,,,FHRS,,51.347313,-3.165677
+100565,Royal Bistro,Takeaway/sandwich shop,CF15 4ZA,Cardiff,5,2022-09-02,5,10,20,FHRS,,51.411599,-2.304006
+100845,Golden Kitchen Ltd,Restaurant/Cafe/Canteen,CF26 1AA,Cardiff,5,2023-09-11,15,10,20,FHRS,,,-3.041868
+100337,Royal Inn,Pub/bar/nightclub,np54qe,Newport City Council,4,2022-12-14,0,5,10,FHRS,,51.66934,-2.414306
+100358,Harbour Express,Restaurant/Cafe/Canteen,np56ht,Newport City Council,AwaitingInspection,,,,,FHRS,,51.350897,-2.42944
+100924,Station Inn,Restaurant/Cafe/Canteen,NP16 7RL,Newport City Council,5,2025-09-09,10,0,20,FHRS,,51.643273,-2.525754
+100592,New Cafe,Restaurant/Cafe/Canteen,BA19 3JW,Bath and North East Somerset,5,2021-03-20,20,5,0,FHRS,,51.513288,-2.69876
+100275,Green Inn,School/college/university,NP18 9LU,NEWPORT,5,2021-07-29,5,15,5,FHRS,,51.485169,-2.412693
+100477,Old Grill,Retailers - other,cf158rb,Cardiff,5,2022-06-29,20,0,5,FHRS,,51.499359,-2.397283
+100443,Happy Cafe,Pub/bar/nightclub,CF7 8LH,Cardiff,4,2025-08-13,15,0,20,FHRS,,51.330469,-3.278855
+100645,Station Inn,Takeaway/sandwich shop,BS5 3FY,Bristol,4,2023-06-16,0,15,5,FHRS,,51.577759,-3.237263
+100329,Corner Deli,Pub/bar/nightclub,cf106th,Cardiff,AwaitingInspection,,,,,FHRS,,51.627513,-2.606583
+100362,Old Inn,Takeaway/sandwich shop,CF21 1TE,Cardiff,3,2025-04-24,0,5,5,FHRS,,51.495447,-3.186491
+101158,New Stores,Pub/bar/nightclub,BS3 6DF,Bristol,5,2024-10-17,5,10,20,FHRS,,51.488688,-3.108087
+100038,Corner Stores,Restaurant/Cafe/Canteen,bs209dj,Bristol,5,2023-03-30,10,5,10,FHRS,,51.414542,-3.164643
+101041,Harbour Grill,Retailers - other,NP14 4JR,Newport,AwaitingInspection,,,,,FHRS,,0.0,0.0
+100371,Village Grill,Retailers - other,ba57wp,BANES,1,2022-12-03,20,5,5,FHRS,,51.51101,-2.821707
+100586,Village Stores,Retailers - other,NP30 2EJ,Newport,AwaitingInspection,,,,,FHRS,,51.304489,-2.68626
+100428,Happy Deli,School/college/university,NP6 4PJ,Newport City Council,Exempt,,,,,FHRS,,51.440872,-2.754047
+100028,Happy Kitchen,Retailers - other,CF15 3GQ,Cardiff,5,2023-07-23,5,10,10,FHRS,,51.493834,-3.29509
+100890,Harbour Stores,School/college/university,SA13 3HE,Swansea,5,2021-12-18,0,10,20,FHRS,,51.30604,-2.572006
+100678,Station Kitchen,Takeaway/sandwich shop,CF5 5YG,Cardiff,Exempt,,,,,FHRS,,51.464292,-2.822553
+100244,Happy Cafe,Hotel/B&B,BS18 3HW,Bristol,3,2024-02-07,15,5,5,FHRS,,,-2.94574
+100855,Happy Grill,Mobile caterer,SA28 9WS,Swansea,5,2023-07-28,5,0,5,FHRS,,51.548276,-3.250382
+100730,Corner Deli,School/college/university,BS5 6GJ,Bristol,5,2024-10-14,15,15,5,FHRS,,51.625,-2.731719
+100342,Old Cafe,Restaurant/Cafe/Canteen,BS25 2JU,Bristol,5,2024-07-03,0,0,10,FHRS,,51.560321,-3.298277
+101033,Golden Express,Hotel/B&B,SA10 8EJ,Swansea,5,2021-12-04,15,5,0,FHRS,,51.322185,-3.14823
+100519,Royal Bistro,Retailers - other,BA22 9YY,Bath and North East Somerset,3,2025-05-15,5,5,20,FHRS,,51.384824,-2.671876
+100039,Royal Cafe,Retailers - other,BS30 1TE,Bristol,2,2025-06-12,5,5,20,FHRS,,51.368698,-2.643405
+100639,Village Kitchen,Restaurant/Cafe/Canteen,CF25 6AT,Cardiff,5,2024-12-02,10,15,20,FHRS,,,
+100550,Corner Bistro,Retailers - other,BS14 4JL,Bristol,3,2022-06-15,20,0,5,FHRS,,51.685245,-2.903424
+100014,New Kitchen,Hotel/B&B,BS2 6RP,Bristol,1,2022-11-01,5,0,10,FHRS,,,-2.788882
+100960,Happy Inn,Restaurant/Cafe/Canteen,SA7 9WL,Swansea,4,2021-03-29,5,15,0,FHRS,,51.466698,-2.696941
+100689,Station Inn,Restaurant/Cafe/Canteen,BS7 5FT,Bristol,5,2023-01-17,10,15,0,FHRS,,51.615582,-2.783388
+100957,Golden Grill,Restaurant/Cafe/Canteen,BS17 9FS,Bristol,5,2021-02-19,20,10,10,FHRS,,51.403423,-2.897255
+100255,Old Express,Restaurant/Cafe/Canteen,BS29 3AP,Bristol,5,2022-06-19,5,15,0,FHRS,,,-2.916843
+101119,Station Diner,Takeaway/sandwich shop,SA8 2XU,Swansea,5,2024-08-17,15,15,20,FHRS,,51.451345,-2.924537
+100975,Happy Express,Retailers - other,BS3 5JR,Bristol,5,2025-05-20,15,0,5,FHRS,,51.497837,-2.359666
+101076,Station Stores,Retailers - other,CF22 3ZJ,Cardiff,4,2024-12-21,5,0,5,FHRS,,51.551066,-2.621395
+100463,Green Deli,Takeaway/sandwich shop,NP11 8UN,Newport City Council,AwaitingInspection,1900-01-01,,,,FHRS,,51.305567,-2.72074
+100233,Royal Bistro,Hotel/B&B,BS12 5AH,Bristol,1,2022-01-06,0,10,0,FHRS,,51.497303,-2.955107
+100497,Station Grill,Takeaway/sandwich shop,NP20 4UQ,Newport City Council,5,2025-08-18,10,5,0,FHRS,,51.318352,-2.510557
+100999,New Bakery,Restaurant/Cafe/Canteen,BS10 3NG,Bristol,4,2021-05-16,15,0,5,FHRS,,51.670819,
+100607,Old Bistro,Restaurant/Cafe/Canteen,ba106bg,Bath and North East Somerset,5,2021-12-23,10,5,20,FHRS,,51.486064,-2.960551
+100986,Village Cafe,Retailers - other,cf284zq,Cardiff,3,2023-06-22,10,0,0,FHRS,,51.429406,-2.91946
+100409,Green Deli,Restaurant/Cafe/Canteen,SA8 8LL,Swansea,5,2025-08-29,15,0,5,FHRS,,51.66964,
+100609,Village Bakery,Restaurant/Cafe/Canteen,BA7 6WG,BANES,5,2022-01-12,10,10,10,FHRS,,51.673844,-3.134569
+100870,Golden Bakery,Hotel/B&B,SA22 7HP,Swansea,5,2025-10-16,0,10,10,FHRS,,51.404529,-3.162804
+100913,Golden Stores,Retailers - other,SA8 3YQ,Swansea,3,2024-03-16,15,5,10,FHRS,,,-2.426265
+100201,New Stores,Takeaway/sandwich shop,ba214yw,BANES,5,2023-12-31,10,0,10,FHRS,,51.644285,-2.884334
+100131,Royal Deli,Retailers - other,,Swansea,5,2024-02-23,5,0,0,FHRS,,51.535752,-2.375237
+100298,Station Deli,Takeaway/sandwich shop,NP9 1YF,Newport,5,2023-05-31,0,5,5,FHRS,,51.603296,-2.598301
+100219,Corner Deli,Restaurant/Cafe/Canteen,BS17 4BB,Bristol,4,2025-09-08,0,5,20,FHRS,,51.489936,-2.849005
+100732,Village Cafe,Restaurant/Cafe/Canteen,BS11 5HG,Bristol,5,2022-04-05,10,0,5,FHRS,,51.543136,-2.950126
+100867,New Bakery,Restaurant/Cafe/Canteen,CF13 5AP,Cardiff,2,2021-12-02,20,0,0,FHRS,,51.584375,
+100704,Old Grill,Takeaway/sandwich shop,sa172tg,Swansea,5,2025-03-26,10,5,10,FHRS,,51.48272,-2.324702
+100187,Green Grill,Takeaway/sandwich shop,CF19 5XT,Cardiff,5,2023-06-28,0,15,10,FHRS,,51.679702,-3.091842
+100146,Golden Cafe,Retailers - other,CF20 1XG,Cardiff,5,2023-10-21,15,10,10,FHRS,,,-3.057274
+100747,Station Grill,Takeaway/sandwich shop,SA1 3NQ,Swansea,2,2025-05-24,20,5,5,FHRS,,51.533397,-2.402869
+100222,Green Bistro,Pub/bar/nightclub,BS14 3EY,Bristol,5,2023-03-05,5,15,20,FHRS,,51.508432,-3.242475
+100744,Happy Bistro,School/college/university,CF4 4RN,Cardiff,4,2025-02-20,10,15,20,FHRS,,51.435029,-3.214678
+100746,Harbour Inn,Takeaway/sandwich shop,CF21 8FQ,Cardiff,5,2025-11-27,0,0,10,FHRS,,51.529453,-2.62032
+100897,New Diner,Hotel/B&B,CF2 7ZE,Cardiff,4,2025-09-17,20,10,5,FHRS,,,-3.218376
+101024,Green Express,Takeaway/sandwich shop,BS26 2GA,Bristol,5,2021-01-08,0,15,10,FHRS,,51.302305,-2.858544
+101084,Village Inn,Restaurant/Cafe/Canteen,CF9 9ST,Cardiff,3,2023-02-17,10,15,10,FHRS,,51.322078,-2.302303
+100296,Village Stores,Mobile caterer,BS12 1ZU,Bristol,5,2021-09-03,5,0,5,FHRS,,51.692638,-2.777171
+100073,Harbour Kitchen,Restaurant/Cafe/Canteen,CF15 7AD,Cardiff,5,2024-04-28,0,5,20,FHRS,,51.598564,-3.110738
+100546,Old Deli,Pub/bar/nightclub,BS21 3JX,Bristol,3,2024-04-10,0,15,20,FHRS,,51.504774,-2.739946
+100082,Happy Inn,Pub/bar/nightclub,BA3 9XT,BANES,5,2024-11-22,5,10,5,FHRS,,51.632015,-2.592608
+100686,New Grill,Mobile caterer,CF6 4UW,Cardiff,5,2024-09-10,0,5,0,FHRS,,51.336342,-3.165815
+100108,Happy Bistro,Restaurant/Cafe/Canteen,SA3 4BL,Swansea,5,2025-10-13,0,15,20,FHRS,,51.588759,
+100526,Happy Grill,Hotel/B&B,BS21 4FZ,Bristol,3,2022-01-18,0,5,10,FHRS,,51.463429,-3.07818
+100612,Old Bistro,Retailers - other,bs291ex,Bristol,4,2024-01-03,15,5,10,FHRS,,51.515483,-2.816039
+100019,Corner Express,Restaurant/Cafe/Canteen,BS29 7YH,Bristol,3,2024-07-28,5,0,0,FHRS,,,-2.869452
+100262,Corner Bistro,Restaurant/Cafe/Canteen,SA8 4GU,Swansea,5,2021-07-10,10,5,5,FHRS,,51.372906,-2.680276
+100174,Harbour Diner,Restaurant/Cafe/Canteen,BS9 1BR,Bristol,Exempt,,,,,FHRS,,51.56396,-2.454805
+101134,Old Express,Restaurant/Cafe/Canteen,BS3 9EX,Bristol,5,2024-08-08,10,5,0,FHRS,,51.361014,-2.463961
+101050,Harbour Diner,Hotel/B&B,BA14 5WF,Bath and North East Somerset,3,2023-08-21,15,5,10,FHRS,,51.435747,-2.45234
+101053,Old Inn,School/college/university,BS13 7AX,Bristol,4,2025-05-10,10,10,10,FHRS,,51.44297,-3.261652
+100961,Royal Bakery,Takeaway/sandwich shop,SA21 4DB,Swansea,3,2022-09-27,5,0,10,FHRS,,51.389009,-2.890431
+100945,Happy Cafe,Retailers - other,np209af,Newport City Council,5,2023-09-23,15,10,0,FHRS,,51.645588,-3.281734
+101133,Golden Bistro,Pub/bar/nightclub,CF11 3XQ,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.419052,-3.278564
+100905,Golden Bakery,Restaurant/Cafe/Canteen,BS24 6LA,Bristol,4,2022-06-27,15,10,0,FHRS,,51.467519,
+100567,Old Diner,Restaurant/Cafe/Canteen,BS11 2YP,Bristol,2,2022-10-29,10,15,10,FHRS,,51.537214,
+100297,Old Bistro,Retailers - other,CF18 3NZ,Cardiff,Exempt,,,,,FHRS,,51.41864,-3.284367
+100144,Corner Cafe,Hotel/B&B,CF7 8BR,Cardiff,5,2024-05-27,5,15,20,FHRS,,51.567423,-2.406435
+100458,Green Cafe,Takeaway/sandwich shop,bs189ha,Bristol,5,2025-07-30,5,0,5,FHRS,,51.601277,-2.305289
+100552,Golden Stores,Takeaway/sandwich shop,SA23 4PW,Swansea,5,2022-03-22,5,10,0,FHRS,,51.355638,-3.163372
+100117,Green Bakery,Restaurant/Cafe/Canteen,BS4 9SX,Bristol,5,2023-01-14,15,15,10,FHRS,,51.605385,
+101029,Golden Diner,Pub/bar/nightclub,cf112jz,Cardiff,Exempt,,,,,FHRS,,51.435362,-2.821852
+100896,Harbour Deli,Retailers - other,BS13 3AZ,Bristol,5,2025-09-19,5,5,0,FHRS,,51.480208,
+100415,Green Inn,School/college/university,SA12 2XL,Swansea,5,2022-06-29,10,5,5,FHRS,,51.369457,-2.960496
+100741,Golden Express,Pub/bar/nightclub,BS20 4HW,Bristol,5,2022-05-31,20,5,10,FHRS,,51.518799,-2.623924
+100861,Village Cafe,School/college/university,CF22 6NN,Cardiff,5,2023-05-06,20,5,0,FHRS,,,-2.578988
+100455,Happy Stores,Retailers - other,cf85zu,Cardiff,5,2022-05-20,10,5,10,FHRS,,51.517462,-2.777384
+100955,Station Bistro,Hotel/B&B,cf99et,Cardiff,4,2022-12-21,20,15,0,FHRS,,51.532549,-2.720636
+100142,Village Inn,Restaurant/Cafe/Canteen,CF4 6XH,Cardiff,5,2024-08-07,20,10,10,FHRS,,51.339388,-2.909868
+100007,Station Cafe,Restaurant/Cafe/Canteen,CF5 2ZT,Cardiff,5,2024-01-02,5,15,20,FHRS,,51.437292,-2.51127
+100941,Royal Express,Retailers - other,BA9 4FB,Bath and North East Somerset,5,2024-08-25,5,5,0,FHRS,,51.664994,-2.379598
+100360,Corner Deli,Pub/bar/nightclub,CF19 9LF,Cardiff,4,2024-05-18,0,15,0,FHRS,,,-2.537416
+100850,Golden Deli,Restaurant/Cafe/Canteen,BS8 1JF,Bristol,4,2022-05-30,10,0,5,FHRS,,51.443343,-2.907413
+100723,Green Cafe,Restaurant/Cafe/Canteen,BS30 6JB,Bristol,1,2024-08-18,10,10,0,FHRS,,51.505711,-2.807252
+100844,Old Kitchen,Pub/bar/nightclub,BA7 7SL,BANES,Exempt,1900-01-01,,,,FHRS,,51.445836,-3.174526
+100300,Green Deli,Pub/bar/nightclub,BS24 7BJ,Bristol,3,2021-12-12,10,5,20,FHRS,,51.347141,-2.639825
+100603,Harbour Stores,Restaurant/Cafe/Canteen,NP17 2NA,Newport City Council,3,2023-07-04,10,0,10,FHRS,,51.346338,-2.360254
+100377,Green Cafe,Retailers - other,cf232wy,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,,-3.099418
+100968,New Express,Retailers - other,NP13 6WL,Newport,3,2022-02-01,10,10,20,FHRS,,51.534173,-2.77099
+101037,Royal Deli,Takeaway/sandwich shop,SA25 7FY,Swansea,5,2023-02-17,20,15,20,FHRS,,51.661842,-3.234777
+101125,New Bakery,Takeaway/sandwich shop,BA28 5JW,Bath and North East Somerset,4,2025-08-21,10,10,5,FHRS,,51.30374,-3.218986
+100413,Corner Grill,Mobile caterer,SA22 7GA,Swansea,AwaitingInspection,1900-01-01,,,,FHRS,,51.608576,-2.69918
+100058,Happy Grill,Mobile caterer,SA8 2BB,Swansea,4,2021-10-23,20,0,0,FHRS,,51.31959,-2.318193
+100769,Harbour Bakery,Takeaway/sandwich shop,BS17 1AW,Bristol,5,2022-11-01,15,10,0,FHRS,,51.309742,-2.358001
+101165,New Bistro,Restaurant/Cafe/Canteen,NP27 8NZ,Newport City Council,4,2023-02-26,5,10,20,FHRS,,51.565692,-3.242892
+101168,Old Stores,Takeaway/sandwich shop,SA8 5TW,Swansea,Exempt,,,,,FHRS,,51.411296,-2.47375
+100785,Harbour Cafe,Retailers - other,SA22 6PD,Swansea,5,2023-01-08,10,5,10,FHRS,,51.5089,-2.87337
+100454,Old Bakery,Hotel/B&B,BS10 7UU,Bristol,5,2024-11-03,0,15,20,FHRS,,51.484419,
+101127,Village Deli,Takeaway/sandwich shop,bs12au,Bristol,5,2024-11-13,5,0,20,FHRS,,51.438471,-2.683239
+100690,Village Stores,Takeaway/sandwich shop,SA19 5XQ,Swansea,5,2021-09-23,15,15,0,FHRS,,51.455488,-2.478542
+100013,Golden Diner,Restaurant/Cafe/Canteen,SA19 2SH,Swansea,5,2022-09-23,20,0,20,FHRS,,51.529696,-2.490186
+100895,Corner Deli,Restaurant/Cafe/Canteen,CF21 7SY,Cardiff,5,2024-12-30,10,0,10,FHRS,,51.341131,
+100677,Station Bakery,Pub/bar/nightclub,BS26 9TN,Bristol,4,2024-03-23,15,5,0,FHRS,,51.495083,-3.145757
+101083,Green Deli,Restaurant/Cafe/Canteen,BA7 1SA,BANES,5,2023-03-02,15,10,10,FHRS,,51.645382,-2.597862
+100489,Royal Grill,School/college/university,BA26 8FY,BANES,3,2021-04-04,10,10,5,FHRS,,51.352666,-3.087425
+100708,Old Stores,Restaurant/Cafe/Canteen,SA9 4PT,Swansea,5,2025-03-14,15,10,10,FHRS,,51.458209,-2.983937
+100498,Old Stores,Mobile caterer,CF28 9JB,Cardiff,5,2025-02-07,5,15,0,FHRS,,51.629537,-2.563117
+100643,New Kitchen,Restaurant/Cafe/Canteen,BS26 5UE,Bristol,5,2023-10-07,10,15,10,FHRS,,51.528206,-2.3956
+100926,Green Grill,Takeaway/sandwich shop,cf155hr,Cardiff,5,2025-11-04,0,15,5,FHRS,,51.641621,-2.900487
+100887,Royal Inn,Restaurant/Cafe/Canteen,CF30 7JW,Cardiff,5,2021-05-02,10,0,20,FHRS,,51.682478,-3.188344
+100781,Golden Grill,Restaurant/Cafe/Canteen,SA30 1WX,Swansea,4,2022-06-14,15,5,0,FHRS,,51.432579,
+100834,Happy Deli,Takeaway/sandwich shop,BS5 8NF,Bristol,5,2022-11-27,20,15,0,FHRS,,51.565506,-3.040575
+100272,Green Cafe,Restaurant/Cafe/Canteen,BS25 7BS,Bristol,5,2023-05-14,5,0,5,FHRS,,51.514692,
+100416,Old Inn,Mobile caterer,SA11 6EN,Swansea,5,2023-05-15,20,10,20,FHRS,,51.637977,
+100363,Royal Express,Retailers - other,CF20 5XY,Cardiff,3,2025-10-05,5,15,10,FHRS,,,-3.078347
+100547,Station Express,Takeaway/sandwich shop,BA18 1TT,BANES,5,2025-01-27,20,5,10,FHRS,,51.353678,
+100593,Corner Stores,Restaurant/Cafe/Canteen,CF13 5TW,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.311787,-2.806246
+100354,Village Grill,Restaurant/Cafe/Canteen,SA10 3QB,Swansea,0,2022-04-08,10,15,10,FHRS,,51.384507,-2.568283
+100406,Station Bistro,School/college/university,SA4 6AG,Swansea,5,2022-06-02,5,0,5,FHRS,,51.418398,-2.390687
+100474,Green Inn,Retailers - other,BS27 1TJ,Bristol,4,2022-10-19,15,5,10,FHRS,,51.345209,-2.420045
+100273,Green Bistro,School/college/university,CF17 8RA,Cardiff,5,2025-10-11,10,0,5,FHRS,,51.513544,-2.784025
+100796,Old Stores,Takeaway/sandwich shop,SA19 6UE,Swansea,5,2023-09-12,10,10,20,FHRS,,51.567236,-3.155322
+101042,Harbour Deli,Restaurant/Cafe/Canteen,CF21 8SQ,Cardiff,4,2023-01-15,5,5,10,FHRS,,51.416705,-2.983801
+100626,Happy Bistro,Restaurant/Cafe/Canteen,SA16 5BP,Swansea,3,2023-03-20,15,15,0,FHRS,,,-3.026019
+100851,Station Bakery,School/college/university,SA13 5LT,Swansea,5,2021-08-19,0,15,10,FHRS,,51.624864,-2.418082
+100911,Harbour Stores,Mobile caterer,CF12 3XZ,Cardiff,2,2023-05-05,0,0,10,FHRS,,51.437963,-2.473246
+100680,Golden Kitchen,Mobile caterer,BA24 2FW,BANES,5,2024-11-28,20,10,10,FHRS,,,-2.758208
+100315,Village Diner,Restaurant/Cafe/Canteen,SA10 7XH,Swansea,5,2022-03-21,15,15,20,FHRS,,51.589777,-3.097803
+101143,Golden Deli,Restaurant/Cafe/Canteen,CF30 5ZZ,Cardiff,5,2022-07-02,0,5,20,FHRS,,51.364266,-3.287974
+100330,Green Diner,Restaurant/Cafe/Canteen,NP5 2BT,Newport,3,2023-04-29,20,0,0,FHRS,,51.465902,-3.140987
+100697,Station Bakery,Mobile caterer,CF18 1BN,Cardiff,4,2023-02-01,15,10,0,FHRS,,51.57392,-3.229714
+101137,Old Inn,Takeaway/sandwich shop,BS9 9BP,Bristol,5,2024-03-23,10,15,0,FHRS,,51.598383,-3.070654
+100830,Old Kitchen,Retailers - other,SA6 4NX,Swansea,5,2024-03-13,5,5,5,FHRS,,51.49942,-2.977074
+100551,Green Deli,Hotel/B&B,SA23 4DR,Swansea,Exempt,,,,,FHRS,,51.361412,-2.535214
+100062,Village Cafe,Takeaway/sandwich shop,sa254ue,Swansea,3,2021-10-17,5,5,0,FHRS,,51.697695,
+100478,Old Cafe,Restaurant/Cafe/Canteen,CF7 2EL,Cardiff,5,2024-06-11,5,15,0,FHRS,,51.607277,
+101092,Old Deli,Restaurant/Cafe/Canteen,CF28 2TN,Cardiff,3,2023-06-12,20,0,0,FHRS,,51.690846,-2.857394
+100560,Harbour Inn,Takeaway/sandwich shop,BS29 9HL,Bristol,3,2021-10-31,0,10,0,FHRS,,51.477079,-2.835391
+100123,Village Diner,Restaurant/Cafe/Canteen,bs57rj,Bristol,5,2021-08-17,10,0,5,FHRS,,51.362951,-3.238929
+100930,Station Bistro,Retailers - other,CF10 1ZQ,Cardiff,5,2022-05-21,10,5,0,FHRS,,,-2.588542
+100451,Old Bakery,Mobile caterer,SA12 3PL,Swansea,5,2021-03-08,15,5,20,FHRS,,51.307295,-2.63567
+100248,Golden Diner,Retailers - other,BS9 9AQ,Bristol,4,2021-12-02,5,5,0,FHRS,,51.320353,
+100878,Green Grill,School/college/university,BA20 8WA,Bath and North East Somerset,5,2025-03-10,0,0,5,FHRS,,51.318134,-2.435605
+100479,Old Bakery,Pub/bar/nightclub,CF14 5DE,Cardiff,AwaitingInspection,,,,,FHRS,,51.323681,-3.275713
+101064,Station Express,Restaurant/Cafe/Canteen,BA13 3RQ,Bath and North East Somerset,AwaitingInspection,1900-01-01,,,,FHRS,,51.634432,-2.538797
+100513,New Cafe,Retailers - other,BS26 3SS,Bristol,AwaitingInspection,1900-01-01,,,,FHRS,,51.446577,-3.155441
+101062,Royal Express,Retailers - other,CF5 1JX,Cardiff,5,2025-08-30,0,15,20,FHRS,,51.361913,-2.461727
+100605,Old Inn,Pub/bar/nightclub,SA26 2WY,Swansea,AwaitingInspection,,,,,FHRS,,51.678123,
+100401,Royal Cafe,Restaurant/Cafe/Canteen,BS8 2JP,Bristol,3,2021-06-15,0,10,0,FHRS,,51.494521,-3.211425
+101101,Corner Grill,Restaurant/Cafe/Canteen,SA4 3LQ,Swansea,3,2021-01-29,5,0,5,FHRS,,51.414413,-2.48616
+100529,Green Bakery,Takeaway/sandwich shop,CF15 7GR,Cardiff,3,2021-05-04,5,10,0,FHRS,,51.560808,-3.219677
+100299,Green Express,Takeaway/sandwich shop,,Swansea,4,2023-12-07,20,0,0,FHRS,,51.441577,-3.283216
+100075,Corner Inn,Retailers - other,BA6 6UT,BANES,5,2023-11-18,20,15,5,FHRS,,51.65224,-3.166789
+100003,Station Inn,Takeaway/sandwich shop,sa64sj,Swansea,4,2021-05-14,10,0,0,FHRS,,51.44967,-3.187084
+100833,Old Inn,Restaurant/Cafe/Canteen,SA7 8JQ,Swansea,5,2023-02-22,5,0,10,FHRS,,51.610181,-2.443864
+100838,Harbour Grill,Pub/bar/nightclub,BS10 6WJ,Bristol,4,2022-05-11,15,10,0,FHRS,,51.581045,-2.988664
+100886,Happy Cafe,Pub/bar/nightclub,SA1 4ZR,Swansea,5,2024-02-24,10,10,10,FHRS,,,-2.619597
+100981,Green Deli,Restaurant/Cafe/Canteen,SA27 5LU,Swansea,5,2025-06-05,0,0,5,FHRS,01534579450,51.382601,-2.323364
+100614,Green Express,Hotel/B&B,BS26 5ZH,Bristol,5,2022-04-25,20,5,10,FHRS,,51.533957,-3.098206
+100403,Village Bistro,Hotel/B&B,NP16 3SN,NEWPORT,5,2024-06-18,20,5,10,FHRS,,51.350183,-2.775234
+100542,Green Stores,Restaurant/Cafe/Canteen,,Cardiff,4,2023-06-15,5,5,20,FHRS,,51.686776,-2.539424
+100496,New Deli,Restaurant/Cafe/Canteen,SA10 7FF,Swansea,4,2022-06-18,20,15,0,FHRS,,51.474877,-3.167042
+100422,New Bistro,Hotel/B&B,BA15 1HQ,BANES,5,2023-03-23,5,0,5,FHRS,,,-3.226488
+100302,Old Bakery,Pub/bar/nightclub,BA16 8FB,BANES,3,2022-08-01,15,10,20,FHRS,,51.5303,-2.53852
+100004,Happy Deli,Restaurant/Cafe/Canteen,BS14 7TJ,Bristol,AwaitingInspection,,,,,FHRS,,51.421028,-2.356975
+100407,Village Bistro,School/college/university,BA21 7GL,Bath and North East Somerset,5,2022-12-03,5,15,0,FHRS,,51.525205,-3.21696
+100425,Royal Grill,Takeaway/sandwich shop,CF17 2DG,Cardiff,5,2025-01-29,20,15,10,FHRS,,51.628379,-2.747215
+101070,Old Cafe,Pub/bar/nightclub,BS18 4LT,Bristol,5,2024-02-17,10,15,20,FHRS,,51.316804,-3.034711
+101199,Station Cafe,Takeaway/sandwich shop,SA12 5TW,Swansea,Exempt,,,,,FHRS,,51.690568,-2.762052
+100661,Royal Bakery,Takeaway/sandwich shop,CF30 9TQ,Cardiff,4,2021-08-20,20,10,0,FHRS,,51.545262,-2.805895
+100927,New Inn,Retailers - other,BS3 9LB,Bristol,5,2023-05-29,15,15,0,FHRS,,51.460763,-2.93832
+100186,New Bistro,Pub/bar/nightclub,BS26 8EL,Bristol,5,2022-03-21,5,10,0,FHRS,,51.647458,-2.915827
+100787,Old Bistro,Takeaway/sandwich shop,CF24 5UW,Cardiff,5,2024-03-09,10,15,0,FHRS,,,-2.416513
+100217,Green Grill,Retailers - other,BA9 6YE,BANES,5,2024-01-01,10,5,0,FHRS,,51.405094,-2.764427
+100383,Royal Bistro,Restaurant/Cafe/Canteen,CF25 9XT,Cardiff,0,2023-04-18,10,15,10,FHRS,,51.331343,
+100988,New Kitchen,Restaurant/Cafe/Canteen,CF26 4TL,Cardiff,4,2021-03-06,15,5,10,FHRS,,,-3.248133
+100521,Golden Kitchen,Restaurant/Cafe/Canteen,cf129df,Cardiff,5,2021-02-17,20,10,20,FHRS,,51.537099,-2.445327
+100390,Golden Bakery,Pub/bar/nightclub,CF18 7YY,Cardiff,5,2021-09-03,0,0,0,FHRS,,51.661413,-3.171709
+100625,Village Grill,Restaurant/Cafe/Canteen,CF2 6LA,Cardiff,5,2023-12-23,20,5,5,FHRS,,51.411551,-2.438584
+101104,Station Deli,Restaurant/Cafe/Canteen,BS22 6NT,Bristol,5,2022-07-13,15,10,10,FHRS,,51.615713,-2.495889
+100863,Village Diner,Restaurant/Cafe/Canteen,CF8 6AP,Cardiff,5,2024-01-29,15,15,0,FHRS,,51.690607,-2.499329
+100404,Corner Bakery,Restaurant/Cafe/Canteen,CF15 9QP,Cardiff,1,2025-07-31,0,0,10,FHRS,,51.315162,-2.848711
+101034,Corner Deli,Restaurant/Cafe/Canteen,CF8 6PF,Cardiff,4,2023-08-31,15,0,20,FHRS,,51.389085,-3.154332
+100208,Green Bakery,Restaurant/Cafe/Canteen,SA27 6XJ,Swansea,4,2023-11-25,5,10,5,FHRS,,51.356671,-2.464975
+100630,Harbour Cafe,Pub/bar/nightclub,SA22 9DE,Swansea,Exempt,,,,,FHRS,,51.493685,
+101185,Corner Stores,Takeaway/sandwich shop,SA30 2YJ,Swansea,5,2022-07-18,5,15,0,FHRS,,51.55164,-2.504837
+100837,Green Inn,Hotel/B&B,BS26 8UU,Bristol,AwaitingInspection,1900-01-01,,,,FHRS,,51.658067,-2.591479
+100672,New Grill,Restaurant/Cafe/Canteen,BS30 9HL,Bristol,4,2021-12-10,20,5,10,FHRS,,51.6422,-2.65054
+100247,Happy Diner,Takeaway/sandwich shop,NP21 5PF,Newport City Council,4,2021-07-11,20,5,5,FHRS,,51.49987,-2.662219
+100539,Green Grill,Restaurant/Cafe/Canteen,CF3 9FT,Cardiff,2,2022-01-08,0,0,5,FHRS,,51.501772,-2.393715
+100281,Station Express,Restaurant/Cafe/Canteen,NP2 3NS,NEWPORT,4,2023-05-17,20,15,10,FHRS,,51.450208,-3.022117
+100267,Happy Cafe,Restaurant/Cafe/Canteen,CF22 9RD,Cardiff,5,2024-05-11,15,0,10,FHRS,,,-3.129367
+100774,New Kitchen,Takeaway/sandwich shop,BS5 8AP,Bristol,Exempt,,,,,FHRS,,,-2.357985
+101080,New Cafe,Mobile caterer,BS18 7NJ,Bristol,0,2022-07-19,10,10,0,FHRS,,51.645545,-2.858199
+100982,Old Stores,School/college/university,CF6 4PP,Cardiff,4,2024-12-11,10,0,0,FHRS,,51.4061,-2.730438
+100473,Harbour Bistro,School/college/university,NP9 1XT,Newport,5,2023-08-29,0,0,0,FHRS,,51.491212,-3.048088
+100555,Green Kitchen,Mobile caterer,BS14 6ER,Bristol,5,2021-03-10,10,0,10,FHRS,,51.477373,-2.818855
+100057,Royal Deli,Takeaway/sandwich shop,NP29 3YN,NEWPORT,AwaitingInspection,1900-01-01,,,,FHRS,,51.583888,-3.140115
+100270,Royal Stores,Takeaway/sandwich shop,NP15 7WL,Newport,2,2021-03-03,20,10,20,FHRS,,51.517695,-2.462189
+101086,New Bistro,Restaurant/Cafe/Canteen,BS25 8YE,Bristol,5,2025-03-26,20,5,20,FHRS,,51.547703,-2.470611
+100620,Station Inn,Retailers - other,NP20 9EW,Newport,5,2021-11-04,20,15,20,FHRS,,51.579135,-2.314786
+100949,Corner Bakery,Takeaway/sandwich shop,,Bristol,4,2024-08-16,10,5,0,FHRS,,51.369357,-2.328412
+100439,Royal Bistro,Restaurant/Cafe/Canteen,CF26 8LD,Cardiff,3,2023-07-16,5,15,0,FHRS,,51.666729,-3.291151
+100088,Harbour Cafe,Restaurant/Cafe/Canteen,BA14 9TP,BANES,4,2021-12-21,15,0,10,FHRS,,51.331676,-2.816107
+101193,Golden Cafe,Retailers - other,BA8 6TF,BANES,5,2021-02-04,20,0,10,FHRS,,51.490092,-2.405076
+100114,New Bistro,Hotel/B&B,BS15 3QF,Bristol,5,2025-01-11,20,15,10,FHRS,,51.54263,-3.152517
+100936,Harbour Express,Restaurant/Cafe/Canteen,CF25 4LY,Cardiff,5,2031-04-17,10,0,5,FHRS,,,-2.684946
+100631,Station Bistro,Mobile caterer,NP10 6DQ,Newport,5,2022-01-04,15,0,0,FHRS,,51.537779,-2.348461
+100938,Royal Kitchen,School/college/university,BA8 4BE,BANES,5,2024-03-12,15,0,5,FHRS,,,-2.929741
+100563,New Diner,Takeaway/sandwich shop,CF26 8QR,Cardiff,5,2022-08-03,10,0,20,FHRS,,,-2.728373
+100493,Green Deli,Restaurant/Cafe/Canteen,,Cardiff,5,2024-12-03,15,0,0,FHRS,,,
+100940,Corner Bakery,Restaurant/Cafe/Canteen,BS21 1AY,Bristol,Exempt,,,,,FHRS,,51.45174,-2.450307
+100283,Royal Diner,Hotel/B&B,NP30 9XB,Newport City Council,4,2021-07-29,10,0,5,FHRS,,51.588106,-3.134428
+100921,Village Diner,Restaurant/Cafe/Canteen,BS18 5YN,Bristol,Exempt,,,,,FHRS,,51.641037,-3.11844
+100369,Corner Inn,Retailers - other,NP21 4QW,Newport City Council,5,2021-06-03,15,10,20,FHRS,,51.662585,
+100874,Golden Diner,Retailers - other,CF18 5WL,Cardiff,5,2025-08-16,20,0,5,FHRS,,51.473245,-3.288858
+101007,Village Bakery,Restaurant/Cafe/Canteen,NP9 7RS,Newport,AwaitingInspection,,,,,FHRS,,51.533928,-3.244931
+100185,Station Kitchen,Pub/bar/nightclub,BS12 7DT,Bristol,5,2022-08-03,10,15,0,FHRS,,51.608639,-2.830236
+100909,Station Deli,Takeaway/sandwich shop,BA6 7WE,Bath and North East Somerset,5,2024-06-24,10,0,5,FHRS,,,-2.618135
+101118,Village Cafe,Retailers - other,CF3 7FU,Cardiff,5,2024-06-29,0,15,20,FHRS,,51.478111,-2.875888
+100782,Happy Diner,Mobile caterer,SA17 8DE,Swansea,4,2021-11-11,15,0,5,FHRS,,51.353615,-3.01683
+101015,Village Express,Retailers - other,SA1 5XE,Swansea,5,2025-04-09,5,0,20,FHRS,,51.45956,-2.486801
+100770,Village Grill,Pub/bar/nightclub,CF18 9JH,Cardiff,5,2024-01-23,10,10,20,FHRS,,51.62463,-2.896701
+100137,Old Inn,Takeaway/sandwich shop,CF24 2BL,Cardiff,3,2021-04-05,5,10,10,FHRS,,51.379799,-2.975081
+100800,New Cafe,Restaurant/Cafe/Canteen,CF20 7SF,Cardiff,5,2021-08-05,15,10,20,FHRS,,51.34673,-3.214306
+101188,Village Inn,Retailers - other,CF17 8RT,Cardiff,5,2023-01-25,5,15,20,FHRS,,51.520232,
+101079,Station Inn,Takeaway/sandwich shop,CF26 8PR,Cardiff,4,2021-02-12,5,15,0,FHRS,,51.321156,-2.604812
+100361,Corner Bakery,Restaurant/Cafe/Canteen,SA12 1DS,Swansea,Exempt,,,,,FHRS,,51.425755,-2.636522
+100373,Old Inn,Retailers - other,cf157we,Cardiff,5,2021-04-17,20,5,10,FHRS,,51.373116,-2.659951
+100906,Station Kitchen,Takeaway/sandwich shop,bs151py,Bristol,5,2023-12-12,15,10,0,FHRS,,51.412749,-2.528174
+100948,New Inn,Restaurant/Cafe/Canteen,BS29 5QR,Bristol,5,2024-07-19,15,5,0,FHRS,,51.412691,-2.361593
+100743,Old Grill,Takeaway/sandwich shop,SA21 2BJ,Swansea,4,2025-01-05,15,0,10,FHRS,,51.448877,-2.334365
+100817,Royal Deli,Pub/bar/nightclub,CF23 2SJ,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.557862,
+100384,New Stores,Retailers - other,BS7 1TG,Bristol,5,2024-05-06,20,10,20,FHRS,,51.478715,-2.536077
+100044,Old Bistro,Takeaway/sandwich shop,NP30 1QL,NEWPORT,2,2022-08-01,15,5,5,FHRS,,51.409554,-3.209011
+100773,Corner Grill,School/college/university,SA26 5LY,Swansea,2,2024-02-15,0,10,10,FHRS,,51.663472,
+101138,Royal Grill,Restaurant/Cafe/Canteen,SA24 9LG,Swansea,5,2021-07-24,10,5,10,FHRS,,51.363985,-2.733538
+100412,Golden Express,Mobile caterer,SA14 9GT,Swansea,4,2023-01-03,5,0,5,FHRS,,51.48912,-2.687653
+100018,Corner Diner,Takeaway/sandwich shop,BS4 7NN,Bristol,5,2021-07-13,10,15,5,FHRS,,,-2.622933
+100657,Harbour Grill,School/college/university,,Swansea,5,2024-06-11,15,0,5,FHRS,,51.366507,-3.275026
+100469,Village Inn,Restaurant/Cafe/Canteen,BS3 2XT,Bristol,5,2022-05-11,10,15,10,FHRS,,51.623076,-2.608314
+100679,Golden Inn,Restaurant/Cafe/Canteen,BA13 9NW,BANES,4,2021-01-21,10,10,20,FHRS,,51.635007,-2.846017
+100636,Happy Inn,Mobile caterer,BS3 8JY,Bristol,5,2025-08-28,5,10,5,FHRS,,51.480238,
+100705,Village Kitchen,Takeaway/sandwich shop,SA21 6JS,Swansea,4,2022-11-14,0,10,20,FHRS,,51.43339,-2.840056
+100202,Corner Grill,Restaurant/Cafe/Canteen,CF5 6SF,Cardiff,5,2024-05-11,15,10,5,FHRS,,51.453659,
+101049,New Grill,Takeaway/sandwich shop,BS23 3FW,Bristol,4,2024-02-15,5,0,0,FHRS,,51.628065,-3.150111
+100518,Happy Deli,Takeaway/sandwich shop,CF11 7ER,Cardiff,Exempt,1900-01-01,,,,FHRS,,51.672987,-2.416251
+100380,Station Cafe,School/college/university,SA10 5FA,Swansea,3,2021-04-15,10,10,20,FHRS,,51.339054,-2.608643
+100376,Village Grill,Restaurant/Cafe/Canteen,BS12 6XR,Bristol,5,2022-03-19,10,15,10,FHRS,,51.467548,-2.654963
+100597,Harbour Bakery,Restaurant/Cafe/Canteen,BA10 6GX,BANES,5,2025-02-04,15,0,0,FHRS,,51.316798,-2.915155
+100780,Happy Bakery,Restaurant/Cafe/Canteen,CF7 7ZU,Cardiff,AwaitingInspection,1900-01-01,,,,FHRS,,51.332628,-2.440174
+100952,Royal Inn,Takeaway/sandwich shop,CF21 6WX,Cardiff,0,2024-11-24,10,5,20,FHRS,,51.554977,-2.636977
+100256,Village Stores,Retailers - other,BA22 9QX,Bath and North East Somerset,4,2025-01-22,0,15,5,FHRS,,51.358591,-3.253782
+100577,Harbour Diner,Restaurant/Cafe/Canteen,CF26 7RU,Cardiff,4,2022-04-23,20,5,5,FHRS,,51.406945,-2.473956
+100589,Golden Bakery,Restaurant/Cafe/Canteen,BS27 3ER,Bristol,5,2024-09-13,15,0,20,FHRS,,51.410421,-3.134846
+101140,New Inn,Restaurant/Cafe/Canteen,NP23 3AR,NEWPORT,5,2024-11-16,20,0,10,FHRS,,51.593485,-2.867383
+100541,Green Bistro,Retailers - other,SA7 9YP,Swansea,1,2025-05-17,0,15,0,FHRS,,51.62628,-2.404193

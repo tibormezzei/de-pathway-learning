@@ -1,0 +1,9 @@
+🚧 This page is undergoing changes and will eventually be removed 🚧 
+
+Here we will share resources for data engineering concepts. 
+
+# General resources
+
+The community that maintains this roadmap appreciates that the skill "technical understanding" seems quite nebulous so we choose to include only two types of resources on this page. The first is a link to a collection of concepts in data engineering, [Data engineering vault](https://www.ssp.sh/brain/data-engineering/). The second is much more unique to the ONS and DGO to be more specific and that is the [Knowledge Hub](https://officenationalstatistics.sharepoint.com/sites/onswiki/SitePages/Data-Knowledge-Hub.aspx). The knowledge hub is "a one stop shop for all things data" in the ONS where readers can find out about not only how data engineering is done on DGO but also where it fits in with all the other professions and roles. These two resources could be considered as covering the working - practitioner levels of the skills framework. 
+
+Expert level in this skill requires horizon scanning or tech watch. A useful place to start regarding keeping abreast of advances data engineering might be to keep an eye on [Google Cloud Release Notes](https://cloud.google.com/release-notes) and [Cloudera release notes](https://docs.cloudera.com/cdp-private-cloud-upgrade/latest/release-guide/topics/cdpdc-release-notes-links.html). It would also be useful to network outside of the ONS to understand how other organisations are using new technology. This could be done by attending local [PyData](https://pydata.org/) events, x-gov data engineering events, or [Google Cloud Events](https://cloud.google.com/events?hl=en).

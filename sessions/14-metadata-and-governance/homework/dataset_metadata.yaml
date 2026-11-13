@@ -1,0 +1,30 @@
+# Dataset-level metadata, loosely based on DCAT / Dublin Core.
+# Fill in every field. Write "unknown: ask <who>" rather than guessing.
+
+title:
+description:                 # 2–3 sentences a non-specialist understands
+publisher:                   # organisation
+contact_point:               # a team mailbox, not a person
+information_asset_owner:     # role
+data_steward:                # role
+keywords: []
+temporal_coverage:
+  start:
+  end:
+update_frequency:
+spatial_coverage:
+unit_of_observation:         # what one row represents
+sources:
+  - name:
+    owner:
+    received:                # how and how often
+lineage: >
+  # source → steps → output, in plain words
+quality_notes: >
+  # known limitations, quarantine, reconciliation
+security_classification:     # e.g. OFFICIAL / OFFICIAL-SENSITIVE
+personal_data:               # yes / no, and why
+disclosure_considerations:
+retention:
+licence:
+version:

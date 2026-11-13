@@ -1,0 +1,42 @@
+title: GP appointments by health board, monthly
+description: >
+  The number of GP appointments recorded each month, and the number of practices
+  reporting, for each health board. Built by combining the appointment system's monthly
+  returns with the practice registry.
+publisher: Office for National Statistics (fictional example)
+contact_point: health.data.engineering@example.gov.uk
+information_asset_owner: Head of Health Analysis (role)
+data_steward: Primary care data lead (role)
+keywords: [health, primary care, GP, appointments, health board]
+temporal_coverage:
+  start: 2026-01
+  end: 2026-06
+update_frequency: monthly
+spatial_coverage: Health boards HB01–HB05 (HB05 from April 2026)
+unit_of_observation: one health board in one month
+sources:
+  - name: Appointment system monthly returns
+    owner: Primary care team
+    received: monthly CSV, one row per practice
+  - name: Practice registry (practices, boards, practice-to-board mapping v1/v2, mergers)
+    owner: Registry team
+    received: on change; versioned mapping files
+lineage: >
+  Appointment returns → practice codes standardised → merged practices mapped to their
+  successor from the effective month → board attached using the mapping version valid
+  for the month → unmatched rows quarantined → summed by board and month.
+quality_notes: >
+  Practice codes in the appointment system are entered by hand. Rows with
+  unrecognised codes are quarantined, not imputed (Jan–Jun 2026: 2 rows, 2,233
+  appointments, 0.5% of the total). Three practices moved to HB05 in April 2026, so
+  board-level trends across March/April are not like-for-like. Appointments are as
+  recorded, and "booked vs attended" is not yet confirmed with the supplier.
+security_classification: OFFICIAL
+personal_data: >
+  No. Counts are at practice level and aggregated to board. No patient or staff data.
+disclosure_considerations: >
+  Board-level appointment counts are large, so the disclosure risk is low. Practice-level
+  outputs would need checking with a DisCO before release.
+retention: Keep monthly outputs indefinitely; keep raw returns for 2 years.
+licence: Open Government Licence v3.0 (once published)
+version: "1.0"

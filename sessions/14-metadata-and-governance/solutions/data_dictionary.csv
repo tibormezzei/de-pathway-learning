@@ -1,0 +1,6 @@
+column_name,data_type,description,nullable,allowed_values,example,source,transformation
+month,string,Calendar month the appointments took place in (yyyy-mm),no,,2026-04,appointments.month (appointment system),Passed through unchanged
+board_code,string,Code of the health board responsible for the practice in that month,no,HB01|HB02|HB03|HB04|HB05,HB05,practice_board_v1 / practice_board_v2 .board_code (registry),"Looked up from the practice-to-board mapping version valid for the month (v1 Jan–Mar 2026, v2 from Apr 2026), after practice codes are standardised and mergers applied"
+board_name,string,Name of the health board,no,North Hills UHB|Bay UHB|Valley UHB|City UHB|Coast UHB,Coast UHB,boards.board_name (registry),Joined on board_code
+appointments,bigint,"Total GP appointments recorded by practices in the board that month. Excludes quarantined records with unrecognised practice codes (see run reconciliation)",no,,16660,appointments.appointments (appointment system),"Cast to integer; summed over practices in the board and month"
+practices,bigint,Number of distinct practices contributing appointments to the board that month (after mergers),no,,7,appointments.org_code (appointment system),"Standardised (trim, upper case, separators removed), merged codes mapped to successor from effective month, then counted distinct"
