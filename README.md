@@ -53,6 +53,20 @@ learning_pathway/
 │       ├── homework/      # take-home task, if this session has one
 │       └── solutions/
 ├── capstone/              # optional end-of-series project (brief, rubric, data, reference solution)
+├── wiki/                  # GENERATED from the slides. Don't edit (see below)
+├── tools/
+│   └── build_wiki.py      # slides.md → wiki/ pages, Home and sidebar
+├── .github/workflows/
+│   └── publish-wiki.yml   # checks wiki/ on PRs, publishes to the GitHub Wiki on merge to main
 └── reference/
     └── ons_de_wiki/       # snapshot of the source wiki
 ```
+
+## The wiki
+
+The GitHub Wiki has one page per session, made from that session's `slides.md`. Speaker notes are left out. `Home.md` and `_Sidebar.md` are built from the modules in `CURRICULUM.md`.
+
+- **Don't edit `wiki/` or the live wiki by hand.** Edit the slides, then run `python tools/build_wiki.py` and commit the regenerated `wiki/` with your change.
+- On a PR, the `publish-wiki` action runs `build_wiki.py --check` and fails if `wiki/` is out of date.
+- On merge to `main`, it rebuilds the pages and replaces the whole live wiki with them, so any edits made directly on GitHub are lost.
+- **One-time setup:** enable the wiki in the repo settings and create any first page in the web UI. GitHub doesn't create the `.wiki.git` repo until then, and the action can't push before it exists.
