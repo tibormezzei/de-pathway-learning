@@ -1,0 +1,21 @@
+station_id,station_name,capacity
+1,Docks North,20
+2,Castle North,20
+3,University North,10
+4,Station North,25
+5,Market North,15
+6,Park North,10
+7,Bay North,15
+8,Hospital North,10
+9,Stadium North,20
+10,Museum North,25
+11,Docks South,15
+12,Castle South,25
+13,University South,10
+14,Station South,15
+15,Market South,10
+16,Park South,15
+17,Bay South,25
+18,Hospital South,20
+19,Stadium South,15
+20,Museum South,25

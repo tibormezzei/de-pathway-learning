@@ -1,0 +1,241 @@
+---
+marp: true
+theme: default
+paginate: true
+header: "DE Learning Sessions · 06"
+footer: "Testing fundamentals"
+---
+
+<!-- _class: lead -->
+<!-- _header: "" -->
+<!-- _footer: "" -->
+
+# Testing fundamentals
+
+Session 06 · Module 2: Quality and reliability
+
+---
+
+## Today
+
+1. Why test?
+2. Kinds of test
+3. pytest basics
+4. Parametrisation, errors and fixtures
+5. Choosing good test cases
+6. Coverage and CI
+7. **Exercise:** test from the spec, find the bugs
+
+---
+
+## Why test?
+
+Without tests:
+> "I changed one line and I'm *pretty sure* nothing else broke."
+
+With tests:
+- **Confidence to change code**: refactor, upgrade Spark, migrate to GCP.
+- **Bugs found in minutes**, not after publication.
+- **Documentation that runs**: tests show exactly what the code should do.
+- **Better design**: hard-to-test code is usually badly structured code.
+
+In statistics production, a wrong number that gets published is **much** more expensive than a test.
+
+---
+
+## Kinds of test
+
+```
+            ▲   End-to-end      whole pipeline, real-ish data     few, slow
+           ▲▲▲  Integration     several parts together, I/O
+         ▲▲▲▲▲▲ Unit            one function, in memory           many, fast
+```
+
+| | Unit | Integration | End-to-end |
+|---|---|---|---|
+| Tests | One function | Components + I/O (files, tables) | The whole pipeline |
+| Speed | Milliseconds | Seconds | Minutes |
+| Tells you | *This* logic is right | The parts fit together | It works for real |
+
+**Most tests should be unit tests.** That's easy if your code is made of small, pure functions (session 03).
+
+---
+
+## pytest basics
+
+```python
+# test_survey_utils.py   ← files named test_*.py
+from survey_utils import normalise_postcode
+
+def test_normalise_postcode_adds_space_and_uppercases():   # ← functions named test_*
+    # Arrange
+    raw = "np108xg"
+    # Act
+    result = normalise_postcode(raw)
+    # Assert
+    assert result == "NP10 8XG"
+```
+
+```bash
+python -m pytest -v
+```
+
+- A plain `assert`, and pytest shows you **both values** when it fails.
+- **One behaviour per test**, with a name that says what it checks.
+
+---
+
+## Reading a failure
+
+```text
+FAILED test_survey_utils.py::test_age_band[64-45-64]
+    def test_age_band(age, expected):
+>       assert age_band(age) == expected
+E       AssertionError: assert '65+' == '45-64'
+E         - 45-64
+E         + 65+
+```
+
+- **Which test** failed, and with **which parameters**
+- The line that failed
+- **Expected vs actual**
+
+Then decide: **is the test wrong, or the code?** The specification is the judge.
+
+---
+
+## Parametrisation: many cases, one test
+
+```python
+import pytest
+
+@pytest.mark.parametrize("age, expected", [
+    (0,  "0-15"),  (15, "0-15"),
+    (16, "16-24"), (24, "16-24"),
+    (64, "45-64"), (65, "65+"),
+])
+def test_age_band(age, expected):
+    assert age_band(age) == expected
+```
+
+Each tuple runs as a **separate test**, so one failure doesn't hide the others.
+
+---
+
+## Testing errors
+
+Errors are part of the specification:
+
+```python
+def test_age_band_rejects_negative_age():
+    with pytest.raises(ValueError, match="negative"):
+        age_band(-1)
+```
+
+- The test **passes** only if that exception is raised.
+- `match=` checks the message (a regex).
+- **Negative tests** (invalid input, edge conditions) catch more real bugs than happy-path tests.
+
+---
+
+## Fixtures: reusable setup
+
+```python
+@pytest.fixture
+def sample_responses():
+    return pd.DataFrame({
+        "case_id": ["C1", "C2", "C2"],
+        "outcome": ["complete", "refusal", "refusal"],
+    })
+
+def test_dedup_removes_repeat_cases(sample_responses):      # ← requested by name
+    assert len(drop_duplicate_cases(sample_responses)) == 2
+```
+
+- pytest **injects** the fixture by matching the argument name.
+- Shared fixtures go in **`conftest.py`**.
+- `scope="session"` creates it once for the whole run, e.g. a SparkSession (session 07).
+
+---
+
+## Choosing good test cases
+
+For `age_band(age)` with bands 0–15, 16–24, 25–44, 45–64, 65+:
+
+| Kind | Examples | Why |
+|---|---|---|
+| Typical | 30, 70 | One per equivalence class |
+| **Boundary** | 15/16, 24/25, 44/45, **64/65** | Off-by-one bugs live here |
+| Edge | 0, 120 | Ends of the range |
+| Negative / error | −1 | Must raise |
+| Awkward input | `" yes "`, `"YES"`, `"\t"` | Real data is messy |
+
+**Read the spec, then list cases, then write tests.** Don't start from the code.
+
+---
+
+## Coverage
+
+```bash
+python -m pytest --cov=survey_utils --cov-report=term-missing
+```
+
+```text
+Name              Stmts   Miss  Cover   Missing
+survey_utils.py      28      2    93%   48, 61
+```
+
+- Coverage shows **which lines no test ran**. That's useful for finding gaps.
+- **100% coverage ≠ correct.** A line can run in a test and still be wrong.
+- Aim for **meaningful** tests on important logic, not a percentage target.
+
+---
+
+## CDP today → GCP tomorrow
+
+| | CDP today | GCP tomorrow |
+|---|---|---|
+| Where tests run | Locally or in a CML session terminal | Locally, and **automatically in CI** |
+| CI | GitLab CI (`.gitlab-ci.yml`) | **GitHub Actions** (`.github/workflows/test.yml`) |
+| Typical gate | Optional, team by team | Tests must pass before merging and before deploying to Dataproc / Composer |
+
+```yaml
+# .github/workflows/test.yml (sketch)
+on: [pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install -r requirements.txt && python -m pytest
+```
+
+**Carries over unchanged:** pytest, everything today. **Really changes:** tests become the **gate** for automated deployment.
+
+---
+
+## Summary
+
+- Tests give you **confidence to change** code.
+- Mostly **unit tests**: fast, small, one behaviour each.
+- pytest: `test_*` functions, plain `assert`, **Arrange–Act–Assert**.
+- **Parametrise** cases, test **errors** with `pytest.raises`, share setup with **fixtures**.
+- Test **boundaries** and **awkward input**. Start from the spec, not the code.
+- Coverage finds gaps, but it **doesn't prove correctness**.
+
+---
+
+## Exercise (20 min, in pairs)
+
+```bash
+python -m pytest -v exercise
+```
+
+- `survey_utils.py` has 4 functions. **The docstrings are the spec.**
+- Write tests until the spec is covered.
+- There are **4 bugs**. Find them with tests, then fix them.
+- Stretch: what coverage did the **buggy** code have?
+
+**Next session:** testing data pipelines and TDD.

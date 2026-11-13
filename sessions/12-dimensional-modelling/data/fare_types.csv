@@ -1,0 +1,6 @@
+fare_type_code,fare_type_name,is_concession
+ADS,Adult single,False
+ADR,Adult return,False
+CHS,Child single,True
+OAP,Older person pass,True
+DAY,Day ticket,False

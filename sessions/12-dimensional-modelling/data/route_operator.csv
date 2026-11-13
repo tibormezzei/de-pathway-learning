@@ -1,0 +1,12 @@
+route_id,route_name,operator_id,valid_from,valid_to
+1,Route 1,OP2,2020-01-01,
+2,Route 2,OP3,2020-01-01,
+3,Route 3,OP1,2020-01-01,
+4,Route 4,OP2,2020-01-01,
+5,Route 5,OP3,2020-01-01,
+6,Route 6,OP1,2020-01-01,
+7,Route 7,OP1,2020-01-01,2026-03-31
+7,Route 7,OP2,2026-04-01,
+8,Route 8,OP3,2020-01-01,
+9,Route 9,OP1,2020-01-01,
+10,Route 10,OP2,2020-01-01,

@@ -1,0 +1,53 @@
+case_id,survey_code,survey_name,period,address_line,postcode,region_code,region_name,interviewer_id,interviewer_name,visit_no,visit_date,outcome_code,outcome_description
+C0001,LFS,Labour Force Survey,2026-03,58 Park Avenue,BS28 4AB,E12,South West,I202,D. Evans,1,2026-03-03,410,No contact
+C0001,LFS,Labour Force Survey,2026-03,58 Park Avenue,BS28 4AB,E12,South West,I202,D. Evans,2,2026-03-06,410,No contact
+C0001,LFS,Labour Force Survey,2026-03,58 Park Avenue,BS28 4AB,E12,South West,I202,D. Evans,3,2026-03-09,410,No contact
+C0001,LFS,Labour Force Survey,2026-03,58 Park Avenue,BS28 4AB,E12,South West,I202,D. Evans,4,2026-03-12,210,Partial interview
+C0002,LFS,Labour Force Survey,2026-03,39 Church Road,CF3 9AB,W92,Wales,I102,B. Patel,1,2026-03-11,510,Ineligible address
+C0003,LFS,Labour Force Survey,2026-03,80 High Street,BS27 9AB,E12,South West,I201,C. Smith,1,2026-03-02,110,Full interview
+C0004,LFS,Labour Force Survey,2026-03,77 High Street,CF25 8AB,W92,Wales,I101,A. Jones,1,2026-03-06,410,No contact
+C0004,LFS,Labour Force Survey,2026-03,77 High Street,CF25 8AB,W92,Wales,I101,A. Jones,2,2026-03-09,410,No contact
+C0004,LFS,Labour Force Survey,2026-03,77 High Street,CF25 8AB,W92,Wales,I101,A. Jones,3,2026-03-12,410,No contact
+C0004,LFS,Labour Force Survey,2026-03,77 High Street,CF25 8AB,W92,Wales,I101,A. Jones,4,2026-03-15,210,Partial interview
+C0005,LFS,Labour Force Survey,2026-03,64 High Street,CF22 2AB,W92,Wales,I102,B. Patel,1,2026-03-08,410,No contact
+C0005,LFS,Labour Force Survey,2026-03,64 High Street,CF22 2AB,W92,Wales,I102,B. Patel,2,2026-03-11,410,No contact
+C0005,LFS,Labour Force Survey,2026-03,64 High Street,CF22 2AB,W92,Wales,I102,B. Patel,3,2026-03-14,510,Ineligible address
+C0006,LFS,Labour Force Survey,2026-03,41 Church Road,CF17 5AB,W92,Wales,I102,B. Patel,1,2026-03-01,110,Full interview
+C0007,LFS,Labour Force Survey,2026-04,109 Mill Lane,BS13 2AB,E12,South West,I201,C. Smith,1,2026-04-01,210,Partial interview
+C0008,LFS,Labour Force Survey,2026-04,61 Station Road,CF23 7AB,W92,Wales,I101,A. Jones,1,2026-04-07,210,Partial interview
+C0009,LFS,Labour Force Survey,2026-04,12 Mill Lane,BS11 1AB,E12,South West,I202,D. Evans,1,2026-04-07,210,Partial interview
+C0010,LFS,Labour Force Survey,2026-04,2 High Street,CF15 8AB,W92,Wales,I101,A. Jones,1,2026-04-03,410,No contact
+C0010,LFS,Labour Force Survey,2026-04,2 High Street,CF15 8AB,W92,Wales,I101,A. Jones,2,2026-04-06,510,Ineligible address
+C0011,LFS,Labour Force Survey,2026-04,54 Station Road,CF4 7AB,W92,Wales,I101,A. Jones,1,2026-04-07,410,No contact
+C0011,LFS,Labour Force Survey,2026-04,54 Station Road,CF4 7AB,W92,Wales,I101,A. Jones,2,2026-04-10,110,Full interview
+C0012,LFS,Labour Force Survey,2026-04,114 High Street,BS7 3AB,E12,South West,I202,D. Evans,1,2026-04-07,110,Full interview
+C0013,LCF,Living Costs and Food Survey,2026-03,57 Mill Lane,CF1 6AB,W92,Wales,I101,A. Jones,1,2026-03-05,410,No contact
+C0013,LCF,Living Costs and Food Survey,2026-03,57 Mill Lane,CF1 6AB,W92,Wales,I101,A. Jones,2,2026-03-08,410,No contact
+C0013,LCF,Living Costs and Food Survey,2026-03,57 Mill Lane,CF1 6AB,W92,Wales,I101,A. Jones,3,2026-03-11,410,No contact
+C0013,LCF,Living Costs and Food Survey,2026-03,57 Mill Lane,CF1 6AB,W92,Wales,I101,A. Jones,4,2026-03-14,110,Full interview
+C0014,LCF,Living Costs and Food Survey,2026-03,27 Park Avenue,CF21 4AB,W92,Wales,I101,A. Jones,1,2026-03-01,410,No contact
+C0014,LCF,Living Costs and Food Survey,2026-03,27 Park Avenue,CF21 4AB,W92,Wales,I101,A. Jones,2,2026-03-04,410,No contact
+C0014,LCF,Living Costs and Food Survey,2026-03,27 Park Avenue,CF21 4AB,W92,Wales,I101,A. Jones,3,2026-03-07,310,Refusal
+C0015,LCF,Living Costs and Food Survey,2026-03,76 Station Road,BS27 3AB,E12,South West,I201,C. Smith,1,2026-03-07,410,No contact
+C0015,LCF,Living Costs and Food Survey,2026-03,76 Station Road,BS27 3AB,E12,South West,I201,C. Smith,2,2026-03-10,210,Partial interview
+C0016,LCF,Living Costs and Food Survey,2026-03,105 Park Avenue,BS8 4AB,E12,South West,I201,C. Smith,1,2026-03-03,410,No contact
+C0016,LCF,Living Costs and Food Survey,2026-03,105 Park Avenue,BS8 4AB,E12,South West,I201,C. Smith,2,2026-03-06,510,Ineligible address
+C0017,LCF,Living Costs and Food Survey,2026-03,54 High Street,BS4 2AB,E12,South West,I201,C. Smith,1,2026-03-01,410,No contact
+C0017,LCF,Living Costs and Food Survey,2026-03,54 High Street,BS4 2AB,E12,South West,I201,C. Smith,2,2026-03-04,410,No contact
+C0017,LCF,Living Costs and Food Survey,2026-03,54 High Street,BS4 2AB,E12,South West,I201,C. Smith,3,2026-03-07,210,Partial interview
+C0018,LCF,Living Costs and Food Survey,2026-03,54 Park Avenue,BS16 5AB,E12,South West,I202,D. Evans,1,2026-03-09,410,No contact
+C0018,LCF,Living Costs and Food Survey,2026-03,54 Park Avenue,BS16 5AB,E12,South West,I202,D. Evans,2,2026-03-12,110,Full interview
+C0019,LCF,Living Costs and Food Survey,2026-04,62 Park Avenue,CF21 2AB,W92,Wales,I101,A. Jones,1,2026-04-05,410,No contact
+C0019,LCF,Living Costs and Food Survey,2026-04,62 Park Avenue,CF21 2AB,W92,Wales,I101,A. Jones,2,2026-04-08,210,Partial interview
+C0020,LCF,Living Costs and Food Survey,2026-04,35 Station Road,CF15 4AB,W92,Wales,I101,A. Jones,1,2026-04-01,210,Partial interview
+C0021,LCF,Living Costs and Food Survey,2026-04,68 Park Avenue,BS5 2AB,E12,South West,I202,D. Evans,1,2026-04-06,410,No contact
+C0021,LCF,Living Costs and Food Survey,2026-04,68 Park Avenue,BS5 2AB,E12,South West,I202,D. Evans,2,2026-04-09,510,Ineligible address
+C0022,LCF,Living Costs and Food Survey,2026-04,76 High Street,BS30 1AB,E12,South West,I201,C. Smith,1,2026-04-08,410,No contact
+C0022,LCF,Living Costs and Food Survey,2026-04,76 High Street,BS30 1AB,E12,South West,I201,C. Smith,2,2026-04-11,410,No contact
+C0022,LCF,Living Costs and Food Survey,2026-04,76 High Street,BS30 1AB,E12,South West,I201,C. Smith,3,2026-04-14,310,Refusal
+C0023,LCF,Living Costs and Food Survey,2026-04,77 High Street,CF16 2AB,W92,Wales,I101,A. Jones,1,2026-04-05,410,No contact
+C0023,LCF,Living Costs and Food Survey,2026-04,77 High Street,CF16 2AB,W92,Wales,I101,A. Jones,2,2026-04-08,410,No contact
+C0023,LCF,Living Costs and Food Survey,2026-04,77 High Street,CF16 2AB,W92,Wales,I101,A. Jones,3,2026-04-11,210,Partial interview
+C0024,LCF,Living Costs and Food Survey,2026-04,58 Park Avenue,CF12 1AB,W92,Wales,I101,A. Jones,1,2026-04-03,410,No contact
+C0024,LCF,Living Costs and Food Survey,2026-04,58 Park Avenue,CF12 1AB,W92,Wales,I101,A. Jones,2,2026-04-06,410,No contact
+C0024,LCF,Living Costs and Food Survey,2026-04,58 Park Avenue,CF12 1AB,W92,Wales,I101,A. Jones,3,2026-04-09,310,Refusal

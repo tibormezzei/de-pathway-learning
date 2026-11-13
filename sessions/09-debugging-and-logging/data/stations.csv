@@ -1,0 +1,12 @@
+Station ID,Station Name,Area,valid_from,valid_to
+S01,Castle Street,North,2020-01-01,
+S02,Docks Road,South,2020-01-01,
+S03,Park Lane,North,2020-01-01,
+S04,Corn Market,Centre,2020-01-01,2026-02-28
+S04,Old Market,Centre,2026-03-01,
+S05,Hospital Gate,North,2020-01-01,
+S06,Bridge End,Centre,2020-01-01,
+S07,Station Square,Centre,2020-01-01,
+S08,Hill Top,South,2020-01-01,
+S09,Riverside,Centre,2020-01-01,
+S10,Ring Road,North,2020-01-01,
